@@ -1,0 +1,1687 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Incidence,Colombia,Male,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,15 to 19,Ischemic heart disease,Number,2019,99.36136086748418,213.80792667307895,14.774492490643048
+Incidence,Colombia,Female,15 to 19,Ischemic heart disease,Number,2019,76.21289701406364,166.36104273562466,10.956040268237915
+Incidence,Colombia,Both,15 to 19,Ischemic heart disease,Number,2019,175.57425788154785,375.60599918217065,35.90147942694401
+Incidence,Colombia,Male,20 to 24,Ischemic heart disease,Number,2019,332.2696415658969,502.6460058258387,201.75586848540217
+Incidence,Colombia,Female,20 to 24,Ischemic heart disease,Number,2019,242.74683559015915,379.52264049448036,137.98046009579278
+Incidence,Colombia,Both,20 to 24,Ischemic heart disease,Number,2019,575.0164771560561,869.7993574876257,351.65211744776707
+Incidence,Colombia,Male,25 to 29,Ischemic heart disease,Number,2019,562.9887442796712,825.5596292282571,339.5334166273327
+Incidence,Colombia,Female,25 to 29,Ischemic heart disease,Number,2019,400.7863383989609,587.1709185369536,237.67767444456658
+Incidence,Colombia,Both,25 to 29,Ischemic heart disease,Number,2019,963.7750826786321,1408.7608024122035,594.0961713350115
+Incidence,Colombia,Male,30 to 34,Ischemic heart disease,Number,2019,711.4571055546971,969.2887892786695,484.60825393698167
+Incidence,Colombia,Female,30 to 34,Ischemic heart disease,Number,2019,458.6798880567968,630.6677576155488,299.4591580734808
+Incidence,Colombia,Both,30 to 34,Ischemic heart disease,Number,2019,1170.136993611494,1576.8461715054934,784.4030090109594
+Incidence,Colombia,Male,35 to 39,Ischemic heart disease,Number,2019,867.3577805827376,1278.84294573407,565.5369270448164
+Incidence,Colombia,Female,35 to 39,Ischemic heart disease,Number,2019,495.5540724434381,773.2827477164242,297.20479732086005
+Incidence,Colombia,Both,35 to 39,Ischemic heart disease,Number,2019,1362.9118530261755,2035.5638712175835,875.2570247710829
+Incidence,Colombia,Male,40 to 44,Ischemic heart disease,Number,2019,1400.3323658160214,1825.697262258055,1050.3464176784385
+Incidence,Colombia,Female,40 to 44,Ischemic heart disease,Number,2019,766.8956792221521,1036.7270063302065,538.3324279939123
+Incidence,Colombia,Both,40 to 44,Ischemic heart disease,Number,2019,2167.228045038173,2847.6211564464215,1595.9174801801998
+Incidence,Colombia,Male,45 to 49,Ischemic heart disease,Number,2019,2365.858621546277,3314.9854999125064,1626.1488381425102
+Incidence,Colombia,Female,45 to 49,Ischemic heart disease,Number,2019,1320.5894414005013,1826.7863017522443,897.2839333277137
+Incidence,Colombia,Both,45 to 49,Ischemic heart disease,Number,2019,3686.448062946779,5074.8171924954295,2526.7811144018406
+Incidence,Colombia,Male,50 to 54,Ischemic heart disease,Number,2019,4064.7076517084793,5211.619237496911,3121.541306503071
+Incidence,Colombia,Female,50 to 54,Ischemic heart disease,Number,2019,2398.4810802275847,3067.4000608428782,1825.132040822495
+Incidence,Colombia,Both,50 to 54,Ischemic heart disease,Number,2019,6463.188731936064,8195.339261247933,5032.630802636328
+Incidence,Colombia,Male,55 to 59,Ischemic heart disease,Number,2019,5787.335097432556,8054.617485656411,3994.559638299784
+Incidence,Colombia,Female,55 to 59,Ischemic heart disease,Number,2019,3587.1330390565554,4992.86058519124,2393.8582065386036
+Incidence,Colombia,Both,55 to 59,Ischemic heart disease,Number,2019,9374.468136489111,12977.521733242562,6462.899792699318
+Incidence,Colombia,Male,60 to 64,Ischemic heart disease,Number,2019,6474.094959241985,8386.785803653449,5006.907066037723
+Incidence,Colombia,Female,60 to 64,Ischemic heart disease,Number,2019,4295.22120341485,5559.797024083619,3277.701967491441
+Incidence,Colombia,Both,60 to 64,Ischemic heart disease,Number,2019,10769.316162656833,13844.679687076521,8385.502228236419
+Incidence,Colombia,Male,65 to 69,Ischemic heart disease,Number,2019,6399.446640306072,8291.511202161591,4704.757988055666
+Incidence,Colombia,Female,65 to 69,Ischemic heart disease,Number,2019,4468.878371807974,5898.750568255622,3154.5197262268016
+Incidence,Colombia,Both,65 to 69,Ischemic heart disease,Number,2019,10868.325012114046,14075.260168130322,7854.450064945995
+Incidence,Colombia,Male,70 to 74,Ischemic heart disease,Number,2019,5838.054356481905,7116.738102742352,4532.3431917657645
+Incidence,Colombia,Female,70 to 74,Ischemic heart disease,Number,2019,4394.180479124927,5429.225531989816,3390.508755908337
+Incidence,Colombia,Both,70 to 74,Ischemic heart disease,Number,2019,10232.234835606832,12453.673155696399,8007.575548644757
+Incidence,Colombia,Male,75 to 79,Ischemic heart disease,Number,2019,4985.691502083414,6410.609621524475,3815.351951648865
+Incidence,Colombia,Female,75 to 79,Ischemic heart disease,Number,2019,4135.297137633329,5464.367859960948,3051.69405933148
+Incidence,Colombia,Both,75 to 79,Ischemic heart disease,Number,2019,9120.988639716745,11736.12461515321,6879.344549167311
+Incidence,Colombia,Male,80 plus,Ischemic heart disease,Number,2019,11599.144460907231,13759.188666446502,9851.674439687646
+Incidence,Colombia,Female,80 plus,Ischemic heart disease,Number,2019,12795.038912299044,14963.404408474502,10881.46645968193
+Incidence,Colombia,Both,80 plus,Ischemic heart disease,Number,2019,24394.183373206273,28588.34591923108,20956.473791308043
+Incidence,Colombia,Male,All Ages,Ischemic heart disease,Number,2019,51488.10028837442,58122.283533279355,45692.33127222543
+Incidence,Colombia,Female,All Ages,Ischemic heart disease,Number,2019,39835.69537569034,45191.130996981934,35089.48077657812
+Incidence,Colombia,Both,All Ages,Ischemic heart disease,Number,2019,91323.79566406476,102931.2417789636,81139.6191759033
+Incidence,Colombia,Male,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,15-49 years,Ischemic heart disease,Number,2019,6339.625620212786,7907.696914187726,5006.20724784869
+Incidence,Colombia,Female,15-49 years,Ischemic heart disease,Number,2019,3761.465152126072,4645.423913860957,2943.4974648162006
+Incidence,Colombia,Both,15-49 years,Ischemic heart disease,Number,2019,10101.090772338855,12451.075333970151,7980.037692369126
+Incidence,Colombia,Male,50-69 years,Ischemic heart disease,Number,2019,22725.584348689095,28293.8946763799,18388.39829449561
+Incidence,Colombia,Female,50-69 years,Ischemic heart disease,Number,2019,14749.713694506965,18263.44563571009,11562.516359125815
+Incidence,Colombia,Both,50-69 years,Ischemic heart disease,Number,2019,37475.29804319605,46511.998466705045,30232.00616794869
+Incidence,Colombia,Male,70+ years,Ischemic heart disease,Number,2019,22422.89031947255,25780.70680661428,19396.119855405566
+Incidence,Colombia,Female,70+ years,Ischemic heart disease,Number,2019,21324.516529057302,24696.239761688033,18116.72784648571
+Incidence,Colombia,Both,70+ years,Ischemic heart disease,Number,2019,43747.40684852985,50232.68119678076,37756.144353063195
+Incidence,Colombia,Male,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,80 to 84,Ischemic heart disease,Number,2019,4456.920497472656,5475.638265027185,3622.1234950561466
+Incidence,Colombia,Female,80 to 84,Ischemic heart disease,Number,2019,4393.324663313912,5384.934554133824,3447.125177422233
+Incidence,Colombia,Both,80 to 84,Ischemic heart disease,Number,2019,8850.24516078657,10801.177807561211,7100.787433838272
+Incidence,Colombia,Male,85 to 89,Ischemic heart disease,Number,2019,3402.343841893976,4249.340044651991,2669.346103854137
+Incidence,Colombia,Female,85 to 89,Ischemic heart disease,Number,2019,3863.7316840029407,4897.497853889918,3006.5299310898904
+Incidence,Colombia,Both,85 to 89,Ischemic heart disease,Number,2019,7266.075525896917,9094.766521708092,5780.67526038149
+Incidence,Colombia,Male,90 to 94,Ischemic heart disease,Number,2019,2351.869137270221,2839.3798633321103,1940.120266557799
+Incidence,Colombia,Female,90 to 94,Ischemic heart disease,Number,2019,2872.1975994001423,3422.8743490738734,2364.8084575265043
+Incidence,Colombia,Both,90 to 94,Ischemic heart disease,Number,2019,5224.066736670363,6223.497919245142,4345.918570830866
+Incidence,Colombia,Male,20 plus,Ischemic heart disease,Number,2019,51388.73892750694,58012.31396182452,45633.06684788115
+Incidence,Colombia,Female,20 plus,Ischemic heart disease,Number,2019,39759.48247867628,45105.92392688674,35021.821064933945
+Incidence,Colombia,Both,20 plus,Ischemic heart disease,Number,2019,91148.22140618319,102748.17717660642,80993.28439031496
+Incidence,Colombia,Male,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,50 to 74 years,Ischemic heart disease,Number,2019,28563.638705170997,34616.72861926178,23564.30862450643
+Incidence,Colombia,Female,50 to 74 years,Ischemic heart disease,Number,2019,19143.894173631892,23156.454858547728,15463.438847779506
+Incidence,Colombia,Both,50 to 74 years,Ischemic heart disease,Number,2019,47707.53287880287,57414.20240878771,39289.22806841425
+Incidence,Colombia,Male,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,25 plus,Ischemic heart disease,Number,2019,51056.46928594104,57643.695452858075,45338.174089649445
+Incidence,Colombia,Female,25 plus,Ischemic heart disease,Number,2019,39516.73564308611,44884.76250803817,34774.734431934645
+Incidence,Colombia,Both,25 plus,Ischemic heart disease,Number,2019,90573.20492902715,102001.66979900686,80330.90230416776
+Incidence,Colombia,Male,<20 years,Ischemic heart disease,Number,2019,99.3613608674842,213.80792667307895,14.77449249064305
+Incidence,Colombia,Female,<20 years,Ischemic heart disease,Number,2019,76.21289701406364,166.36104273562466,10.956040268237915
+Incidence,Colombia,Both,<20 years,Ischemic heart disease,Number,2019,175.57425788154785,375.60599918217065,35.90147942694401
+Incidence,Colombia,Male,10 to 24,Ischemic heart disease,Number,2019,431.6310024333811,698.2399784604794,230.10310956644332
+Incidence,Colombia,Female,10 to 24,Ischemic heart disease,Number,2019,318.95973260422284,531.3700469663013,155.90909263600975
+Incidence,Colombia,Both,10 to 24,Ischemic heart disease,Number,2019,750.5907350376038,1240.8721242157155,411.0649245241208
+Incidence,Colombia,Male,85 plus,Ischemic heart disease,Number,2019,7142.223963434577,8615.687164490337,5904.495256207134
+Incidence,Colombia,Female,85 plus,Ischemic heart disease,Number,2019,8401.714248985132,10000.921488568987,7045.811473190317
+Incidence,Colombia,Both,85 plus,Ischemic heart disease,Number,2019,15543.938212419709,18570.79263515306,13087.890665089946
+Incidence,Colombia,Male,10 to 54,Ischemic heart disease,Number,2019,10404.333271921265,12776.956611250256,8489.521119560786
+Incidence,Colombia,Female,10 to 54,Ischemic heart disease,Number,2019,6159.946232353656,7464.708366812556,5005.305732045142
+Incidence,Colombia,Both,10 to 54,Ischemic heart disease,Number,2019,16564.27950427492,20140.329470192646,13612.259364423071
+Incidence,Colombia,Male,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Female,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Both,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Colombia,Male,5 to 19,Ischemic heart disease,Number,2019,99.36136086748418,213.80792667307892,14.774492490643047
+Incidence,Colombia,Female,5 to 19,Ischemic heart disease,Number,2019,76.21289701406364,166.36104273562466,10.956040268237917
+Incidence,Colombia,Both,5 to 19,Ischemic heart disease,Number,2019,175.57425788154785,375.6059991821707,35.90147942694401
+Incidence,Colombia,Male,15 to 39,Ischemic heart disease,Number,2019,2573.4346328504867,3397.6599621254895,1912.1980870581644
+Incidence,Colombia,Female,15 to 39,Ischemic heart disease,Number,2019,1673.9800315034186,2189.776981784293,1209.8594162301288
+Incidence,Colombia,Both,15 to 39,Ischemic heart disease,Number,2019,4247.414664353905,5537.0143296261895,3160.046270209854
+Incidence,Colombia,Male,25 to 49,Ischemic heart disease,Number,2019,5907.994617779404,7418.0281767549695,4614.587114430631
+Incidence,Colombia,Female,25 to 49,Ischemic heart disease,Number,2019,3442.5054195218495,4274.409338052232,2680.1235355317817
+Incidence,Colombia,Both,25 to 49,Ischemic heart disease,Number,2019,9350.500037301254,11629.766146466454,7287.063395336991
+Incidence,Colombia,Male,55 plus,Ischemic heart disease,Number,2019,41083.76701645316,47246.857321821386,35699.16273167567
+Incidence,Colombia,Female,55 plus,Ischemic heart disease,Number,2019,33675.74914333668,38546.65763026548,29432.314413582888
+Incidence,Colombia,Both,55 plus,Ischemic heart disease,Number,2019,74759.51615978986,85786.10198511086,65782.73470707866
+Incidence,Colombia,Male,60 to 79,Ischemic heart disease,Number,2019,23697.287458113376,28216.71120185415,19906.749365390067
+Incidence,Colombia,Female,60 to 79,Ischemic heart disease,Number,2019,17293.577191981076,20664.831888333265,14052.844399080775
+Incidence,Colombia,Both,60 to 79,Ischemic heart disease,Number,2019,40990.86465009445,48561.909047546134,34031.399214863726
+Incidence,Colombia,Male,65 to 74,Ischemic heart disease,Number,2019,12237.500996787976,15277.804588591205,9427.730041702054
+Incidence,Colombia,Female,65 to 74,Ischemic heart disease,Number,2019,8863.0588509329,11193.978134172368,6667.732893524891
+Incidence,Colombia,Both,65 to 74,Ischemic heart disease,Number,2019,21100.55984772088,26498.103041028295,16108.326879512126
+Incidence,Colombia,Male,75 plus,Ischemic heart disease,Number,2019,16584.835962990648,19499.577818210873,14110.87968136397
+Incidence,Colombia,Female,75 plus,Ischemic heart disease,Number,2019,16930.33604993237,19770.120516141607,14194.510459406712
+Incidence,Colombia,Both,75 plus,Ischemic heart disease,Number,2019,33515.172012923016,38854.29646475074,28260.279860930234
+Incidence,Colombia,Male,95 plus,Ischemic heart disease,Number,2019,1388.0109842703807,1814.9943204967085,1019.8066132417047
+Incidence,Colombia,Female,95 plus,Ischemic heart disease,Number,2019,1665.784965582049,2150.0653168040726,1235.2139626665883
+Incidence,Colombia,Both,95 plus,Ischemic heart disease,Number,2019,3053.7959498524297,3937.886508189432,2255.0767018735337
+Incidence,Colombia,Male,75 to 84,Ischemic heart disease,Number,2019,9442.611999556068,11792.474079857573,7520.008067796998
+Incidence,Colombia,Female,75 to 84,Ischemic heart disease,Number,2019,8528.621800947241,10845.032463771544,6612.1884089522
+Incidence,Colombia,Both,75 to 84,Ischemic heart disease,Number,2019,17971.233800503313,22208.297917965156,14170.5113047335
+Incidence,Colombia,Male,20 to 54 years,Ischemic heart disease,Number,2019,10304.97191105378,12657.604835307373,8399.972326944659
+Incidence,Colombia,Female,20 to 54 years,Ischemic heart disease,Number,2019,6083.7333353395925,7372.500150037611,4917.8064096503285
+Incidence,Colombia,Both,20 to 54 years,Ischemic heart disease,Number,2019,16388.705246393372,19932.990228111197,13403.244157095412
+Incidence,Colombia,Male,55 to 89 years,Ischemic heart disease,Number,2019,37343.88689491256,43377.398824376316,32315.86132414693
+Incidence,Colombia,Female,55 to 89 years,Ischemic heart disease,Number,2019,29137.766578354487,33899.72385719795,24996.138596968765
+Incidence,Colombia,Both,55 to 89 years,Ischemic heart disease,Number,2019,66481.65347326706,77191.59356610659,57259.55308905301
+Incidence,Colombia,Male,60 to 89 years,Ischemic heart disease,Number,2019,31556.55179748001,36659.33760775528,27309.6692239751
+Incidence,Colombia,Female,60 to 89 years,Ischemic heart disease,Number,2019,25550.63353929793,29540.704834810535,21770.666441312223
+Incidence,Colombia,Both,60 to 89 years,Ischemic heart disease,Number,2019,57107.18533677793,65672.4132129663,49123.58445676782
+Incidence,Colombia,Male,65 to 89 years,Ischemic heart disease,Number,2019,25082.456838238024,29118.89697242163,21332.798298932095
+Incidence,Colombia,Female,65 to 89 years,Ischemic heart disease,Number,2019,21255.412335883084,24954.453954820645,17934.708345909832
+Incidence,Colombia,Both,65 to 89 years,Ischemic heart disease,Number,2019,46337.86917412111,53439.64032776831,39560.38577783269
+Incidence,Colombia,Male,70 to 89 years,Ischemic heart disease,Number,2019,18683.01019793195,21864.695586140893,15854.685639302737
+Incidence,Colombia,Female,70 to 89 years,Ischemic heart disease,Number,2019,16786.53396407511,19936.54861411755,13862.58061014645
+Incidence,Colombia,Both,70 to 89 years,Ischemic heart disease,Number,2019,35469.54416200706,41396.89208114772,29844.122760500893
+Incidence,Colombia,Male,75 to 94 years,Ischemic heart disease,Number,2019,15196.824978720266,17986.368016223205,12739.337171804535
+Incidence,Colombia,Female,75 to 94 years,Ischemic heart disease,Number,2019,15264.551084350325,18066.306845143095,12617.844485881269
+Incidence,Colombia,Both,75 to 94 years,Ischemic heart disease,Number,2019,30461.376063070587,35612.6039312171,25550.392275454917
+Incidence,Colombia,Male,<70 years,Ischemic heart disease,Number,2019,29065.209968901876,34901.139594335764,24339.412623807653
+Incidence,Colombia,Female,<70 years,Ischemic heart disease,Number,2019,18511.178846633033,22161.821841278153,15085.24158020759
+Incidence,Colombia,Both,<70 years,Ischemic heart disease,Number,2019,47576.38881553493,56740.300644225885,39576.10701301043
+Incidence,Global,Male,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,15 to 19,Ischemic heart disease,Number,2019,16025.732542181811,32763.922131023653,4492.78423998106
+Incidence,Global,Female,15 to 19,Ischemic heart disease,Number,2019,12960.033688965437,27073.911019606552,3433.231867575863
+Incidence,Global,Both,15 to 19,Ischemic heart disease,Number,2019,28985.766231147252,59786.13054705907,7573.659684090161
+Incidence,Global,Male,20 to 24,Ischemic heart disease,Number,2019,50994.083523425536,75169.23649468849,33372.57479402467
+Incidence,Global,Female,20 to 24,Ischemic heart disease,Number,2019,39807.81321565203,59687.599887734505,24835.975066386927
+Incidence,Global,Both,20 to 24,Ischemic heart disease,Number,2019,90801.89673907757,134211.29741191652,58212.1110264373
+Incidence,Global,Male,25 to 29,Ischemic heart disease,Number,2019,90906.22336871533,130587.55984063254,55056.64749656742
+Incidence,Global,Female,25 to 29,Ischemic heart disease,Number,2019,69561.2853359212,100164.85569368667,42869.467897298884
+Incidence,Global,Both,25 to 29,Ischemic heart disease,Number,2019,160467.5087046365,230783.8988561415,98186.31289487168
+Incidence,Global,Male,30 to 34,Ischemic heart disease,Number,2019,138535.4231022212,180531.70959850517,99078.89668523909
+Incidence,Global,Female,30 to 34,Ischemic heart disease,Number,2019,94777.65459667178,124750.61824655063,65601.17224687616
+Incidence,Global,Both,30 to 34,Ischemic heart disease,Number,2019,233313.07769889294,305072.96708105184,164782.167409495
+Incidence,Global,Male,35 to 39,Ischemic heart disease,Number,2019,177169.04396963428,260476.34253736114,117931.29644029947
+Incidence,Global,Female,35 to 39,Ischemic heart disease,Number,2019,104835.52954672686,154121.2895059865,68766.76958457375
+Incidence,Global,Both,35 to 39,Ischemic heart disease,Number,2019,282004.5735163611,414133.99704450875,190752.28684217882
+Incidence,Global,Male,40 to 44,Ischemic heart disease,Number,2019,357321.168595423,449933.0077255188,276790.69941140537
+Incidence,Global,Female,40 to 44,Ischemic heart disease,Number,2019,168436.89514279534,219104.04287656033,126015.59929196537
+Incidence,Global,Both,40 to 44,Ischemic heart disease,Number,2019,525758.0637382183,667215.024246848,403645.65216987726
+Incidence,Global,Male,45 to 49,Ischemic heart disease,Number,2019,653947.4189597163,851024.5723105755,461846.6912955741
+Incidence,Global,Female,45 to 49,Ischemic heart disease,Number,2019,280313.79561072425,379857.3056317087,195020.05075063888
+Incidence,Global,Both,45 to 49,Ischemic heart disease,Number,2019,934261.2145704407,1228290.9146937649,656911.7105594833
+Incidence,Global,Male,50 to 54,Ischemic heart disease,Number,2019,1084120.7983946071,1337994.9666157716,872602.785214968
+Incidence,Global,Female,50 to 54,Ischemic heart disease,Number,2019,459787.6280095983,583603.8853593522,358740.34742987424
+Incidence,Global,Both,50 to 54,Ischemic heart disease,Number,2019,1543908.4264042054,1924082.404276604,1228175.7435051373
+Incidence,Global,Male,55 to 59,Ischemic heart disease,Number,2019,1520519.7933323716,1999818.4538668778,1114397.3599370592
+Incidence,Global,Female,55 to 59,Ischemic heart disease,Number,2019,647482.0379449561,883690.4604063232,448217.00543396734
+Incidence,Global,Both,55 to 59,Ischemic heart disease,Number,2019,2168001.8312773276,2880351.1409097025,1558902.5069780776
+Incidence,Global,Male,60 to 64,Ischemic heart disease,Number,2019,1751601.185096003,2169411.2848596633,1420016.6751616874
+Incidence,Global,Female,60 to 64,Ischemic heart disease,Number,2019,890478.7036663328,1110493.4450519832,703688.5062128498
+Incidence,Global,Both,60 to 64,Ischemic heart disease,Number,2019,2642079.8887623358,3275528.3954596594,2121356.4721432156
+Incidence,Global,Male,65 to 69,Ischemic heart disease,Number,2019,1775034.7491974058,2213370.0450956286,1344885.5570653363
+Incidence,Global,Female,65 to 69,Ischemic heart disease,Number,2019,1112297.841441,1408976.1240408167,823202.6849770574
+Incidence,Global,Both,65 to 69,Ischemic heart disease,Number,2019,2887332.5906384056,3615589.3549758405,2171446.850991185
+Incidence,Global,Male,70 to 74,Ischemic heart disease,Number,2019,1580015.4098137412,1887009.802145898,1270420.2801983776
+Incidence,Global,Female,70 to 74,Ischemic heart disease,Number,2019,1132398.818992307,1348642.681193281,911758.4515622405
+Incidence,Global,Both,70 to 74,Ischemic heart disease,Number,2019,2712414.228806048,3236687.0088531137,2179414.0535865943
+Incidence,Global,Male,75 to 79,Ischemic heart disease,Number,2019,1278519.9547897114,1665053.6735180716,992953.4784645041
+Incidence,Global,Female,75 to 79,Ischemic heart disease,Number,2019,1086640.895490312,1431843.325149018,835719.7413873671
+Incidence,Global,Both,75 to 79,Ischemic heart disease,Number,2019,2365160.8502800236,3104281.2411439037,1833007.0461095881
+Incidence,Global,Male,80 plus,Ischemic heart disease,Number,2019,2057323.446551545,2417590.907293066,1746197.3237756288
+Incidence,Global,Female,80 plus,Ischemic heart disease,Number,2019,2571665.8537466917,3033388.4194793035,2175765.2463058736
+Incidence,Global,Both,80 plus,Ischemic heart disease,Number,2019,4628989.300298237,5465487.1487369025,3909370.681935406
+Incidence,Global,Male,All Ages,Ischemic heart disease,Number,2019,12532034.431236701,14022524.81017834,11092085.60269311
+Incidence,Global,Female,All Ages,Ischemic heart disease,Number,2019,8671444.786428656,9677404.26905693,7705187.216935856
+Incidence,Global,Both,All Ages,Ischemic heart disease,Number,2019,21203479.217665356,23704123.882632077,18799321.60638408
+Incidence,Global,Male,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,15-49 years,Ischemic heart disease,Number,2019,1484899.0940613176,1825083.410976992,1201569.1618562273
+Incidence,Global,Female,15-49 years,Ischemic heart disease,Number,2019,770693.0071374569,949516.4642981385,614366.4884670784
+Incidence,Global,Both,15-49 years,Ischemic heart disease,Number,2019,2255592.1011987743,2770648.6546491073,1818857.5678437853
+Incidence,Global,Male,50-69 years,Ischemic heart disease,Number,2019,6131276.526020387,7351455.1201443,5068446.676550875
+Incidence,Global,Female,50-69 years,Ischemic heart disease,Number,2019,3110046.2110618874,3761456.569009504,2519905.5710096424
+Incidence,Global,Both,50-69 years,Ischemic heart disease,Number,2019,9241322.73708227,11052816.82266772,7598662.039378292
+Incidence,Global,Male,70+ years,Ischemic heart disease,Number,2019,4915858.811154997,5682561.150312281,4202888.952622907
+Incidence,Global,Female,70+ years,Ischemic heart disease,Number,2019,4790705.568229311,5502232.714284925,4111841.9463833733
+Incidence,Global,Both,70+ years,Ischemic heart disease,Number,2019,9706564.379384309,11173320.896381862,8340867.301383058
+Incidence,Global,Male,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,80 to 84,Ischemic heart disease,Number,2019,1089171.9085014663,1318378.701543856,889450.0083387281
+Incidence,Global,Female,80 to 84,Ischemic heart disease,Number,2019,1112614.1073112946,1347099.4740860297,908816.318604242
+Incidence,Global,Both,80 to 84,Ischemic heart disease,Number,2019,2201786.0158127607,2666866.882494745,1796176.4732969305
+Incidence,Global,Male,85 to 89,Ischemic heart disease,Number,2019,668078.3227615269,827004.120501882,538922.8488483867
+Incidence,Global,Female,85 to 89,Ischemic heart disease,Number,2019,819299.0626753261,1019383.2733937061,649773.1735217358
+Incidence,Global,Both,85 to 89,Ischemic heart disease,Number,2019,1487377.3854368532,1843706.8611597223,1186023.8321290927
+Incidence,Global,Male,90 to 94,Ischemic heart disease,Number,2019,238657.02425039368,290134.82613857917,197430.3610920416
+Incidence,Global,Female,90 to 94,Ischemic heart disease,Number,2019,468189.2800556571,569373.4199620138,389652.4464468083
+Incidence,Global,Both,90 to 94,Ischemic heart disease,Number,2019,706846.3043060508,863319.5873510882,586781.3700643401
+Incidence,Global,Male,20 plus,Ischemic heart disease,Number,2019,12516008.698694522,14002889.791503508,11084296.485375797
+Incidence,Global,Female,20 plus,Ischemic heart disease,Number,2019,8658484.752739688,9673804.088985074,7694579.805789156
+Incidence,Global,Both,20 plus,Ischemic heart disease,Number,2019,21174493.45143421,23670684.463272486,18792555.961893138
+Incidence,Global,Male,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,50 to 74 years,Ischemic heart disease,Number,2019,7711291.935834129,9071997.31284045,6541342.590028566
+Incidence,Global,Female,50 to 74 years,Ischemic heart disease,Number,2019,4242445.030054195,5014527.649887813,3570622.9681387697
+Incidence,Global,Both,50 to 74 years,Ischemic heart disease,Number,2019,11953736.965888321,14107365.674070206,10123997.385342022
+Incidence,Global,Male,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,25 plus,Ischemic heart disease,Number,2019,12465014.615171095,13958695.180887269,11034320.255331576
+Incidence,Global,Female,25 plus,Ischemic heart disease,Number,2019,8618676.939524036,9633703.759204129,7644319.325462116
+Incidence,Global,Both,25 plus,Ischemic heart disease,Number,2019,21083691.554695133,23570617.062153645,18716700.221469272
+Incidence,Global,Male,<20 years,Ischemic heart disease,Number,2019,16025.732542181811,32763.922131023653,4492.78423998106
+Incidence,Global,Female,<20 years,Ischemic heart disease,Number,2019,12960.033688965437,27073.911019606552,3433.231867575863
+Incidence,Global,Both,<20 years,Ischemic heart disease,Number,2019,28985.766231147252,59786.13054705907,7573.65968409016
+Incidence,Global,Male,10 to 24,Ischemic heart disease,Number,2019,67019.81606560735,103586.84407915692,39903.791074781686
+Incidence,Global,Female,10 to 24,Ischemic heart disease,Number,2019,52767.84690461747,85473.32020122814,29898.72790371564
+Incidence,Global,Both,10 to 24,Ischemic heart disease,Number,2019,119787.66297022479,189842.92812741766,70143.08781700215
+Incidence,Global,Male,85 plus,Ischemic heart disease,Number,2019,968151.5380500789,1170524.5172314893,799722.4357423246
+Incidence,Global,Female,85 plus,Ischemic heart disease,Number,2019,1459051.746435397,1756311.487749944,1220549.405704895
+Incidence,Global,Both,85 plus,Ischemic heart disease,Number,2019,2427203.2844854766,2938013.7486884627,2021326.1093366302
+Incidence,Global,Male,Birth,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Birth,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Birth,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,10 to 54,Ischemic heart disease,Number,2019,2569019.8924559243,3073220.9957740703,2129941.2216478568
+Incidence,Global,Female,10 to 54,Ischemic heart disease,Number,2019,1230480.6351470551,1481540.0288621192,1014107.9477568025
+Incidence,Global,Both,10 to 54,Ischemic heart disease,Number,2019,3799500.527602981,4538012.84499886,3142754.9692245494
+Incidence,Global,Male,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,5 to 19,Ischemic heart disease,Number,2019,16025.732542181811,32763.922131023653,4492.78423998106
+Incidence,Global,Female,5 to 19,Ischemic heart disease,Number,2019,12960.033688965437,27073.911019606552,3433.231867575863
+Incidence,Global,Both,5 to 19,Ischemic heart disease,Number,2019,28985.76623114726,59786.13054705909,7573.659684090163
+Incidence,Global,Male,15 to 39,Ischemic heart disease,Number,2019,473630.5065061781,611248.2341231976,361934.338119126
+Incidence,Global,Female,15 to 39,Ischemic heart disease,Number,2019,321942.31638393726,413294.7940495597,243339.16033181714
+Incidence,Global,Both,15 to 39,Ischemic heart disease,Number,2019,795572.8228901154,1024992.09899435,604159.575819581
+Incidence,Global,Male,25 to 49,Ischemic heart disease,Number,2019,1417879.2779957098,1757434.2077796496,1141565.8922844892
+Incidence,Global,Female,25 to 49,Ischemic heart disease,Number,2019,717925.1602328393,890861.5879123592,569004.1203109056
+Incidence,Global,Both,25 to 49,Ischemic heart disease,Number,2019,2135804.4382285494,2633259.613811436,1707224.3934354994
+Incidence,Global,Male,55 plus,Ischemic heart disease,Number,2019,9963014.538780777,11362107.91881983,8697874.087884292
+Incidence,Global,Female,55 plus,Ischemic heart disease,Number,2019,7440964.1512816,8426795.796904549,6504807.173879479
+Incidence,Global,Both,55 plus,Ischemic heart disease,Number,2019,17403978.690062378,19782831.439706553,15189295.971775128
+Incidence,Global,Male,60 to 79,Ischemic heart disease,Number,2019,6385171.298896862,7475306.988808989,5431410.024939823
+Incidence,Global,Female,60 to 79,Ischemic heart disease,Number,2019,4221816.259589952,4930460.663090532,3565754.4402391403
+Incidence,Global,Both,60 to 79,Ischemic heart disease,Number,2019,10606987.558486812,12392086.205297494,8995816.037199268
+Incidence,Global,Male,65 to 74,Ischemic heart disease,Number,2019,3355050.159011147,4090875.2959805615,2666722.1543849446
+Incidence,Global,Female,65 to 74,Ischemic heart disease,Number,2019,2244696.660433307,2732510.658502953,1778103.9581463588
+Incidence,Global,Both,65 to 74,Ischemic heart disease,Number,2019,5599746.819444454,6813396.313423759,4450448.158846185
+Incidence,Global,Male,75 plus,Ischemic heart disease,Number,2019,3335843.401341256,3949284.088625432,2797651.99664512
+Incidence,Global,Female,75 plus,Ischemic heart disease,Number,2019,3658306.749237004,4282220.060212519,3091837.436038182
+Incidence,Global,Both,75 plus,Ischemic heart disease,Number,2019,6994150.15057826,8249365.256135028,5908016.92900506
+Incidence,Global,Male,95 plus,Ischemic heart disease,Number,2019,61416.191038158075,81287.72354175607,43468.04276367441
+Incidence,Global,Female,95 plus,Ischemic heart disease,Number,2019,171563.40370441382,221902.8426849254,124759.61452624363
+Incidence,Global,Both,95 plus,Ischemic heart disease,Number,2019,232979.59474257188,303395.00885105703,168211.24465351834
+Incidence,Global,Male,75 to 84,Ischemic heart disease,Number,2019,2367691.863291178,2983158.451067939,1897550.0061274273
+Incidence,Global,Female,75 to 84,Ischemic heart disease,Number,2019,2199255.0028016074,2765796.5332781803,1754341.154263328
+Incidence,Global,Both,75 to 84,Ischemic heart disease,Number,2019,4566946.866092785,5747983.5903883,3656430.6244109953
+Incidence,Global,Male,20 to 54 years,Ischemic heart disease,Number,2019,2552994.159913743,3062083.369436678,2116428.580237582
+Incidence,Global,Female,20 to 54 years,Ischemic heart disease,Number,2019,1217520.60145809,1468767.855915352,1001362.9033416478
+Incidence,Global,Both,20 to 54 years,Ischemic heart disease,Number,2019,3770514.761371833,4518476.049998226,3099135.4213616294
+Incidence,Global,Male,55 to 89 years,Ischemic heart disease,Number,2019,9662941.323492225,11046015.666120587,8376664.829352994
+Incidence,Global,Female,55 to 89 years,Ischemic heart disease,Number,2019,6801211.467521531,7726685.073741542,5878636.269211745
+Incidence,Global,Both,55 to 89 years,Ischemic heart disease,Number,2019,16464152.791013751,18799357.096620146,14273001.77651973
+Incidence,Global,Male,60 to 89 years,Ischemic heart disease,Number,2019,8142421.530159855,9306452.855625043,7060019.020762868
+Incidence,Global,Female,60 to 89 years,Ischemic heart disease,Number,2019,6153729.429576572,7029270.863567686,5315650.059116754
+Incidence,Global,Both,60 to 89 years,Ischemic heart disease,Number,2019,14296150.959736427,16319638.834264984,12412465.312782994
+Incidence,Global,Male,65 to 89 years,Ischemic heart disease,Number,2019,6390820.345063852,7350937.924810243,5483556.425406167
+Incidence,Global,Female,65 to 89 years,Ischemic heart disease,Number,2019,5263250.72591024,6041187.996174041,4509019.593411732
+Incidence,Global,Both,65 to 89 years,Ischemic heart disease,Number,2019,11654071.070974091,13356517.946791604,9994743.322699491
+Incidence,Global,Male,70 to 89 years,Ischemic heart disease,Number,2019,4615785.595866445,5396505.012627933,3915130.0273308945
+Incidence,Global,Female,70 to 89 years,Ischemic heart disease,Number,2019,4150952.88446924,4847652.575855832,3508044.224974629
+Incidence,Global,Both,70 to 89 years,Ischemic heart disease,Number,2019,8766738.480335686,10234101.221970271,7445273.700601612
+Incidence,Global,Male,75 to 94 years,Ischemic heart disease,Number,2019,3274427.2103030984,3891269.610058775,2737951.791098428
+Incidence,Global,Female,75 to 94 years,Ischemic heart disease,Number,2019,3486743.34553259,4103894.6872500894,2933727.4793682597
+Incidence,Global,Both,75 to 94 years,Ischemic heart disease,Number,2019,6761170.555835688,8002414.96448735,5653796.016382726
+Incidence,Global,Male,<70 years,Ischemic heart disease,Number,2019,7616175.620081705,8834155.58748243,6462039.963854353
+Incidence,Global,Female,<70 years,Ischemic heart disease,Number,2019,3880739.2181993444,4520677.961710706,3249006.718311093
+Incidence,Global,Both,<70 years,Ischemic heart disease,Number,2019,11496914.83828105,13332287.829464952,9716856.035767011
+Incidence,Global,Male,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,15 to 19,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,15 to 19,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,15 to 19,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,20 to 24,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,20 to 24,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,20 to 24,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,25 to 29,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,25 to 29,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,25 to 29,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,30 to 34,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,30 to 34,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,30 to 34,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,35 to 39,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,35 to 39,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,35 to 39,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,40 to 44,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,40 to 44,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,40 to 44,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,45 to 49,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,45 to 49,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,45 to 49,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,50 to 54,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,50 to 54,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,50 to 54,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,55 to 59,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,55 to 59,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,55 to 59,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,60 to 64,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,60 to 64,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,60 to 64,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,65 to 69,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,65 to 69,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,65 to 69,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,70 to 74,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,70 to 74,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,70 to 74,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,75 to 79,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,75 to 79,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,75 to 79,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,80 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,80 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,80 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,All Ages,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,All Ages,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,All Ages,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,15-49 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,15-49 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,15-49 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,50-69 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,50-69 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,50-69 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,70+ years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,70+ years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,70+ years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,80 to 84,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,80 to 84,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,80 to 84,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,85 to 89,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,85 to 89,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,85 to 89,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,90 to 94,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,90 to 94,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,90 to 94,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,20 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,20 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,20 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,50 to 74 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,50 to 74 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,50 to 74 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,25 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,25 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,25 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,<20 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,<20 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,<20 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,10 to 24,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,10 to 24,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,10 to 24,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,85 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,85 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,85 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,Birth,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,Birth,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,Birth,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,10 to 54,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,10 to 54,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,10 to 54,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,5 to 19,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,5 to 19,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,5 to 19,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,15 to 39,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,15 to 39,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,15 to 39,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,25 to 49,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,25 to 49,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,25 to 49,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,55 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,55 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,55 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,60 to 79,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,60 to 79,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,60 to 79,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,65 to 74,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,65 to 74,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,65 to 74,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,75 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,75 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,75 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,95 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,95 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,95 plus,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,75 to 84,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,75 to 84,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,75 to 84,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,20 to 54 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,20 to 54 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,20 to 54 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,55 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,55 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,55 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,60 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,60 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,60 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,65 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,65 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,65 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,70 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,70 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,70 to 89 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,75 to 94 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,75 to 94 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,75 to 94 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Male,<70 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Female,<70 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Global,Both,<70 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,15 to 19,Ischemic heart disease,Number,2019,31.185519983385465,59.1895163527777,9.371013510175821
+Incidence,Sierra Leone,Female,15 to 19,Ischemic heart disease,Number,2019,22.28917240928868,46.79851256487758,3.8333353708132947
+Incidence,Sierra Leone,Both,15 to 19,Ischemic heart disease,Number,2019,53.47469239267414,103.10956601555982,14.74085730714878
+Incidence,Sierra Leone,Male,20 to 24,Ischemic heart disease,Number,2019,88.0630567835801,125.57187442432132,55.896931876760696
+Incidence,Sierra Leone,Female,20 to 24,Ischemic heart disease,Number,2019,62.54108912810501,94.34915489727054,37.667321946834704
+Incidence,Sierra Leone,Both,20 to 24,Ischemic heart disease,Number,2019,150.6041459116851,216.65869922857328,97.09118064283683
+Incidence,Sierra Leone,Male,25 to 29,Ischemic heart disease,Number,2019,135.6147104488266,196.13649688489446,82.54257381340658
+Incidence,Sierra Leone,Female,25 to 29,Ischemic heart disease,Number,2019,92.97553035273182,136.87154432297422,55.16036519407819
+Incidence,Sierra Leone,Both,25 to 29,Ischemic heart disease,Number,2019,228.59024080155842,326.0035061760276,139.47100093792457
+Incidence,Sierra Leone,Male,30 to 34,Ischemic heart disease,Number,2019,160.2870287388404,209.92966784987223,113.33972825666935
+Incidence,Sierra Leone,Female,30 to 34,Ischemic heart disease,Number,2019,108.99145575943204,145.57897842142617,75.25004172294146
+Incidence,Sierra Leone,Both,30 to 34,Ischemic heart disease,Number,2019,269.2784844982724,357.5001826286371,189.7092129587785
+Incidence,Sierra Leone,Male,35 to 39,Ischemic heart disease,Number,2019,163.3592922025949,240.7145792326302,108.22097258474099
+Incidence,Sierra Leone,Female,35 to 39,Ischemic heart disease,Number,2019,108.29553409167605,160.71321935719936,70.6504948167175
+Incidence,Sierra Leone,Both,35 to 39,Ischemic heart disease,Number,2019,271.65482629427095,396.7061523695915,178.81528135209572
+Incidence,Sierra Leone,Male,40 to 44,Ischemic heart disease,Number,2019,241.4417679983878,312.32189607589567,180.74468307355198
+Incidence,Sierra Leone,Female,40 to 44,Ischemic heart disease,Number,2019,152.26440011987648,200.68617074718412,112.57543093332596
+Incidence,Sierra Leone,Both,40 to 44,Ischemic heart disease,Number,2019,393.70616811826426,510.34689030361534,293.5065443887195
+Incidence,Sierra Leone,Male,45 to 49,Ischemic heart disease,Number,2019,338.63798194422213,478.52173343614976,227.819683292929
+Incidence,Sierra Leone,Female,45 to 49,Ischemic heart disease,Number,2019,201.57429531379668,282.24905074108045,138.98794391848804
+Incidence,Sierra Leone,Both,45 to 49,Ischemic heart disease,Number,2019,540.2122772580188,755.1172570700444,371.08879851974984
+Incidence,Sierra Leone,Male,50 to 54,Ischemic heart disease,Number,2019,452.1427148777975,579.0986560427478,345.65423318006935
+Incidence,Sierra Leone,Female,50 to 54,Ischemic heart disease,Number,2019,264.70541976840764,338.79197791580725,200.92453101188323
+Incidence,Sierra Leone,Both,50 to 54,Ischemic heart disease,Number,2019,716.8481346462052,915.2150344622883,546.1436001040759
+Incidence,Sierra Leone,Male,55 to 59,Ischemic heart disease,Number,2019,553.6375888785221,768.1560274433838,370.71417256588995
+Incidence,Sierra Leone,Female,55 to 59,Ischemic heart disease,Number,2019,321.6410671685243,451.1344286101992,212.12947441704776
+Incidence,Sierra Leone,Both,55 to 59,Ischemic heart disease,Number,2019,875.2786560470464,1218.8632871039274,583.5645235118631
+Incidence,Sierra Leone,Male,60 to 64,Ischemic heart disease,Number,2019,620.1791049532345,802.1214312641503,473.024478296242
+Incidence,Sierra Leone,Female,60 to 64,Ischemic heart disease,Number,2019,375.04033005046483,479.1279704699737,283.2175260979285
+Incidence,Sierra Leone,Both,60 to 64,Ischemic heart disease,Number,2019,995.2194350036992,1276.6939209147288,755.6319808731372
+Incidence,Sierra Leone,Male,65 to 69,Ischemic heart disease,Number,2019,635.2358819386349,824.6527032918633,442.50255980608546
+Incidence,Sierra Leone,Female,65 to 69,Ischemic heart disease,Number,2019,416.2377154457786,554.668201496011,284.84344174596725
+Incidence,Sierra Leone,Both,65 to 69,Ischemic heart disease,Number,2019,1051.4735973844136,1365.5409545899254,727.2463951354902
+Incidence,Sierra Leone,Male,70 to 74,Ischemic heart disease,Number,2019,619.1349088793921,765.6411095504548,472.032663263958
+Incidence,Sierra Leone,Female,70 to 74,Ischemic heart disease,Number,2019,458.427745679769,559.4601214377726,350.6789009522218
+Incidence,Sierra Leone,Both,70 to 74,Ischemic heart disease,Number,2019,1077.562654559161,1328.1144001860753,828.5397223884218
+Incidence,Sierra Leone,Male,75 to 79,Ischemic heart disease,Number,2019,557.9726435563392,775.561664662849,403.0530065046824
+Incidence,Sierra Leone,Female,75 to 79,Ischemic heart disease,Number,2019,479.0342522491074,656.9161476756159,347.9986779542474
+Incidence,Sierra Leone,Both,75 to 79,Ischemic heart disease,Number,2019,1037.0068958054464,1422.3501824828459,755.7457693911853
+Incidence,Sierra Leone,Male,80 plus,Ischemic heart disease,Number,2019,614.1741617294329,763.850148582824,488.65509927121565
+Incidence,Sierra Leone,Female,80 plus,Ischemic heart disease,Number,2019,588.5996797685663,726.4656812794068,469.5559158377676
+Incidence,Sierra Leone,Both,80 plus,Ischemic heart disease,Number,2019,1202.7738414979992,1498.5594484030357,960.9717884628317
+Incidence,Sierra Leone,Male,All Ages,Ischemic heart disease,Number,2019,5211.0663629131905,5938.705381469274,4533.872415693758
+Incidence,Sierra Leone,Female,All Ages,Ischemic heart disease,Number,2019,3652.6176873055247,4130.242146725766,3184.4493479228126
+Incidence,Sierra Leone,Both,All Ages,Ischemic heart disease,Number,2019,8863.684050218715,10067.696623091391,7730.641861777604
+Incidence,Sierra Leone,Male,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,15-49 years,Ischemic heart disease,Number,2019,1158.5893580998372,1401.2967886969411,938.8377999065201
+Incidence,Sierra Leone,Female,15-49 years,Ischemic heart disease,Number,2019,748.9314771749067,932.9686225446554,601.4142707273248
+Incidence,Sierra Leone,Both,15-49 years,Ischemic heart disease,Number,2019,1907.520835274744,2332.466603376053,1550.0725135518912
+Incidence,Sierra Leone,Male,50-69 years,Ischemic heart disease,Number,2019,2261.1952906481893,2800.6939166405405,1781.6304583649132
+Incidence,Sierra Leone,Female,50-69 years,Ischemic heart disease,Number,2019,1377.6245324331755,1691.2568583765926,1079.982904969023
+Incidence,Sierra Leone,Both,50-69 years,Ischemic heart disease,Number,2019,3638.8198230813646,4452.297096395884,2856.902315686272
+Incidence,Sierra Leone,Male,70+ years,Ischemic heart disease,Number,2019,1791.281714165164,2205.4537446348386,1447.017021649666
+Incidence,Sierra Leone,Female,70+ years,Ischemic heart disease,Number,2019,1526.0616776974425,1879.061241736718,1234.6990876027314
+Incidence,Sierra Leone,Both,70+ years,Ischemic heart disease,Number,2019,3317.3433918626065,4080.8308312441713,2703.520137974044
+Incidence,Sierra Leone,Male,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,80 to 84,Ischemic heart disease,Number,2019,367.61173202028704,482.505546886642,278.65831967697784
+Incidence,Sierra Leone,Female,80 to 84,Ischemic heart disease,Number,2019,340.8811030611069,445.66290183893653,258.3344431037371
+Incidence,Sierra Leone,Both,80 to 84,Ischemic heart disease,Number,2019,708.4928350813939,921.7784873019747,542.5723089431513
+Incidence,Sierra Leone,Male,85 to 89,Ischemic heart disease,Number,2019,174.11096901053847,231.93359517670282,129.78131755524657
+Incidence,Sierra Leone,Female,85 to 89,Ischemic heart disease,Number,2019,168.62656120372733,220.9804189634605,125.83619227549026
+Incidence,Sierra Leone,Both,85 to 89,Ischemic heart disease,Number,2019,342.7375302142658,447.8202066390104,257.06545666157797
+Incidence,Sierra Leone,Male,90 to 94,Ischemic heart disease,Number,2019,59.96802915204157,79.29561837995823,44.95165255840095
+Incidence,Sierra Leone,Female,90 to 94,Ischemic heart disease,Number,2019,63.55263804015302,83.65508396675088,48.236287237567915
+Incidence,Sierra Leone,Both,90 to 94,Ischemic heart disease,Number,2019,123.52066719219458,162.54623915268454,93.9946210469644
+Incidence,Sierra Leone,Male,20 plus,Ischemic heart disease,Number,2019,5179.880842929806,5905.267686419767,4503.83375857558
+Incidence,Sierra Leone,Female,20 plus,Ischemic heart disease,Number,2019,3630.328514896236,4112.939099757705,3156.201901376192
+Incidence,Sierra Leone,Both,20 plus,Ischemic heart disease,Number,2019,8810.209357826041,10012.464855504768,7688.45613642992
+Incidence,Sierra Leone,Male,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,50 to 74 years,Ischemic heart disease,Number,2019,2880.330199527581,3499.8508627342876,2332.0175404077377
+Incidence,Sierra Leone,Female,50 to 74 years,Ischemic heart disease,Number,2019,1836.0522781129441,2187.4462191563707,1490.6425371055414
+Incidence,Sierra Leone,Both,50 to 74 years,Ischemic heart disease,Number,2019,4716.382477640525,5642.091858735667,3852.9368485357622
+Incidence,Sierra Leone,Male,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,25 plus,Ischemic heart disease,Number,2019,5091.817786146225,5823.5592304759075,4412.647934047549
+Incidence,Sierra Leone,Female,25 plus,Ischemic heart disease,Number,2019,3567.787425768131,4058.5531546337265,3109.7464309176225
+Incidence,Sierra Leone,Both,25 plus,Ischemic heart disease,Number,2019,8659.605211914357,9871.99082792201,7571.201115157352
+Incidence,Sierra Leone,Male,<20 years,Ischemic heart disease,Number,2019,31.185519983385465,59.1895163527777,9.371013510175821
+Incidence,Sierra Leone,Female,<20 years,Ischemic heart disease,Number,2019,22.28917240928868,46.79851256487758,3.8333353708132947
+Incidence,Sierra Leone,Both,<20 years,Ischemic heart disease,Number,2019,53.47469239267414,103.10956601555982,14.74085730714878
+Incidence,Sierra Leone,Male,10 to 24,Ischemic heart disease,Number,2019,119.24857676696557,181.46341774746023,68.41037776863054
+Incidence,Sierra Leone,Female,10 to 24,Ischemic heart disease,Number,2019,84.83026153739368,140.02461077776778,45.032874287293886
+Incidence,Sierra Leone,Both,10 to 24,Ischemic heart disease,Number,2019,204.07883830435927,319.08463349675594,118.19917763115129
+Incidence,Sierra Leone,Male,85 plus,Ischemic heart disease,Number,2019,246.56242970914582,319.5519281266994,186.7522082303045
+Incidence,Sierra Leone,Female,85 plus,Ischemic heart disease,Number,2019,247.71857670745933,318.23829434680874,190.400919505017
+Incidence,Sierra Leone,Both,85 plus,Ischemic heart disease,Number,2019,494.2810064166052,634.7962922481184,378.8715407820823
+Incidence,Sierra Leone,Male,10 to 54,Ischemic heart disease,Number,2019,1610.732072977635,1922.907822368264,1334.2361593382109
+Incidence,Sierra Leone,Female,10 to 54,Ischemic heart disease,Number,2019,1013.6368969433144,1231.0987672079498,834.3152682382354
+Incidence,Sierra Leone,Both,10 to 54,Ischemic heart disease,Number,2019,2624.368969920949,3143.9847937498835,2175.509124076585
+Incidence,Sierra Leone,Male,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Female,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Both,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Incidence,Sierra Leone,Male,5 to 19,Ischemic heart disease,Number,2019,31.185519983385465,59.18951635277771,9.371013510175821
+Incidence,Sierra Leone,Female,5 to 19,Ischemic heart disease,Number,2019,22.28917240928868,46.79851256487758,3.8333353708132942
+Incidence,Sierra Leone,Both,5 to 19,Ischemic heart disease,Number,2019,53.474692392674136,103.1095660155598,14.740857307148778
+Incidence,Sierra Leone,Male,15 to 39,Ischemic heart disease,Number,2019,578.5096081572275,741.3806205806559,442.1847192613933
+Incidence,Sierra Leone,Female,15 to 39,Ischemic heart disease,Number,2019,395.0927817412336,514.5767976309941,292.5623789541163
+Incidence,Sierra Leone,Both,15 to 39,Ischemic heart disease,Number,2019,973.6023898984611,1258.3055812438201,741.9808914794861
+Incidence,Sierra Leone,Male,25 to 49,Ischemic heart disease,Number,2019,1039.340781332872,1273.3573461344843,837.1327638631686
+Incidence,Sierra Leone,Female,25 to 49,Ischemic heart disease,Number,2019,664.1012156375131,830.1841752216043,523.7212639691738
+Incidence,Sierra Leone,Both,25 to 49,Ischemic heart disease,Number,2019,1703.441996970385,2101.256610058169,1370.9980613460227
+Incidence,Sierra Leone,Male,55 plus,Ischemic heart disease,Number,2019,3600.3342899355557,4241.038755543492,2990.81990505355
+Incidence,Sierra Leone,Female,55 plus,Ischemic heart disease,Number,2019,2638.98079036221,3109.4309777770413,2212.419370357923
+Incidence,Sierra Leone,Both,55 plus,Ischemic heart disease,Number,2019,6239.315080297768,7321.675907884689,5240.453045858844
+Incidence,Sierra Leone,Male,60 to 79,Ischemic heart disease,Number,2019,2432.5225393276005,2940.110315488659,1962.8890552826979
+Incidence,Sierra Leone,Female,60 to 79,Ischemic heart disease,Number,2019,1728.7400434251197,2077.0083251364663,1407.6770056398743
+Incidence,Sierra Leone,Both,60 to 79,Ischemic heart disease,Number,2019,4161.26258275272,4987.143248418262,3397.305346531216
+Incidence,Sierra Leone,Male,65 to 74,Ischemic heart disease,Number,2019,1254.3707908180272,1574.73736680051,943.7313334922898
+Incidence,Sierra Leone,Female,65 to 74,Ischemic heart disease,Number,2019,874.6654611255475,1106.2902058922457,658.9853067400909
+Incidence,Sierra Leone,Both,65 to 74,Ischemic heart disease,Number,2019,2129.0362519435744,2671.4374990493357,1620.3474962763946
+Incidence,Sierra Leone,Male,75 plus,Ischemic heart disease,Number,2019,1172.1468052857717,1512.7095883585464,912.8750863549014
+Incidence,Sierra Leone,Female,75 plus,Ischemic heart disease,Number,2019,1067.6339320176735,1363.157625430488,837.1659436348425
+Incidence,Sierra Leone,Both,75 plus,Ischemic heart disease,Number,2019,2239.7807373034457,2859.7636406884853,1763.0437694302998
+Incidence,Sierra Leone,Male,95 plus,Ischemic heart disease,Number,2019,12.483431546565768,18.35492602161284,7.740032001250057
+Incidence,Sierra Leone,Female,95 plus,Ischemic heart disease,Number,2019,15.539377463579006,23.22150507433902,9.637907388380684
+Incidence,Sierra Leone,Both,95 plus,Ischemic heart disease,Number,2019,28.022809010144773,41.55622737043507,17.38105238889092
+Incidence,Sierra Leone,Male,75 to 84,Ischemic heart disease,Number,2019,925.584375576626,1249.8826735600946,703.9645627172533
+Incidence,Sierra Leone,Female,75 to 84,Ischemic heart disease,Number,2019,819.9153553102143,1082.2889227317005,607.3598065760015
+Incidence,Sierra Leone,Both,75 to 84,Ischemic heart disease,Number,2019,1745.4997308868399,2317.2862871963725,1310.566247800458
+Incidence,Sierra Leone,Male,20 to 54 years,Ischemic heart disease,Number,2019,1579.5465529942494,1889.414466190833,1300.313419005303
+Incidence,Sierra Leone,Female,20 to 54 years,Ischemic heart disease,Number,2019,991.3477245340258,1201.3538552959228,810.847329705236
+Incidence,Sierra Leone,Both,20 to 54 years,Ischemic heart disease,Number,2019,2570.894277528275,3082.214220447284,2138.023688245166
+Incidence,Sierra Leone,Male,55 to 89 years,Ischemic heart disease,Number,2019,3527.882829236948,4161.478409157201,2922.5999231594146
+Incidence,Sierra Leone,Female,55 to 89 years,Ischemic heart disease,Number,2019,2559.8887748584784,3024.924575603106,2138.458185239213
+Incidence,Sierra Leone,Both,55 to 89 years,Ischemic heart disease,Number,2019,6087.771604095427,7161.094630512074,5105.229620918199
+Incidence,Sierra Leone,Male,60 to 89 years,Ischemic heart disease,Number,2019,2974.245240358426,3535.604294564417,2457.643844722542
+Incidence,Sierra Leone,Female,60 to 89 years,Ischemic heart disease,Number,2019,2238.247707689954,2653.475237333003,1842.9191350294757
+Incidence,Sierra Leone,Both,60 to 89 years,Ischemic heart disease,Number,2019,5212.492948048379,6199.099848499934,4340.988211087979
+Incidence,Sierra Leone,Male,65 to 89 years,Ischemic heart disease,Number,2019,2354.0661354051913,2822.867713614302,1899.2092951513064
+Incidence,Sierra Leone,Female,65 to 89 years,Ischemic heart disease,Number,2019,1863.207377639489,2242.1120009301335,1501.4455943824175
+Incidence,Sierra Leone,Both,65 to 89 years,Ischemic heart disease,Number,2019,4217.273513044681,5057.4298424543895,3413.119028305818
+Incidence,Sierra Leone,Male,70 to 89 years,Ischemic heart disease,Number,2019,1718.8302534665568,2133.071124566102,1366.4975824283179
+Incidence,Sierra Leone,Female,70 to 89 years,Ischemic heart disease,Number,2019,1446.9696621937105,1793.5982904102761,1155.5654998604905
+Incidence,Sierra Leone,Both,70 to 89 years,Ischemic heart disease,Number,2019,3165.7999156602664,3925.528652768698,2550.0147759867386
+Incidence,Sierra Leone,Male,75 to 94 years,Ischemic heart disease,Number,2019,1159.6633737392062,1500.6148191103218,901.6086846813392
+Incidence,Sierra Leone,Female,75 to 94 years,Ischemic heart disease,Number,2019,1052.0945545540947,1350.1134522020293,822.599893923705
+Incidence,Sierra Leone,Both,75 to 94 years,Ischemic heart disease,Number,2019,2211.7579282933007,2833.837266866334,1736.8266962016728
+Incidence,Sierra Leone,Male,<70 years,Ischemic heart disease,Number,2019,3419.784648748026,3993.91544136468,2867.6040246319653
+Incidence,Sierra Leone,Female,<70 years,Ischemic heart disease,Number,2019,2126.556009608082,2470.9463636050355,1783.278371100385
+Incidence,Sierra Leone,Both,<70 years,Ischemic heart disease,Number,2019,5546.34065835611,6461.979925655895,4657.695992643567
+Prevalence,Global,Male,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,15 to 19,Ischemic heart disease,Number,2019,46672.02323378341,62656.30960072552,33099.470604638955
+Prevalence,Global,Female,15 to 19,Ischemic heart disease,Number,2019,43844.369009551236,58718.084590718805,31512.229365586845
+Prevalence,Global,Both,15 to 19,Ischemic heart disease,Number,2019,90516.39224333465,121018.07100044028,64789.13114715542
+Prevalence,Global,Male,20 to 24,Ischemic heart disease,Number,2019,128362.32716903814,161956.59336130726,100172.82286590151
+Prevalence,Global,Female,20 to 24,Ischemic heart disease,Number,2019,112791.50477814265,143027.95183520432,86899.78403909795
+Prevalence,Global,Both,20 to 24,Ischemic heart disease,Number,2019,241153.83194718082,305356.7504498492,186511.42165934067
+Prevalence,Global,Male,25 to 29,Ischemic heart disease,Number,2019,401833.7318812837,484468.08565407904,329669.17929719214
+Prevalence,Global,Female,25 to 29,Ischemic heart disease,Number,2019,333685.7599857843,396165.126718471,275197.31593815057
+Prevalence,Global,Both,25 to 29,Ischemic heart disease,Number,2019,735519.4918670678,878316.7755283306,604111.9442129052
+Prevalence,Global,Male,30 to 34,Ischemic heart disease,Number,2019,911044.1091393891,1097247.5734964428,746837.9767975115
+Prevalence,Global,Female,30 to 34,Ischemic heart disease,Number,2019,722753.5673513901,872574.7512316569,594910.4163520235
+Prevalence,Global,Both,30 to 34,Ischemic heart disease,Number,2019,1633797.6764907793,1965563.34149035,1343404.1804585985
+Prevalence,Global,Male,35 to 39,Ischemic heart disease,Number,2019,1601384.8440425883,1941646.0486678393,1333358.0763669135
+Prevalence,Global,Female,35 to 39,Ischemic heart disease,Number,2019,1173945.526476361,1414120.376580615,978557.9991276005
+Prevalence,Global,Both,35 to 39,Ischemic heart disease,Number,2019,2775330.370518949,3363363.697954226,2314013.925038478
+Prevalence,Global,Male,40 to 44,Ischemic heart disease,Number,2019,2795688.2126398715,3378418.367316419,2339418.579476529
+Prevalence,Global,Female,40 to 44,Ischemic heart disease,Number,2019,1895918.150602431,2298370.8812226476,1580218.5351481624
+Prevalence,Global,Both,40 to 44,Ischemic heart disease,Number,2019,4691606.363242302,5695311.511079396,3932102.080759118
+Prevalence,Global,Male,45 to 49,Ischemic heart disease,Number,2019,5034437.878584348,5911424.492563395,4285016.742546197
+Prevalence,Global,Female,45 to 49,Ischemic heart disease,Number,2019,3179978.839845891,3806244.5428134184,2684417.8824457657
+Prevalence,Global,Both,45 to 49,Ischemic heart disease,Number,2019,8214416.718430239,9692030.427831966,6949055.301044631
+Prevalence,Global,Male,50 to 54,Ischemic heart disease,Number,2019,8174546.913542929,9716672.184778495,6965581.73147377
+Prevalence,Global,Female,50 to 54,Ischemic heart disease,Number,2019,4959600.380750735,6042086.821011251,4170622.7887498313
+Prevalence,Global,Both,50 to 54,Ischemic heart disease,Number,2019,13134147.294293664,15764870.562014692,11115427.225413214
+Prevalence,Global,Male,55 to 59,Ischemic heart disease,Number,2019,11697724.670997042,13634930.522552053,10133387.10262245
+Prevalence,Global,Female,55 to 59,Ischemic heart disease,Number,2019,6867474.2128567565,8139131.55072976,5839886.054775744
+Prevalence,Global,Both,55 to 59,Ischemic heart disease,Number,2019,18565198.8838538,21712415.97397497,15970836.536463238
+Prevalence,Global,Male,60 to 64,Ischemic heart disease,Number,2019,15217451.526573436,17842179.689297237,13030807.194751274
+Prevalence,Global,Female,60 to 64,Ischemic heart disease,Number,2019,9162540.274935398,11012312.16908929,7669813.36166945
+Prevalence,Global,Both,60 to 64,Ischemic heart disease,Number,2019,24379991.801508836,28909240.803556804,20718057.74599654
+Prevalence,Global,Male,65 to 69,Ischemic heart disease,Number,2019,18723840.36738994,21612850.779175825,16242672.125028666
+Prevalence,Global,Female,65 to 69,Ischemic heart disease,Number,2019,12261939.110584302,14447243.739266403,10481145.578873694
+Prevalence,Global,Both,65 to 69,Ischemic heart disease,Number,2019,30985779.477974247,36063113.8821026,26691979.343313597
+Prevalence,Global,Male,70 to 74,Ischemic heart disease,Number,2019,17523077.81884618,20043446.289531432,15259138.007869659
+Prevalence,Global,Female,70 to 74,Ischemic heart disease,Number,2019,12334931.710643409,14432766.173681952,10480200.082011063
+Prevalence,Global,Both,70 to 74,Ischemic heart disease,Number,2019,29858009.529489588,34498475.63079513,25746811.08230654
+Prevalence,Global,Male,75 to 79,Ischemic heart disease,Number,2019,14313894.016005052,16322452.167327674,12497740.28549963
+Prevalence,Global,Female,75 to 79,Ischemic heart disease,Number,2019,11534617.579993958,13362841.400556127,9901666.132053534
+Prevalence,Global,Both,75 to 79,Ischemic heart disease,Number,2019,25848511.59599901,29629888.09867932,22407012.676723834
+Prevalence,Global,Male,80 plus,Ischemic heart disease,Number,2019,17080822.37751901,19531884.950797316,15044324.429650448
+Prevalence,Global,Female,80 plus,Ischemic heart disease,Number,2019,18984648.002375845,21962962.25938946,16624768.307136899
+Prevalence,Global,Both,80 plus,Ischemic heart disease,Number,2019,36065470.37989485,41453335.90808641,31637005.123621564
+Prevalence,Global,Male,All Ages,Ischemic heart disease,Number,2019,113650780.8175639,126035009.86954674,102282038.22439483
+Prevalence,Global,Female,All Ages,Ischemic heart disease,Number,2019,83568668.99018995,93579949.15479185,74700049.47554468
+Prevalence,Global,Both,All Ages,Ischemic heart disease,Number,2019,197219449.80775383,219501074.4942616,177688201.28184822
+Prevalence,Global,Male,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,15-49 years,Ischemic heart disease,Number,2019,10919423.126690304,12804025.4622009,9420468.185667252
+Prevalence,Global,Female,15-49 years,Ischemic heart disease,Number,2019,7462917.718049551,8810996.715056922,6399869.340093921
+Prevalence,Global,Both,15-49 years,Ischemic heart disease,Number,2019,18382340.844739854,21561157.217728533,15831200.600334125
+Prevalence,Global,Male,50-69 years,Ischemic heart disease,Number,2019,53813563.47850335,61540588.64788616,47060274.782398514
+Prevalence,Global,Female,50-69 years,Ischemic heart disease,Number,2019,33251553.97912719,38822254.697422825,28680040.518917974
+Prevalence,Global,Both,50-69 years,Ischemic heart disease,Number,2019,87065117.45763052,100308317.79759492,75829901.48730257
+Prevalence,Global,Male,70+ years,Ischemic heart disease,Number,2019,48917794.21237024,55192991.57787669,43362242.959958486
+Prevalence,Global,Female,70+ years,Ischemic heart disease,Number,2019,42854197.293013215,48743610.47239184,37420161.595017746
+Prevalence,Global,Both,70+ years,Ischemic heart disease,Number,2019,91771991.50538345,104020816.90884611,80795560.6892185
+Prevalence,Global,Male,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,80 to 84,Ischemic heart disease,Number,2019,10202106.287273036,11833996.763700979,8849088.028508868
+Prevalence,Global,Female,80 to 84,Ischemic heart disease,Number,2019,9964296.483415704,11783330.709093371,8535728.354545781
+Prevalence,Global,Both,80 to 84,Ischemic heart disease,Number,2019,20166402.770688742,23623835.80654658,17402962.405841053
+Prevalence,Global,Male,85 to 89,Ischemic heart disease,Number,2019,4979536.197212518,5751428.964805494,4334980.382235741
+Prevalence,Global,Female,85 to 89,Ischemic heart disease,Number,2019,5804440.68962219,6769244.608190061,5005107.301462914
+Prevalence,Global,Both,85 to 89,Ischemic heart disease,Number,2019,10783976.886834707,12499620.50907617,9346015.253054941
+Prevalence,Global,Male,90 to 94,Ischemic heart disease,Number,2019,1560054.7863488889,1823778.087091453,1314930.527114169
+Prevalence,Global,Female,90 to 94,Ischemic heart disease,Number,2019,2494936.546663851,2920953.8541598665,2080911.1674055639
+Prevalence,Global,Both,90 to 94,Ischemic heart disease,Number,2019,4054991.3330127397,4743359.487113262,3394435.820720979
+Prevalence,Global,Male,20 plus,Ischemic heart disease,Number,2019,113604108.7943301,125999946.19725256,102238977.80824098
+Prevalence,Global,Female,20 plus,Ischemic heart disease,Number,2019,83524824.62118042,93541127.9352374,74669329.13714527
+Prevalence,Global,Both,20 plus,Ischemic heart disease,Number,2019,197128933.41551057,219426602.35643777,177605469.41717273
+Prevalence,Global,Male,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,50 to 74 years,Ischemic heart disease,Number,2019,71336641.29734953,81094926.66577354,62759747.52109974
+Prevalence,Global,Female,50 to 74 years,Ischemic heart disease,Number,2019,45586485.6897706,52657143.76072703,39562898.03188396
+Prevalence,Global,Both,50 to 74 years,Ischemic heart disease,Number,2019,116923126.9871201,133697603.9575238,102481986.38883826
+Prevalence,Global,Male,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,25 plus,Ischemic heart disease,Number,2019,113475746.46716107,125893038.39612055,102115402.88003577
+Prevalence,Global,Female,25 plus,Ischemic heart disease,Number,2019,83412033.11640225,93420446.90106967,74580460.99158612
+Prevalence,Global,Both,25 plus,Ischemic heart disease,Number,2019,196887779.58356333,219180783.01453793,177375511.644416
+Prevalence,Global,Male,<20 years,Ischemic heart disease,Number,2019,46672.02323378341,62656.30960072552,33099.470604638955
+Prevalence,Global,Female,<20 years,Ischemic heart disease,Number,2019,43844.36900955124,58718.084590718805,31512.22936558685
+Prevalence,Global,Both,<20 years,Ischemic heart disease,Number,2019,90516.39224333465,121018.07100044028,64789.13114715543
+Prevalence,Global,Male,10 to 24,Ischemic heart disease,Number,2019,175034.35040282155,221268.99359168945,134838.67815826263
+Prevalence,Global,Female,10 to 24,Ischemic heart disease,Number,2019,156635.8737876939,199206.1639747686,120043.36077005789
+Prevalence,Global,Both,10 to 24,Ischemic heart disease,Number,2019,331670.2241905154,420121.7936023822,254891.3274974773
+Prevalence,Global,Male,85 plus,Ischemic heart disease,Number,2019,6878716.0902459705,7891009.178251399,5982949.095946085
+Prevalence,Global,Female,85 plus,Ischemic heart disease,Number,2019,9020351.51896014,10453112.3872392,7801250.929487162
+Prevalence,Global,Both,85 plus,Ischemic heart disease,Number,2019,15899067.609206114,18318752.8745865,13807863.767670276
+Prevalence,Global,Male,10 to 54,Ischemic heart disease,Number,2019,19093970.040233232,22063320.754064187,16606542.235758925
+Prevalence,Global,Female,10 to 54,Ischemic heart disease,Number,2019,12422518.098800285,14580021.901078336,10725177.448740039
+Prevalence,Global,Both,10 to 54,Ischemic heart disease,Number,2019,31516488.139033522,36651574.44307194,27376252.80846052
+Prevalence,Global,Male,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,5 to 19,Ischemic heart disease,Number,2019,46672.02323378341,62656.30960072552,33099.470604638955
+Prevalence,Global,Female,5 to 19,Ischemic heart disease,Number,2019,43844.36900955124,58718.0845907188,31512.22936558685
+Prevalence,Global,Both,5 to 19,Ischemic heart disease,Number,2019,90516.39224333467,121018.07100044032,64789.13114715544
+Prevalence,Global,Male,15 to 39,Ischemic heart disease,Number,2019,3089297.0354660824,3692094.6827220996,2589301.72186449
+Prevalence,Global,Female,15 to 39,Ischemic heart disease,Number,2019,2387020.727601229,2850057.3121771277,2005555.260544791
+Prevalence,Global,Both,15 to 39,Ischemic heart disease,Number,2019,5476317.763067312,6524256.1531795785,4588620.658077608
+Prevalence,Global,Male,25 to 49,Ischemic heart disease,Number,2019,10744388.776287481,12595447.754294287,9273570.455004875
+Prevalence,Global,Female,25 to 49,Ischemic heart disease,Number,2019,7306281.844261858,8646864.611054854,6254299.9515562635
+Prevalence,Global,Both,25 to 49,Ischemic heart disease,Number,2019,18050670.620549336,21254746.29235912,15551940.281922419
+Prevalence,Global,Male,55 plus,Ischemic heart disease,Number,2019,94556810.77733065,106072556.18732807,84135248.15864165
+Prevalence,Global,Female,55 plus,Ischemic heart disease,Number,2019,71146150.89138967,80409405.16666673,62822254.22032666
+Prevalence,Global,Both,55 plus,Ischemic heart disease,Number,2019,165702961.66872033,186382461.9624603,147337390.19283718
+Prevalence,Global,Male,60 to 79,Ischemic heart disease,Number,2019,65778263.72881461,74754864.6771849,58016141.54403935
+Prevalence,Global,Female,60 to 79,Ischemic heart disease,Number,2019,45294028.676157065,52386933.17940915,39385541.15381112
+Prevalence,Global,Both,60 to 79,Ischemic heart disease,Number,2019,111072292.40497167,127113101.80232374,97524555.56564674
+Prevalence,Global,Male,65 to 74,Ischemic heart disease,Number,2019,36246918.18623612,41461813.07062282,31746814.038004108
+Prevalence,Global,Female,65 to 74,Ischemic heart disease,Number,2019,24596870.821227714,28703446.797819283,21159805.428759478
+Prevalence,Global,Both,65 to 74,Ischemic heart disease,Number,2019,60843789.007463835,70010941.10054946,52989272.25315666
+Prevalence,Global,Male,75 plus,Ischemic heart disease,Number,2019,31394716.39352406,35589133.586380996,27612547.149300873
+Prevalence,Global,Female,75 plus,Ischemic heart disease,Number,2019,30519265.582369804,35004370.437197804,26713327.295309246
+Prevalence,Global,Both,75 plus,Ischemic heart disease,Number,2019,61913981.97589386,70568431.42688583,54327935.53239129
+Prevalence,Global,Male,95 plus,Ischemic heart disease,Number,2019,339125.1066845637,408590.64052916516,283507.99555902486
+Prevalence,Global,Female,95 plus,Ischemic heart disease,Number,2019,720974.2826741011,870402.172671452,602964.6660454869
+Prevalence,Global,Both,95 plus,Ischemic heart disease,Number,2019,1060099.389358665,1272297.1642938203,885918.9628464109
+Prevalence,Global,Male,75 to 84,Ischemic heart disease,Number,2019,24516000.303278092,27899024.855373964,21475220.807050034
+Prevalence,Global,Female,75 to 84,Ischemic heart disease,Number,2019,21498914.06340966,24895123.081167005,18531917.95895652
+Prevalence,Global,Both,75 to 84,Ischemic heart disease,Number,2019,46014914.366687745,52743085.19263059,40054734.6662721
+Prevalence,Global,Male,20 to 54 years,Ischemic heart disease,Number,2019,19047298.01699945,22023433.353753235,16556704.620308602
+Prevalence,Global,Female,20 to 54 years,Ischemic heart disease,Number,2019,12378673.729790736,14537430.579299262,10678466.003241504
+Prevalence,Global,Both,20 to 54 years,Ischemic heart disease,Number,2019,31425971.746790186,36562206.12090754,27282410.569009062
+Prevalence,Global,Male,55 to 89 years,Ischemic heart disease,Number,2019,92657630.8842972,103918092.16343062,82335078.98705347
+Prevalence,Global,Female,55 to 89 years,Ischemic heart disease,Number,2019,67930240.06205171,77337698.62730795,59810173.043470666
+Prevalence,Global,Both,55 to 89 years,Ischemic heart disease,Number,2019,160587870.94634888,181111280.2543948,142435848.1496602
+Prevalence,Global,Male,60 to 89 years,Ischemic heart disease,Number,2019,80959906.21330017,91266608.83791512,71852342.29913314
+Prevalence,Global,Female,60 to 89 years,Ischemic heart disease,Number,2019,61062765.84919496,69826717.02900198,53586815.85273448
+Prevalence,Global,Both,60 to 89 years,Ischemic heart disease,Number,2019,142022672.0624951,160840841.24313307,125462924.0034364
+Prevalence,Global,Male,65 to 89 years,Ischemic heart disease,Number,2019,65742454.68672672,74079434.92455529,58418209.17993284
+Prevalence,Global,Female,65 to 89 years,Ischemic heart disease,Number,2019,51900225.57425956,59222888.88081762,45517404.4900841
+Prevalence,Global,Both,65 to 89 years,Ischemic heart disease,Number,2019,117642680.2609863,133319982.30750136,103952927.38082322
+Prevalence,Global,Male,70 to 89 years,Ischemic heart disease,Number,2019,47018614.319336794,53324517.364361346,41527419.09977341
+Prevalence,Global,Female,70 to 89 years,Ischemic heart disease,Number,2019,39638286.46367525,45275682.09024921,34525691.737892486
+Prevalence,Global,Both,70 to 89 years,Ischemic heart disease,Number,2019,86656900.78301205,98661946.86111896,76126909.16579202
+Prevalence,Global,Male,75 to 94 years,Ischemic heart disease,Number,2019,31055591.286839493,35213392.88783748,27316792.123718984
+Prevalence,Global,Female,75 to 94 years,Ischemic heart disease,Number,2019,29798291.2996957,34132833.86217261,26025815.303522862
+Prevalence,Global,Both,75 to 94 years,Ischemic heart disease,Number,2019,60853882.58653519,69402476.46398233,53327514.19940341
+Prevalence,Global,Male,<70 years,Ischemic heart disease,Number,2019,64732986.60519365,73402948.94745176,57138846.266659945
+Prevalence,Global,Female,<70 years,Ischemic heart disease,Number,2019,40714471.69717674,47263715.91342513,35709740.787338816
+Prevalence,Global,Both,<70 years,Ischemic heart disease,Number,2019,105447458.3023704,121017041.66868702,92867519.86406313
+Prevalence,Colombia,Male,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,15 to 19,Ischemic heart disease,Number,2019,230.30634233778267,328.2591932743818,153.2455227165926
+Prevalence,Colombia,Female,15 to 19,Ischemic heart disease,Number,2019,235.20969403783792,329.96329102251417,156.13503678822914
+Prevalence,Colombia,Both,15 to 19,Ischemic heart disease,Number,2019,465.51603637562056,655.1567069559053,316.3462310199413
+Prevalence,Colombia,Male,20 to 24,Ischemic heart disease,Number,2019,633.4383189806407,820.4585421624128,481.2817529632245
+Prevalence,Colombia,Female,20 to 24,Ischemic heart disease,Number,2019,624.6552288144356,819.3459048086225,463.4975198410101
+Prevalence,Colombia,Both,20 to 24,Ischemic heart disease,Number,2019,1258.0935477950763,1639.7131987892258,954.2640005614451
+Prevalence,Colombia,Male,25 to 29,Ischemic heart disease,Number,2019,1839.5303015959155,2240.1174712041898,1490.7717238776493
+Prevalence,Colombia,Female,25 to 29,Ischemic heart disease,Number,2019,1716.6656885759915,2057.8725622403954,1436.2996549727814
+Prevalence,Colombia,Both,25 to 29,Ischemic heart disease,Number,2019,3556.1959901719065,4264.753437377858,2959.2774072238867
+Prevalence,Colombia,Male,30 to 34,Ischemic heart disease,Number,2019,3713.4326643373656,4500.540183385227,3032.3389762978195
+Prevalence,Colombia,Female,30 to 34,Ischemic heart disease,Number,2019,3272.180618241004,3902.1605646342755,2741.4699577346933
+Prevalence,Colombia,Both,30 to 34,Ischemic heart disease,Number,2019,6985.61328257837,8393.99062708737,5859.853518863877
+Prevalence,Colombia,Male,35 to 39,Ischemic heart disease,Number,2019,7028.37367960819,8600.101748061728,5815.782000834168
+Prevalence,Colombia,Female,35 to 39,Ischemic heart disease,Number,2019,5725.128383727463,6902.769584225902,4797.771259814521
+Prevalence,Colombia,Both,35 to 39,Ischemic heart disease,Number,2019,12753.50206333565,15464.453507276092,10684.24442480772
+Prevalence,Colombia,Male,40 to 44,Ischemic heart disease,Number,2019,11594.331661848586,14024.283011166646,9693.345065621686
+Prevalence,Colombia,Female,40 to 44,Ischemic heart disease,Number,2019,8681.396977768169,10597.22221784873,7224.823368055405
+Prevalence,Colombia,Both,40 to 44,Ischemic heart disease,Number,2019,20275.728639616755,24416.1727700259,16963.54813083273
+Prevalence,Colombia,Male,45 to 49,Ischemic heart disease,Number,2019,19700.55619114865,23537.932134697578,16770.867179890818
+Prevalence,Colombia,Female,45 to 49,Ischemic heart disease,Number,2019,14006.433356131352,16700.899245022953,11863.544620368315
+Prevalence,Colombia,Both,45 to 49,Ischemic heart disease,Number,2019,33706.98954728,39851.586527127605,28854.328297025575
+Prevalence,Colombia,Male,50 to 54,Ischemic heart disease,Number,2019,33755.8031342175,40097.32958215499,28932.953445412033
+Prevalence,Colombia,Female,50 to 54,Ischemic heart disease,Number,2019,23249.371696731134,28046.12110724958,19683.24422499146
+Prevalence,Colombia,Both,50 to 54,Ischemic heart disease,Number,2019,57005.174830948636,68243.62757617972,48786.5085575874
+Prevalence,Colombia,Male,55 to 59,Ischemic heart disease,Number,2019,50173.48629335829,58662.15571019306,43324.90404203402
+Prevalence,Colombia,Female,55 to 59,Ischemic heart disease,Number,2019,34167.244287216985,40557.46031565111,29531.757985124772
+Prevalence,Colombia,Both,55 to 59,Ischemic heart disease,Number,2019,84340.73058057528,98971.86502006388,73251.96202432066
+Prevalence,Colombia,Male,60 to 64,Ischemic heart disease,Number,2019,63342.62696302701,74740.62919672801,54009.520788671834
+Prevalence,Colombia,Female,60 to 64,Ischemic heart disease,Number,2019,43334.17705079589,52022.285797215445,36719.94285275628
+Prevalence,Colombia,Both,60 to 64,Ischemic heart disease,Number,2019,106676.80401382291,126526.45714825904,90785.47459936213
+Prevalence,Colombia,Male,65 to 69,Ischemic heart disease,Number,2019,77277.2163239325,89338.59208831548,67024.49679748031
+Prevalence,Colombia,Female,65 to 69,Ischemic heart disease,Number,2019,52220.612674188065,60789.4560473328,45081.012180874284
+Prevalence,Colombia,Both,65 to 69,Ischemic heart disease,Number,2019,129497.82899812055,149367.78377515808,112615.30513080073
+Prevalence,Colombia,Male,70 to 74,Ischemic heart disease,Number,2019,79384.49471329828,92690.79412187614,67551.47604302483
+Prevalence,Colombia,Female,70 to 74,Ischemic heart disease,Number,2019,54600.81870209278,63413.30780835135,46377.63022198006
+Prevalence,Colombia,Both,70 to 74,Ischemic heart disease,Number,2019,133985.31341539108,155637.22814361908,114713.61405978477
+Prevalence,Colombia,Male,75 to 79,Ischemic heart disease,Number,2019,73809.12044137232,85622.35593055724,62541.66447513155
+Prevalence,Colombia,Female,75 to 79,Ischemic heart disease,Number,2019,54265.513632666545,63413.45020719506,46336.45708775108
+Prevalence,Colombia,Both,75 to 79,Ischemic heart disease,Number,2019,128074.63407403887,149347.47003394106,109099.250413278
+Prevalence,Colombia,Male,80 plus,Ischemic heart disease,Number,2019,127191.2366322695,150487.25546539377,109957.96630255433
+Prevalence,Colombia,Female,80 plus,Ischemic heart disease,Number,2019,112414.14846345589,133157.91667992933,96737.22993036396
+Prevalence,Colombia,Both,80 plus,Ischemic heart disease,Number,2019,239605.38509572533,283638.0745678294,207723.50429632305
+Prevalence,Colombia,Male,All Ages,Ischemic heart disease,Number,2019,549673.9536613325,614931.4404848141,491371.7295815955
+Prevalence,Colombia,Female,All Ages,Ischemic heart disease,Number,2019,408513.5564544435,456138.39858479996,366270.485267274
+Prevalence,Colombia,Both,All Ages,Ischemic heart disease,Number,2019,958187.5101157763,1069505.117374672,860204.51973654
+Prevalence,Colombia,Male,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,15-49 years,Ischemic heart disease,Number,2019,44739.96915985713,52479.432465518774,38439.70919212315
+Prevalence,Colombia,Female,15-49 years,Ischemic heart disease,Number,2019,34261.66994729626,40484.47667929392,29525.668726417713
+Prevalence,Colombia,Both,15-49 years,Ischemic heart disease,Number,2019,79001.63910715337,92791.41301892635,68255.87175855244
+Prevalence,Colombia,Male,50-69 years,Ischemic heart disease,Number,2019,224549.13271453528,259980.9504868962,195332.5246120327
+Prevalence,Colombia,Female,50-69 years,Ischemic heart disease,Number,2019,152971.40570893208,177600.67442888406,133712.49625801123
+Prevalence,Colombia,Both,50-69 years,Ischemic heart disease,Number,2019,377520.5384234673,437609.7512089189,330237.3458862035
+Prevalence,Colombia,Male,70+ years,Ischemic heart disease,Number,2019,280384.8517869401,321951.3807482751,244015.1483749674
+Prevalence,Colombia,Female,70+ years,Ischemic heart disease,Number,2019,221280.4807982152,253907.59497690306,193458.23626543002
+Prevalence,Colombia,Both,70+ years,Ischemic heart disease,Number,2019,501665.33258515527,576306.1016569939,436675.74547981884
+Prevalence,Colombia,Male,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,80 to 84,Ischemic heart disease,Number,2019,62016.425458942664,75000.25545274667,52006.19183697658
+Prevalence,Colombia,Female,80 to 84,Ischemic heart disease,Number,2019,50729.40654257473,61801.74506360584,42625.11307170665
+Prevalence,Colombia,Both,80 to 84,Ischemic heart disease,Number,2019,112745.83200151738,136807.16335501603,95336.36700332742
+Prevalence,Colombia,Male,85 to 89,Ischemic heart disease,Number,2019,39083.07770162802,47053.80759487593,33262.33371907365
+Prevalence,Colombia,Female,85 to 89,Ischemic heart disease,Number,2019,35357.25753048782,42673.850587843044,29665.483035816203
+Prevalence,Colombia,Both,85 to 89,Ischemic heart disease,Number,2019,74440.33523211583,89456.62279966708,62914.76270226984
+Prevalence,Colombia,Male,90 to 94,Ischemic heart disease,Number,2019,18531.99263802561,22732.966588172625,15301.283623083527
+Prevalence,Colombia,Female,90 to 94,Ischemic heart disease,Number,2019,18463.431462620312,22762.87325235401,15123.135481380812
+Prevalence,Colombia,Both,90 to 94,Ischemic heart disease,Number,2019,36995.42410064592,45375.93697274687,30569.918437925277
+Prevalence,Colombia,Male,20 plus,Ischemic heart disease,Number,2019,549443.6473189946,614640.0610581368,491104.8005386317
+Prevalence,Colombia,Female,20 plus,Ischemic heart disease,Number,2019,408278.34676040563,455789.0345193114,366113.44184694364
+Prevalence,Colombia,Both,20 plus,Ischemic heart disease,Number,2019,957721.9940794003,1069031.8156323894,859768.4798912394
+Prevalence,Colombia,Male,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,50 to 74 years,Ischemic heart disease,Number,2019,303933.62742783356,348703.4741145707,266574.583235299
+Prevalence,Colombia,Female,50 to 74 years,Ischemic heart disease,Number,2019,207572.22441102486,238548.54387461956,181845.18178555212
+Prevalence,Colombia,Both,50 to 74 years,Ischemic heart disease,Number,2019,511505.85183885833,586135.4720375238,449450.598476066
+Prevalence,Colombia,Male,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,25 plus,Ischemic heart disease,Number,2019,548810.2090000141,613884.0410306271,490458.014384823
+Prevalence,Colombia,Female,25 plus,Ischemic heart disease,Number,2019,407653.6915315913,455164.8446602769,365652.3406365003
+Prevalence,Colombia,Both,25 plus,Ischemic heart disease,Number,2019,956463.9005316052,1067949.0713963956,858574.4688910388
+Prevalence,Colombia,Male,<20 years,Ischemic heart disease,Number,2019,230.30634233778267,328.25919327438174,153.2455227165926
+Prevalence,Colombia,Female,<20 years,Ischemic heart disease,Number,2019,235.20969403783792,329.96329102251417,156.13503678822914
+Prevalence,Colombia,Both,<20 years,Ischemic heart disease,Number,2019,465.5160363756206,655.1567069559053,316.34623101994123
+Prevalence,Colombia,Male,10 to 24,Ischemic heart disease,Number,2019,863.7446613184235,1143.237146361532,644.8647439591055
+Prevalence,Colombia,Female,10 to 24,Ischemic heart disease,Number,2019,859.8649228522736,1144.1408312514748,629.4822767255341
+Prevalence,Colombia,Both,10 to 24,Ischemic heart disease,Number,2019,1723.6095841706967,2266.2806739129787,1289.2085556720353
+Prevalence,Colombia,Male,85 plus,Ischemic heart disease,Number,2019,65174.811173326845,77034.7048268369,55642.29348668295
+Prevalence,Colombia,Female,85 plus,Ischemic heart disease,Number,2019,61684.74192088115,73500.47306262692,52147.79412770537
+Prevalence,Colombia,Both,85 plus,Ischemic heart disease,Number,2019,126859.55309420798,150562.2132171525,108425.6711890292
+Prevalence,Colombia,Male,10 to 54,Ischemic heart disease,Number,2019,78495.77229407463,91519.81460291786,68203.46152801685
+Prevalence,Colombia,Female,10 to 54,Ischemic heart disease,Number,2019,57511.04164402739,67280.35435502579,49796.797996792724
+Prevalence,Colombia,Both,10 to 54,Ischemic heart disease,Number,2019,136006.81393810204,157644.58574121652,119155.70883636874
+Prevalence,Colombia,Male,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,5 to 19,Ischemic heart disease,Number,2019,230.30634233778267,328.2591932743818,153.24552271659257
+Prevalence,Colombia,Female,5 to 19,Ischemic heart disease,Number,2019,235.20969403783798,329.9632910225142,156.13503678822917
+Prevalence,Colombia,Both,5 to 19,Ischemic heart disease,Number,2019,465.5160363756206,655.1567069559054,316.3462310199413
+Prevalence,Colombia,Male,15 to 39,Ischemic heart disease,Number,2019,13445.081306859895,16215.2863374453,11236.728031501589
+Prevalence,Colombia,Female,15 to 39,Ischemic heart disease,Number,2019,11573.839613396733,13671.74274896115,9899.602143836031
+Prevalence,Colombia,Both,15 to 39,Ischemic heart disease,Number,2019,25018.920920256624,29731.472528613816,21310.230225926185
+Prevalence,Colombia,Male,25 to 49,Ischemic heart disease,Number,2019,43876.2244985387,51477.02956107317,37649.415922700005
+Prevalence,Colombia,Female,25 to 49,Ischemic heart disease,Number,2019,33401.80502444398,39414.07532042993,28748.722002643073
+Prevalence,Colombia,Both,25 to 49,Ischemic heart disease,Number,2019,77278.02952298269,90940.61788277056,66696.46412080017
+Prevalence,Colombia,Male,55 plus,Ischemic heart disease,Number,2019,471178.18136725784,533002.9935839056,416541.30624914746
+Prevalence,Colombia,Female,55 plus,Ischemic heart disease,Number,2019,351002.5148104161,395702.7918240386,310194.45557121217
+Prevalence,Colombia,Both,55 plus,Ischemic heart disease,Number,2019,822180.6961776743,928651.3888137254,730762.6819398782
+Prevalence,Colombia,Male,60 to 79,Ischemic heart disease,Number,2019,293813.45844163006,336831.3272074163,255967.79366740386
+Prevalence,Colombia,Female,60 to 79,Ischemic heart disease,Number,2019,204421.1220597433,234108.80730912276,177533.53072540218
+Prevalence,Colombia,Both,60 to 79,Ischemic heart disease,Number,2019,498234.5805013734,569789.1842422836,435909.0089486544
+Prevalence,Colombia,Male,65 to 74,Ischemic heart disease,Number,2019,156661.71103723077,181850.3106478913,134907.41595718326
+Prevalence,Colombia,Female,65 to 74,Ischemic heart disease,Number,2019,106821.43137628085,123361.46619803763,91916.47385223416
+Prevalence,Colombia,Both,65 to 74,Ischemic heart disease,Number,2019,263483.14241351164,304087.53477028565,228669.20601765785
+Prevalence,Colombia,Male,75 plus,Ischemic heart disease,Number,2019,201000.35707364185,235400.33723428313,174012.09684532683
+Prevalence,Colombia,Female,75 plus,Ischemic heart disease,Number,2019,166679.66209612245,195752.6863951899,145126.99494843074
+Prevalence,Colombia,Both,75 plus,Ischemic heart disease,Number,2019,367680.01916976424,430312.27976066724,319754.20101257716
+Prevalence,Colombia,Male,95 plus,Ischemic heart disease,Number,2019,7559.740833673205,9464.937991746609,6093.415787796975
+Prevalence,Colombia,Female,95 plus,Ischemic heart disease,Number,2019,7864.0529277730175,9903.819103329255,6354.977327079302
+Prevalence,Colombia,Both,95 plus,Ischemic heart disease,Number,2019,15423.793761446223,19236.250626841942,12456.457045090436
+Prevalence,Colombia,Male,75 to 84,Ischemic heart disease,Number,2019,135825.545900315,159999.6190962704,114996.19254554171
+Prevalence,Colombia,Female,75 to 84,Ischemic heart disease,Number,2019,104994.92017524128,125391.94248012464,89563.8743455265
+Prevalence,Colombia,Both,75 to 84,Ischemic heart disease,Number,2019,240820.46607555627,284110.3019079508,204682.58690789237
+Prevalence,Colombia,Male,20 to 54 years,Ischemic heart disease,Number,2019,78265.46595173684,91324.3155580882,68003.95850614927
+Prevalence,Colombia,Female,20 to 54 years,Ischemic heart disease,Number,2019,57275.83194998956,67057.43647599878,49546.63250394694
+Prevalence,Colombia,Both,20 to 54 years,Ischemic heart disease,Number,2019,135541.29790172642,157150.61729814258,118732.72532250606
+Prevalence,Colombia,Male,55 to 89 years,Ischemic heart disease,Number,2019,445086.4478955591,504848.4824280671,392743.99414597376
+Prevalence,Colombia,Female,55 to 89 years,Ischemic heart disease,Number,2019,324675.03042002284,367871.01403411105,284618.4571631263
+Prevalence,Colombia,Both,55 to 89 years,Ischemic heart disease,Number,2019,769761.4783155818,871658.0050124931,679845.9592447509
+Prevalence,Colombia,Male,60 to 89 years,Ischemic heart disease,Number,2019,394912.96160220075,449111.6455510985,345574.2234162662
+Prevalence,Colombia,Female,60 to 89 years,Ischemic heart disease,Number,2019,290507.7861328058,330647.2737570071,253138.7967638837
+Prevalence,Colombia,Both,60 to 89 years,Ischemic heart disease,Number,2019,685420.7477350066,780356.2923303735,601046.4195069975
+Prevalence,Colombia,Male,65 to 89 years,Ischemic heart disease,Number,2019,331570.3346391738,379551.11799480027,287888.4445105595
+Prevalence,Colombia,Female,65 to 89 years,Ischemic heart disease,Number,2019,247173.60908200993,282890.58107787155,214957.35727011194
+Prevalence,Colombia,Both,65 to 89 years,Ischemic heart disease,Number,2019,578743.9437211837,662556.4685206448,504149.36581695336
+Prevalence,Colombia,Male,70 to 89 years,Ischemic heart disease,Number,2019,254293.11831524127,293416.5703669305,219074.6284092207
+Prevalence,Colombia,Female,70 to 89 years,Ischemic heart disease,Number,2019,194952.99640782183,226094.87431453934,169117.32188561236
+Prevalence,Colombia,Both,70 to 89 years,Ischemic heart disease,Number,2019,449246.1147230632,517505.86949387926,387842.4904866903
+Prevalence,Colombia,Male,75 to 94 years,Ischemic heart disease,Number,2019,193440.6162399686,226516.7687475825,166611.4571763461
+Prevalence,Colombia,Female,75 to 94 years,Ischemic heart disease,Number,2019,158815.6091683494,186913.70913520333,137124.6503800609
+Prevalence,Colombia,Both,75 to 94 years,Ischemic heart disease,Number,2019,352256.22540831805,412876.17627874605,304880.9125961375
+Prevalence,Colombia,Male,<70 years,Ischemic heart disease,Number,2019,269289.10187439236,306946.14682118595,237881.91302161757
+Prevalence,Colombia,Female,<70 years,Ischemic heart disease,Number,2019,187233.07565622832,215346.9905764519,165266.6792698207
+Prevalence,Colombia,Both,<70 years,Ischemic heart disease,Number,2019,456522.1775306209,523288.8803104849,405568.1508315288
+Prevalence,Global,Male,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,15 to 19,Hypertensive heart disease,Number,2019,710.7800210119104,1368.5514852378521,287.48530106053323
+Prevalence,Global,Female,15 to 19,Hypertensive heart disease,Number,2019,571.499452972644,1125.1465687097968,225.55346118710844
+Prevalence,Global,Both,15 to 19,Hypertensive heart disease,Number,2019,1282.2794739845544,2488.143523056882,509.36699306218895
+Prevalence,Global,Male,20 to 24,Hypertensive heart disease,Number,2019,5889.144309839963,10079.042554448164,3088.048595049508
+Prevalence,Global,Female,20 to 24,Hypertensive heart disease,Number,2019,4550.353483547684,7934.951032551803,2298.234420902663
+Prevalence,Global,Both,20 to 24,Hypertensive heart disease,Number,2019,10439.497793387645,18012.60499078002,5369.489273531076
+Prevalence,Global,Male,25 to 29,Hypertensive heart disease,Number,2019,23708.24367226425,40686.317498800105,12022.268499066335
+Prevalence,Global,Female,25 to 29,Hypertensive heart disease,Number,2019,17624.319744187316,31227.712512931517,8515.566568194728
+Prevalence,Global,Both,25 to 29,Hypertensive heart disease,Number,2019,41332.563416451565,72088.8528879183,20419.765589258124
+Prevalence,Global,Male,30 to 34,Hypertensive heart disease,Number,2019,50193.88794085193,82506.54930633285,27851.804656351673
+Prevalence,Global,Female,30 to 34,Hypertensive heart disease,Number,2019,37156.14934539366,61958.85827670654,20246.99854138145
+Prevalence,Global,Both,30 to 34,Hypertensive heart disease,Number,2019,87350.03728624557,144412.06755496268,47942.10463985828
+Prevalence,Global,Male,35 to 39,Hypertensive heart disease,Number,2019,78539.4711254302,136810.20485023683,41144.127587431765
+Prevalence,Global,Female,35 to 39,Hypertensive heart disease,Number,2019,59152.91219862248,103979.85344332823,29763.390955191117
+Prevalence,Global,Both,35 to 39,Hypertensive heart disease,Number,2019,137692.3833240527,239835.85874305083,70912.45782627091
+Prevalence,Global,Male,40 to 44,Hypertensive heart disease,Number,2019,141699.42242561444,243423.77009800202,75055.09493245515
+Prevalence,Global,Female,40 to 44,Hypertensive heart disease,Number,2019,106670.9763505479,184547.35663642414,55523.882193843645
+Prevalence,Global,Both,40 to 44,Hypertensive heart disease,Number,2019,248370.39877616233,428098.0575640403,131644.93556029216
+Prevalence,Global,Male,45 to 49,Hypertensive heart disease,Number,2019,334705.90966096293,513193.3249631898,195081.23374323844
+Prevalence,Global,Female,45 to 49,Hypertensive heart disease,Number,2019,259479.63658718558,401343.74019762984,150870.96456289612
+Prevalence,Global,Both,45 to 49,Hypertensive heart disease,Number,2019,594185.5462481485,911849.9421302814,345270.2711669877
+Prevalence,Global,Male,50 to 54,Hypertensive heart disease,Number,2019,540764.1009401934,847229.3336306827,309238.3304887829
+Prevalence,Global,Female,50 to 54,Hypertensive heart disease,Number,2019,437208.93590763427,683780.3785495486,254490.51370351788
+Prevalence,Global,Both,50 to 54,Hypertensive heart disease,Number,2019,977973.0368478277,1541121.4267167458,562853.2838030395
+Prevalence,Global,Male,55 to 59,Hypertensive heart disease,Number,2019,576428.0297210253,972083.2669135334,304903.7562948672
+Prevalence,Global,Female,55 to 59,Hypertensive heart disease,Number,2019,475388.53758668934,811492.559893273,251288.46740354228
+Prevalence,Global,Both,55 to 59,Hypertensive heart disease,Number,2019,1051816.5673077146,1769720.8827278912,556804.9343680888
+Prevalence,Global,Male,60 to 64,Hypertensive heart disease,Number,2019,769716.1174982381,1245447.273506846,418987.80310649326
+Prevalence,Global,Female,60 to 64,Hypertensive heart disease,Number,2019,658428.9566453293,1069903.642666692,361630.4574530986
+Prevalence,Global,Both,60 to 64,Hypertensive heart disease,Number,2019,1428145.0741435674,2323690.5586843453,783382.5857951002
+Prevalence,Global,Male,65 to 69,Hypertensive heart disease,Number,2019,1391520.5840734963,2231957.7390677477,842388.4543554317
+Prevalence,Global,Female,65 to 69,Hypertensive heart disease,Number,2019,1305395.8913953735,2082699.895987465,789864.0444625057
+Prevalence,Global,Both,65 to 69,Hypertensive heart disease,Number,2019,2696916.47546887,4313505.220603716,1636550.2657687566
+Prevalence,Global,Male,70 to 74,Hypertensive heart disease,Number,2019,1585258.8779005911,2451570.4635474593,933265.5537124196
+Prevalence,Global,Female,70 to 74,Hypertensive heart disease,Number,2019,1594565.6449351653,2483362.3218978522,937924.7867840729
+Prevalence,Global,Both,70 to 74,Hypertensive heart disease,Number,2019,3179824.522835756,4929717.429427534,1873320.5103696906
+Prevalence,Global,Male,75 to 79,Hypertensive heart disease,Number,2019,1326794.3954221616,2219981.528633832,730542.3211455846
+Prevalence,Global,Female,75 to 79,Hypertensive heart disease,Number,2019,1496474.2134974366,2488528.838682859,821376.7433009634
+Prevalence,Global,Both,75 to 79,Hypertensive heart disease,Number,2019,2823268.608919598,4698495.454890413,1548207.273274971
+Prevalence,Global,Male,80 plus,Hypertensive heart disease,Number,2019,1913506.4522325718,2956648.8042216236,1191870.698621971
+Prevalence,Global,Female,80 plus,Hypertensive heart disease,Number,2019,3405921.1324361935,5103892.53777826,2195292.239131616
+Prevalence,Global,Both,80 plus,Hypertensive heart disease,Number,2019,5319427.584668765,8028311.950562762,3382345.270488506
+Prevalence,Global,Male,All Ages,Hypertensive heart disease,Number,2019,8739435.416944252,11884095.070268072,6308287.195054542
+Prevalence,Global,Female,All Ages,Hypertensive heart disease,Number,2019,9858589.159566278,13274599.734226765,7152615.199076105
+Prevalence,Global,Both,All Ages,Hypertensive heart disease,Number,2019,18598024.576510534,24898411.51854849,13544364.945165407
+Prevalence,Global,Male,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,15-49 years,Hypertensive heart disease,Number,2019,635446.8591559756,950572.6170104365,399295.2650356346
+Prevalence,Global,Female,15-49 years,Hypertensive heart disease,Number,2019,485205.84716245736,729910.1382539576,302101.3787920184
+Prevalence,Global,Both,15-49 years,Hypertensive heart disease,Number,2019,1120652.706318433,1675415.167657785,701719.9587458093
+Prevalence,Global,Male,50-69 years,Hypertensive heart disease,Number,2019,3278428.832232953,4936664.705738498,2057305.8838989472
+Prevalence,Global,Female,50-69 years,Hypertensive heart disease,Number,2019,2876422.3215350267,4326046.0336187035,1812925.5458454087
+Prevalence,Global,Both,50-69 years,Hypertensive heart disease,Number,2019,6154851.153767978,9192945.037694078,3862770.367013253
+Prevalence,Global,Male,70+ years,Hypertensive heart disease,Number,2019,4825559.725555325,7178317.683662499,3114850.8277746597
+Prevalence,Global,Female,70+ years,Hypertensive heart disease,Number,2019,6496960.990868796,9471511.839195453,4323738.233829159
+Prevalence,Global,Both,70+ years,Hypertensive heart disease,Number,2019,11322520.716424122,16541445.579700066,7418993.451166357
+Prevalence,Global,Male,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,80 to 84,Hypertensive heart disease,Number,2019,1027469.3554327567,1742629.0941019517,540268.8352316057
+Prevalence,Global,Female,80 to 84,Hypertensive heart disease,Number,2019,1415686.7002060455,2356122.0544123678,747983.7178547279
+Prevalence,Global,Both,80 to 84,Hypertensive heart disease,Number,2019,2443156.0556388022,4093270.01003391,1296220.7377432021
+Prevalence,Global,Male,85 to 89,Hypertensive heart disease,Number,2019,613886.3170941115,966894.2410628799,360412.77858983795
+Prevalence,Global,Female,85 to 89,Hypertensive heart disease,Number,2019,1160576.5221256185,1796087.2003807523,684880.8443290964
+Prevalence,Global,Both,85 to 89,Hypertensive heart disease,Number,2019,1774462.8392197299,2755814.83246355,1045949.5758864301
+Prevalence,Global,Male,90 to 94,Hypertensive heart disease,Number,2019,215953.18437493415,357430.77136412205,118525.76268100984
+Prevalence,Global,Female,90 to 94,Hypertensive heart disease,Number,2019,620590.4950982315,1001535.8889667096,341043.09767001425
+Prevalence,Global,Both,90 to 94,Hypertensive heart disease,Number,2019,836543.6794731655,1354818.0582340797,460180.34663843724
+Prevalence,Global,Male,20 plus,Hypertensive heart disease,Number,2019,8738724.63692324,11883088.938222513,6307658.648349544
+Prevalence,Global,Female,20 plus,Hypertensive heart disease,Number,2019,9858017.660113307,13273593.5352431,7152128.369615759
+Prevalence,Global,Both,20 plus,Hypertensive heart disease,Number,2019,18596742.29703655,24896981.872375812,13542916.064435923
+Prevalence,Global,Male,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,50 to 74 years,Hypertensive heart disease,Number,2019,4863687.710133545,7199304.75891988,3192056.0265688
+Prevalence,Global,Female,50 to 74 years,Hypertensive heart disease,Number,2019,4470987.966470192,6558606.103778638,2958151.9766647727
+Prevalence,Global,Both,50 to 74 years,Hypertensive heart disease,Number,2019,9334675.676603733,13761936.561422318,6143442.113368681
+Prevalence,Global,Male,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,25 plus,Hypertensive heart disease,Number,2019,8732835.4926134,11874606.11821064,6304695.151134442
+Prevalence,Global,Female,25 plus,Hypertensive heart disease,Number,2019,9853467.306629758,13270814.065428732,7148532.760497995
+Prevalence,Global,Both,25 plus,Hypertensive heart disease,Number,2019,18586302.79924316,24884112.27549008,13532061.919826085
+Prevalence,Global,Male,<20 years,Hypertensive heart disease,Number,2019,710.7800210119104,1368.5514852378521,287.48530106053323
+Prevalence,Global,Female,<20 years,Hypertensive heart disease,Number,2019,571.499452972644,1125.1465687097968,225.55346118710847
+Prevalence,Global,Both,<20 years,Hypertensive heart disease,Number,2019,1282.2794739845544,2488.143523056882,509.366993062189
+Prevalence,Global,Male,10 to 24,Hypertensive heart disease,Number,2019,6599.9243308518735,11115.484732733563,3528.1659870369194
+Prevalence,Global,Female,10 to 24,Hypertensive heart disease,Number,2019,5121.852936520328,8667.405157463983,2690.509434413424
+Prevalence,Global,Both,10 to 24,Hypertensive heart disease,Number,2019,11721.7772673722,19875.585546735518,6275.812361832394
+Prevalence,Global,Male,85 plus,Hypertensive heart disease,Number,2019,886037.0967998152,1388274.8161638654,531087.455914115
+Prevalence,Global,Female,85 plus,Hypertensive heart disease,Number,2019,1990234.4322301475,3108901.2510926644,1192047.4554095247
+Prevalence,Global,Both,85 plus,Hypertensive heart disease,Number,2019,2876271.529029963,4526906.552075946,1715783.7697044732
+Prevalence,Global,Male,10 to 54,Hypertensive heart disease,Number,2019,1176210.960096169,1722383.5304620543,759934.4768948524
+Prevalence,Global,Female,10 to 54,Hypertensive heart disease,Number,2019,922414.7830700915,1361751.1725144938,595382.2257917413
+Prevalence,Global,Both,10 to 54,Hypertensive heart disease,Number,2019,2098625.743166261,3080703.548790231,1353224.1266110698
+Prevalence,Global,Male,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Female,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Both,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Global,Male,5 to 19,Hypertensive heart disease,Number,2019,710.7800210119104,1368.5514852378524,287.48530106053323
+Prevalence,Global,Female,5 to 19,Hypertensive heart disease,Number,2019,571.499452972644,1125.1465687097968,225.55346118710847
+Prevalence,Global,Both,5 to 19,Hypertensive heart disease,Number,2019,1282.279473984555,2488.1435230568827,509.3669930621891
+Prevalence,Global,Male,15 to 39,Hypertensive heart disease,Number,2019,159041.52706939826,251801.56836733513,95049.10980543094
+Prevalence,Global,Female,15 to 39,Hypertensive heart disease,Number,2019,119055.2342247238,187787.72396550074,69432.20815207038
+Prevalence,Global,Both,15 to 39,Hypertensive heart disease,Number,2019,278096.76129412197,443034.5215630536,164417.05413675564
+Prevalence,Global,Male,25 to 49,Hypertensive heart disease,Number,2019,628846.9348251238,942443.4069157359,393701.3387074332
+Prevalence,Global,Female,25 to 49,Hypertensive heart disease,Number,2019,480083.99422593694,725935.8156966915,296548.31397165084
+Prevalence,Global,Both,25 to 49,Hypertensive heart disease,Number,2019,1108930.9290510605,1665768.7572923386,693143.2774732079
+Prevalence,Global,Male,55 plus,Hypertensive heart disease,Number,2019,7563224.456848083,10667218.959335474,5303697.79826727
+Prevalence,Global,Female,55 plus,Hypertensive heart disease,Number,2019,8936174.376496188,12403454.858680606,6329263.417432905
+Prevalence,Global,Both,55 plus,Hypertensive heart disease,Number,2019,16499398.833344273,23119151.456067864,11660730.979748126
+Prevalence,Global,Male,60 to 79,Hypertensive heart disease,Number,2019,5073289.974894487,7660149.066818809,3303940.462029125
+Prevalence,Global,Female,60 to 79,Hypertensive heart disease,Number,2019,5054864.706473305,7613881.509148494,3289376.3499441007
+Prevalence,Global,Both,60 to 79,Hypertensive heart disease,Number,2019,10128154.681367792,15191007.859476823,6610748.132852514
+Prevalence,Global,Male,65 to 74,Hypertensive heart disease,Number,2019,2976779.461974087,4640640.093941387,1807083.239209192
+Prevalence,Global,Female,65 to 74,Hypertensive heart disease,Number,2019,2899961.5363305393,4502903.657006919,1759854.2874598613
+Prevalence,Global,Both,65 to 74,Hypertensive heart disease,Number,2019,5876740.998304627,9117272.104326865,3569188.3885669354
+Prevalence,Global,Male,75 plus,Hypertensive heart disease,Number,2019,3240300.8476547333,5082104.251619838,1996751.5615847635
+Prevalence,Global,Female,75 plus,Hypertensive heart disease,Number,2019,4902395.34593363,7426454.646950513,3115808.072324428
+Prevalence,Global,Both,75 plus,Hypertensive heart disease,Number,2019,8142696.193588363,12496809.909000533,5114537.249451344
+Prevalence,Global,Male,95 plus,Hypertensive heart disease,Number,2019,56197.595330769545,108790.85970576484,25551.1458777287
+Prevalence,Global,Female,95 plus,Hypertensive heart disease,Number,2019,209067.41500629747,391778.2585380691,98249.72904521607
+Prevalence,Global,Both,95 plus,Hypertensive heart disease,Number,2019,265265.010337067,501165.57637237344,124529.58178317205
+Prevalence,Global,Male,75 to 84,Hypertensive heart disease,Number,2019,2354263.7508549183,3975744.2975399415,1271181.5895207857
+Prevalence,Global,Female,75 to 84,Hypertensive heart disease,Number,2019,2912160.9137034826,4818744.505514601,1575908.1163044558
+Prevalence,Global,Both,75 to 84,Hypertensive heart disease,Number,2019,5266424.6645584,8765953.071954763,2853788.599201267
+Prevalence,Global,Male,20 to 54 years,Hypertensive heart disease,Number,2019,1175500.1800751572,1722048.3797010726,758707.0368373749
+Prevalence,Global,Female,20 to 54 years,Hypertensive heart disease,Number,2019,921843.2836171188,1361097.6968211792,594717.5210191548
+Prevalence,Global,Both,20 to 54 years,Hypertensive heart disease,Number,2019,2097343.4636922763,3079154.689726629,1351816.4369498645
+Prevalence,Global,Male,55 to 89 years,Hypertensive heart disease,Number,2019,7291073.67714238,10335223.974030385,5028438.630903509
+Prevalence,Global,Female,55 to 89 years,Hypertensive heart disease,Number,2019,8106516.466391658,11520041.593743194,5589378.141801536
+Prevalence,Global,Both,55 to 89 years,Hypertensive heart disease,Number,2019,15397590.143534036,21880640.916873064,10682685.173923256
+Prevalence,Global,Male,60 to 89 years,Hypertensive heart disease,Number,2019,6714645.647421354,9756972.148805382,4583714.708328088
+Prevalence,Global,Female,60 to 89 years,Hypertensive heart disease,Number,2019,7631127.9288049685,10905518.146899022,5221729.589300297
+Prevalence,Global,Both,60 to 89 years,Hypertensive heart disease,Number,2019,14345773.576226324,20636135.85791666,9836627.92254449
+Prevalence,Global,Male,65 to 89 years,Hypertensive heart disease,Number,2019,5944929.529923117,8778782.317760961,3901718.901483832
+Prevalence,Global,Female,65 to 89 years,Hypertensive heart disease,Number,2019,6972698.972159639,10213503.15236892,4588680.179535272
+Prevalence,Global,Both,65 to 89 years,Hypertensive heart disease,Number,2019,12917628.502082756,18975411.90369314,8517845.650693268
+Prevalence,Global,Male,70 to 89 years,Hypertensive heart disease,Number,2019,4553408.945849621,6936096.437841176,2838656.2782353847
+Prevalence,Global,Female,70 to 89 years,Hypertensive heart disease,Number,2019,5667303.080764267,8459886.1760631,3601134.5897551924
+Prevalence,Global,Both,70 to 89 years,Hypertensive heart disease,Number,2019,10220712.026613887,15365858.128781715,6463133.663705535
+Prevalence,Global,Male,75 to 94 years,Hypertensive heart disease,Number,2019,3184103.252323963,5007368.894940131,1931984.1724188803
+Prevalence,Global,Female,75 to 94 years,Hypertensive heart disease,Number,2019,4693327.9309273325,7154488.799083521,2928763.761566103
+Prevalence,Global,Both,75 to 94 years,Hypertensive heart disease,Number,2019,7877431.183251296,12160916.22668857,4867215.343916509
+Prevalence,Global,Male,<70 years,Hypertensive heart disease,Number,2019,3913875.6913889283,5610441.10872145,2589520.5041982643
+Prevalence,Global,Female,<70 years,Hypertensive heart disease,Number,2019,3361628.168697484,4799936.137603673,2233545.1887168023
+Prevalence,Global,Both,<70 years,Hypertensive heart disease,Number,2019,7275503.860086413,10383818.632281551,4812903.776731364
+Prevalence,Sierra Leone,Male,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Under 5,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Early Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Late Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Post Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,1 to 4,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,5 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,10 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,15 to 19,Ischemic heart disease,Number,2019,64.61379963185254,88.80420674805326,43.85987088360051
+Prevalence,Sierra Leone,Female,15 to 19,Ischemic heart disease,Number,2019,48.01521415796185,68.28470326279002,32.1704265812197
+Prevalence,Sierra Leone,Both,15 to 19,Ischemic heart disease,Number,2019,112.62901378981441,156.953839793771,78.1277672484114
+Prevalence,Sierra Leone,Male,20 to 24,Ischemic heart disease,Number,2019,182.03844900952507,222.82799307075652,145.959735849386
+Prevalence,Sierra Leone,Female,20 to 24,Ischemic heart disease,Number,2019,125.74454419998034,160.94263149909736,95.30323707997066
+Prevalence,Sierra Leone,Both,20 to 24,Ischemic heart disease,Number,2019,307.78299320950543,379.98686199946417,246.13601387027944
+Prevalence,Sierra Leone,Male,25 to 29,Ischemic heart disease,Number,2019,511.09599187067266,602.1444742712473,423.79077063125345
+Prevalence,Sierra Leone,Female,25 to 29,Ischemic heart disease,Number,2019,316.40621126975435,377.90206251863674,261.4913315630604
+Prevalence,Sierra Leone,Both,25 to 29,Ischemic heart disease,Number,2019,827.502203140427,970.572317521382,691.298873836394
+Prevalence,Sierra Leone,Male,30 to 34,Ischemic heart disease,Number,2019,963.2256844827023,1140.1886007713388,800.8693595628159
+Prevalence,Sierra Leone,Female,30 to 34,Ischemic heart disease,Number,2019,575.1048209334735,687.8729779048986,478.2000699836113
+Prevalence,Sierra Leone,Both,30 to 34,Ischemic heart disease,Number,2019,1538.3305054161758,1821.1761414805978,1284.8695957747934
+Prevalence,Sierra Leone,Male,35 to 39,Ischemic heart disease,Number,2019,1484.4472461808084,1781.6930975331754,1232.192940268402
+Prevalence,Sierra Leone,Female,35 to 39,Ischemic heart disease,Number,2019,841.1467389446938,1012.491770743142,711.8449236538244
+Prevalence,Sierra Leone,Both,35 to 39,Ischemic heart disease,Number,2019,2325.5939851255025,2789.15140012992,1963.2258321866054
+Prevalence,Sierra Leone,Male,40 to 44,Ischemic heart disease,Number,2019,2314.9624196684845,2805.881314851025,1905.3428035277211
+Prevalence,Sierra Leone,Female,40 to 44,Ischemic heart disease,Number,2019,1202.7433827864174,1448.5472320183012,998.0630866526305
+Prevalence,Sierra Leone,Both,40 to 44,Ischemic heart disease,Number,2019,3517.705802454902,4249.165497104789,2928.6043131047086
+Prevalence,Sierra Leone,Male,45 to 49,Ischemic heart disease,Number,2019,3243.3836604598687,3916.1810777969126,2717.150020797906
+Prevalence,Sierra Leone,Female,45 to 49,Ischemic heart disease,Number,2019,1594.3572045831331,1873.357025527288,1355.1934834794997
+Prevalence,Sierra Leone,Both,45 to 49,Ischemic heart disease,Number,2019,4837.740865043002,5785.908793151702,4086.739483338385
+Prevalence,Sierra Leone,Male,50 to 54,Ischemic heart disease,Number,2019,4253.179593405232,5261.723658685802,3509.9370551572706
+Prevalence,Sierra Leone,Female,50 to 54,Ischemic heart disease,Number,2019,2096.426700344605,2488.4543691056992,1783.3722334452127
+Prevalence,Sierra Leone,Both,50 to 54,Ischemic heart disease,Number,2019,6349.606293749836,7683.4650568586785,5311.484102038457
+Prevalence,Sierra Leone,Male,55 to 59,Ischemic heart disease,Number,2019,5396.523380024243,6496.056589734448,4535.583590088176
+Prevalence,Sierra Leone,Female,55 to 59,Ischemic heart disease,Number,2019,2661.711263007992,3079.1975751004356,2309.361600870078
+Prevalence,Sierra Leone,Both,55 to 59,Ischemic heart disease,Number,2019,8058.234643032236,9575.726767059296,6853.275269475229
+Prevalence,Sierra Leone,Male,60 to 64,Ischemic heart disease,Number,2019,6371.346034601727,7715.082716147097,5318.386817420889
+Prevalence,Sierra Leone,Female,60 to 64,Ischemic heart disease,Number,2019,3198.242994188437,3791.574181685556,2748.6677685655677
+Prevalence,Sierra Leone,Both,60 to 64,Ischemic heart disease,Number,2019,9569.589028790164,11444.416372350215,8086.436464433158
+Prevalence,Sierra Leone,Male,65 to 69,Ischemic heart disease,Number,2019,7280.095086229988,8680.09930849539,6146.023686077429
+Prevalence,Sierra Leone,Female,65 to 69,Ischemic heart disease,Number,2019,3930.419666932757,4545.52160059661,3402.052489408912
+Prevalence,Sierra Leone,Both,65 to 69,Ischemic heart disease,Number,2019,11210.514753162746,13201.689590376918,9597.749048046899
+Prevalence,Sierra Leone,Male,70 to 74,Ischemic heart disease,Number,2019,6955.069986972302,8300.45516427005,5761.399537777708
+Prevalence,Sierra Leone,Female,70 to 74,Ischemic heart disease,Number,2019,4110.736077445019,4845.715345761238,3516.8979778078187
+Prevalence,Sierra Leone,Both,70 to 74,Ischemic heart disease,Number,2019,11065.806064417322,13102.888532616227,9328.809685155147
+Prevalence,Sierra Leone,Male,75 to 79,Ischemic heart disease,Number,2019,5846.796629688704,6980.1342773788565,4943.528806136585
+Prevalence,Sierra Leone,Female,75 to 79,Ischemic heart disease,Number,2019,4021.76405643135,4705.37551001026,3448.692357749611
+Prevalence,Sierra Leone,Both,75 to 79,Ischemic heart disease,Number,2019,9868.560686120056,11637.09339729647,8432.67948361262
+Prevalence,Sierra Leone,Male,80 plus,Ischemic heart disease,Number,2019,5277.468800332751,6366.4560946105685,4469.696909623205
+Prevalence,Sierra Leone,Female,80 plus,Ischemic heart disease,Number,2019,4173.134079624791,4926.344380224457,3569.8157593826595
+Prevalence,Sierra Leone,Both,80 plus,Ischemic heart disease,Number,2019,9450.602879957542,11267.838906789464,8112.177936988508
+Prevalence,Sierra Leone,Male,All Ages,Ischemic heart disease,Number,2019,50144.24676255886,56402.84604753679,44524.14187499058
+Prevalence,Sierra Leone,Female,All Ages,Ischemic heart disease,Number,2019,28895.952954850367,32038.00317705864,26258.424068323926
+Prevalence,Sierra Leone,Both,All Ages,Ischemic heart disease,Number,2019,79040.19971740925,88754.91078596756,70950.13875507464
+Prevalence,Sierra Leone,Male,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,5-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,15-49 years,Ischemic heart disease,Number,2019,8763.767251303914,10324.517320061319,7409.996103431426
+Prevalence,Sierra Leone,Female,15-49 years,Ischemic heart disease,Number,2019,4703.518116875414,5483.250562749228,4072.4509043302473
+Prevalence,Sierra Leone,Both,15-49 years,Ischemic heart disease,Number,2019,13467.285368179326,15729.67453685598,11525.06375354587
+Prevalence,Sierra Leone,Male,50-69 years,Ischemic heart disease,Number,2019,23301.14409426119,27384.17558394649,19926.763051145474
+Prevalence,Sierra Leone,Female,50-69 years,Ischemic heart disease,Number,2019,11886.800624473792,13536.12415297858,10463.361518624579
+Prevalence,Sierra Leone,Both,50-69 years,Ischemic heart disease,Number,2019,35187.94471873498,40892.75610012179,30439.723029609555
+Prevalence,Sierra Leone,Male,70+ years,Ischemic heart disease,Number,2019,18079.335416993756,21071.71596499774,15518.680430570792
+Prevalence,Sierra Leone,Female,70+ years,Ischemic heart disease,Number,2019,12305.634213501164,14164.694600157574,10777.917380041137
+Prevalence,Sierra Leone,Both,70+ years,Ischemic heart disease,Number,2019,30384.969630494918,35039.394540426976,26297.13571188723
+Prevalence,Sierra Leone,Male,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,<1 year,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,80 to 84,Ischemic heart disease,Number,2019,3447.8289899177353,4260.326872443698,2850.1587607672614
+Prevalence,Sierra Leone,Female,80 to 84,Ischemic heart disease,Number,2019,2634.9008122657065,3191.853215082077,2212.0400133174635
+Prevalence,Sierra Leone,Both,80 to 84,Ischemic heart disease,Number,2019,6082.729802183442,7413.782914274214,5093.780681055009
+Prevalence,Sierra Leone,Male,85 to 89,Ischemic heart disease,Number,2019,1356.5277035198812,1644.941544087022,1108.4462143619207
+Prevalence,Sierra Leone,Female,85 to 89,Ischemic heart disease,Number,2019,1090.348503594359,1287.7610923895304,905.0527202874099
+Prevalence,Sierra Leone,Both,85 to 89,Ischemic heart disease,Number,2019,2446.8762071142405,2909.119919703014,2026.671634157969
+Prevalence,Sierra Leone,Male,90 to 94,Ischemic heart disease,Number,2019,401.0090430138215,502.3120285865683,311.38914808214025
+Prevalence,Sierra Leone,Female,90 to 94,Ischemic heart disease,Number,2019,365.3275651361639,440.41411517110527,289.9330979702745
+Prevalence,Sierra Leone,Both,90 to 94,Ischemic heart disease,Number,2019,766.3366081499853,932.3084735043205,604.0032592990069
+Prevalence,Sierra Leone,Male,20 plus,Ischemic heart disease,Number,2019,50079.63296292701,56353.269850630735,44458.775337830695
+Prevalence,Sierra Leone,Female,20 plus,Ischemic heart disease,Number,2019,28847.937740692407,32000.45287185892,26202.803412361678
+Prevalence,Sierra Leone,Both,20 plus,Ischemic heart disease,Number,2019,78927.5707036194,88665.67016653149,70840.79860379004
+Prevalence,Sierra Leone,Male,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,0 to 14,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,50 to 74 years,Ischemic heart disease,Number,2019,30256.21408123349,35220.054955434076,26099.13661669556
+Prevalence,Sierra Leone,Female,50 to 74 years,Ischemic heart disease,Number,2019,15997.53670191881,18070.566939727167,14130.843781251586
+Prevalence,Sierra Leone,Both,50 to 74 years,Ischemic heart disease,Number,2019,46253.750783152296,52986.174619805504,40364.03499920475
+Prevalence,Sierra Leone,Male,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Neonatal,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,25 plus,Ischemic heart disease,Number,2019,49897.59451391748,56171.349844882585,44260.4431263101
+Prevalence,Sierra Leone,Female,25 plus,Ischemic heart disease,Number,2019,28722.193196492426,31865.71101272198,26069.780825717422
+Prevalence,Sierra Leone,Both,25 plus,Ischemic heart disease,Number,2019,78619.7877104099,88355.33273729385,70536.6739569871
+Prevalence,Sierra Leone,Male,<20 years,Ischemic heart disease,Number,2019,64.61379963185254,88.80420674805326,43.85987088360051
+Prevalence,Sierra Leone,Female,<20 years,Ischemic heart disease,Number,2019,48.01521415796185,68.28470326279002,32.1704265812197
+Prevalence,Sierra Leone,Both,<20 years,Ischemic heart disease,Number,2019,112.62901378981441,156.953839793771,78.1277672484114
+Prevalence,Sierra Leone,Male,10 to 24,Ischemic heart disease,Number,2019,246.65224864137764,307.073406060447,192.61745202371725
+Prevalence,Sierra Leone,Female,10 to 24,Ischemic heart disease,Number,2019,173.75975835794222,228.2949615797373,128.97656959462944
+Prevalence,Sierra Leone,Both,10 to 24,Ischemic heart disease,Number,2019,420.4120069993199,533.6135395452578,327.07271504793187
+Prevalence,Sierra Leone,Male,85 plus,Ischemic heart disease,Number,2019,1829.6398104150157,2206.026506691254,1497.9985194893775
+Prevalence,Sierra Leone,Female,85 plus,Ischemic heart disease,Number,2019,1538.2332673590854,1808.3432481293264,1290.9467314820677
+Prevalence,Sierra Leone,Both,85 plus,Ischemic heart disease,Number,2019,3367.873077774102,3996.62244540138,2806.42768635286
+Prevalence,Sierra Leone,Male,10 to 54,Ischemic heart disease,Number,2019,13016.946844709148,15158.812840958342,11238.404515223116
+Prevalence,Sierra Leone,Female,10 to 54,Ischemic heart disease,Number,2019,6799.944817220019,7822.691885749752,5943.69000547085
+Prevalence,Sierra Leone,Both,10 to 54,Ischemic heart disease,Number,2019,19816.891661929163,22923.222302573668,17281.385963551984
+Prevalence,Sierra Leone,Male,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,0 to 9,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,5 to 19,Ischemic heart disease,Number,2019,64.61379963185256,88.80420674805328,43.85987088360051
+Prevalence,Sierra Leone,Female,5 to 19,Ischemic heart disease,Number,2019,48.01521415796185,68.28470326279002,32.1704265812197
+Prevalence,Sierra Leone,Both,5 to 19,Ischemic heart disease,Number,2019,112.6290137898144,156.95383979377098,78.1277672484114
+Prevalence,Sierra Leone,Male,15 to 39,Ischemic heart disease,Number,2019,3205.421171175561,3787.019499298718,2700.5623291657535
+Prevalence,Sierra Leone,Female,15 to 39,Ischemic heart disease,Number,2019,1906.4175295058637,2255.769508214077,1625.7830269796714
+Prevalence,Sierra Leone,Both,15 to 39,Ischemic heart disease,Number,2019,5111.838700681424,5986.7477634799925,4341.6261046167165
+Prevalence,Sierra Leone,Male,25 to 49,Ischemic heart disease,Number,2019,8517.115002662536,10076.354313222577,7188.309340487871
+Prevalence,Sierra Leone,Female,25 to 49,Ischemic heart disease,Number,2019,4529.758358517472,5292.966062473277,3914.677433251447
+Prevalence,Sierra Leone,Both,25 to 49,Ischemic heart disease,Number,2019,13046.873361180007,15246.079727638094,11118.755653289532
+Prevalence,Sierra Leone,Male,55 plus,Ischemic heart disease,Number,2019,37127.29991784972,42620.4283531057,32360.972920375956
+Prevalence,Sierra Leone,Female,55 plus,Ischemic heart disease,Number,2019,22096.008137630346,24925.47427197858,19711.9708319739
+Prevalence,Sierra Leone,Both,55 plus,Ischemic heart disease,Number,2019,59223.308055480076,67574.13045832547,52130.89151162761
+Prevalence,Sierra Leone,Male,60 to 79,Ischemic heart disease,Number,2019,26453.30773749272,30810.67502472118,22669.499974451588
+Prevalence,Sierra Leone,Female,60 to 79,Ischemic heart disease,Number,2019,15261.162794997563,17508.07570136466,13418.751502305982
+Prevalence,Sierra Leone,Both,60 to 79,Ischemic heart disease,Number,2019,41714.470532490275,48249.780478421,36042.47858885765
+Prevalence,Sierra Leone,Male,65 to 74,Ischemic heart disease,Number,2019,14235.16507320229,16984.71189390834,11941.481200841032
+Prevalence,Sierra Leone,Female,65 to 74,Ischemic heart disease,Number,2019,8041.1557443777765,9298.674634666835,6930.425660269725
+Prevalence,Sierra Leone,Both,65 to 74,Ischemic heart disease,Number,2019,22276.32081758007,26233.613680388615,18955.522950036597
+Prevalence,Sierra Leone,Male,75 plus,Ischemic heart disease,Number,2019,11124.265430021454,13121.740228511506,9561.957460969972
+Prevalence,Sierra Leone,Female,75 plus,Ischemic heart disease,Number,2019,8194.898136056141,9607.313518384408,7114.374976171382
+Prevalence,Sierra Leone,Both,75 plus,Ischemic heart disease,Number,2019,19319.163566077597,22630.327722460686,16728.812102781543
+Prevalence,Sierra Leone,Male,95 plus,Ischemic heart disease,Number,2019,72.10306388131309,96.01269499183982,54.38717260486044
+Prevalence,Sierra Leone,Female,95 plus,Ischemic heart disease,Number,2019,82.55719862856253,109.94058245986405,63.554894345496415
+Prevalence,Sierra Leone,Both,95 plus,Ischemic heart disease,Number,2019,154.6602625098756,205.48241451746767,119.12815381964406
+Prevalence,Sierra Leone,Male,75 to 84,Ischemic heart disease,Number,2019,9294.62561960644,11119.233634078135,7892.352513084462
+Prevalence,Sierra Leone,Female,75 to 84,Ischemic heart disease,Number,2019,6656.664868697057,7863.719111795668,5679.550896420179
+Prevalence,Sierra Leone,Both,75 to 84,Ischemic heart disease,Number,2019,15951.290488303492,18827.265230770638,13616.76054397846
+Prevalence,Sierra Leone,Male,20 to 54 years,Ischemic heart disease,Number,2019,12952.333045077294,15102.725698959255,11161.162511249848
+Prevalence,Sierra Leone,Female,20 to 54 years,Ischemic heart disease,Number,2019,6751.929603062057,7775.082426040809,5895.451580123702
+Prevalence,Sierra Leone,Both,20 to 54 years,Ischemic heart disease,Number,2019,19704.262648139345,22827.180100793084,17164.564630094563
+Prevalence,Sierra Leone,Male,55 to 89 years,Ischemic heart disease,Number,2019,36654.18781095458,42083.91257252892,31916.10329652975
+Prevalence,Sierra Leone,Female,55 to 89 years,Ischemic heart disease,Number,2019,21648.12337386562,24411.92383558677,19323.78559922235
+Prevalence,Sierra Leone,Both,55 to 89 years,Ischemic heart disease,Number,2019,58302.31118482022,66543.17108428064,51222.094665380646
+Prevalence,Sierra Leone,Male,60 to 89 years,Ischemic heart disease,Number,2019,31257.664430930337,36168.014217538905,27049.306129263558
+Prevalence,Sierra Leone,Female,60 to 89 years,Ischemic heart disease,Number,2019,18986.41211085763,21575.76693856786,16825.473393925295
+Prevalence,Sierra Leone,Both,60 to 89 years,Ischemic heart disease,Number,2019,50244.07654178796,57610.712529486475,43952.12552159341
+Prevalence,Sierra Leone,Male,65 to 89 years,Ischemic heart disease,Number,2019,24886.318396328614,28985.482781429393,21436.94544265788
+Prevalence,Sierra Leone,Female,65 to 89 years,Ischemic heart disease,Number,2019,15788.169116669193,18021.68707119006,13939.599541543934
+Prevalence,Sierra Leone,Both,65 to 89 years,Ischemic heart disease,Number,2019,40674.48751299779,46939.57919829883,35326.706952843
+Prevalence,Sierra Leone,Male,70 to 89 years,Ischemic heart disease,Number,2019,17606.223310098623,20641.139660869827,15084.104312043602
+Prevalence,Sierra Leone,Female,70 to 89 years,Ischemic heart disease,Number,2019,11857.749449736435,13701.95642723716,10352.684917593393
+Prevalence,Sierra Leone,Both,70 to 89 years,Ischemic heart disease,Number,2019,29463.972759835055,34084.62432505991,25471.63089106736
+Prevalence,Sierra Leone,Male,75 to 94 years,Ischemic heart disease,Number,2019,11052.162366140143,13042.396654329603,9483.533239252774
+Prevalence,Sierra Leone,Female,75 to 94 years,Ischemic heart disease,Number,2019,8112.34093742758,9506.543698609212,7028.387377675652
+Prevalence,Sierra Leone,Both,75 to 94 years,Ischemic heart disease,Number,2019,19164.503303567722,22461.609222428477,16589.21754171452
+Prevalence,Sierra Leone,Male,<70 years,Ischemic heart disease,Number,2019,32064.911345565102,37234.74175389734,28082.9895745173
+Prevalence,Sierra Leone,Female,<70 years,Ischemic heart disease,Number,2019,16590.318741349205,18647.17725394173,14880.882113279667
+Prevalence,Sierra Leone,Both,<70 years,Ischemic heart disease,Number,2019,48655.230086914315,55587.1960459455,43140.72960383035
+Prevalence,Sierra Leone,Male,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,15 to 19,Hypertensive heart disease,Number,2019,1.8125891016385258,3.9355486998902607,0.6032365326045553
+Prevalence,Sierra Leone,Female,15 to 19,Hypertensive heart disease,Number,2019,1.5412779796506924,3.2835202441152758,0.5025056851541209
+Prevalence,Sierra Leone,Both,15 to 19,Hypertensive heart disease,Number,2019,3.353867081289218,7.223189457574007,1.1484520829865734
+Prevalence,Sierra Leone,Male,20 to 24,Hypertensive heart disease,Number,2019,5.6650343749857335,11.278984142220338,2.355185865724475
+Prevalence,Sierra Leone,Female,20 to 24,Hypertensive heart disease,Number,2019,5.1637979716413245,10.353015225172037,2.113152862285457
+Prevalence,Sierra Leone,Both,20 to 24,Hypertensive heart disease,Number,2019,10.82883234662706,21.327979834751318,4.6310397480192025
+Prevalence,Sierra Leone,Male,25 to 29,Hypertensive heart disease,Number,2019,14.705299740150112,31.922061785068504,5.546160042158694
+Prevalence,Sierra Leone,Female,25 to 29,Hypertensive heart disease,Number,2019,13.537044949941544,30.285081479214746,4.649205708209501
+Prevalence,Sierra Leone,Both,25 to 29,Hypertensive heart disease,Number,2019,28.24234469009166,61.41941595473751,10.745591216845044
+Prevalence,Sierra Leone,Male,30 to 34,Hypertensive heart disease,Number,2019,28.889746577937274,56.49154621395097,11.730843143572187
+Prevalence,Sierra Leone,Female,30 to 34,Hypertensive heart disease,Number,2019,26.35240948287879,52.316644451419215,9.869389138443811
+Prevalence,Sierra Leone,Both,30 to 34,Hypertensive heart disease,Number,2019,55.242156060816065,107.64717930362667,22.560299558223168
+Prevalence,Sierra Leone,Male,35 to 39,Hypertensive heart disease,Number,2019,55.27242477618151,114.55508999014299,21.862923037286702
+Prevalence,Sierra Leone,Female,35 to 39,Hypertensive heart disease,Number,2019,47.41364257695988,99.5717532465882,18.435048256495858
+Prevalence,Sierra Leone,Both,35 to 39,Hypertensive heart disease,Number,2019,102.6860673531414,212.0003270907025,40.858613408892715
+Prevalence,Sierra Leone,Male,40 to 44,Hypertensive heart disease,Number,2019,109.10042683123136,216.56181658460034,47.16055487448783
+Prevalence,Sierra Leone,Female,40 to 44,Hypertensive heart disease,Number,2019,85.15497369850227,167.19780835833464,37.541095933553365
+Prevalence,Sierra Leone,Both,40 to 44,Hypertensive heart disease,Number,2019,194.25540052973363,380.3540984385348,85.3441356871789
+Prevalence,Sierra Leone,Male,45 to 49,Hypertensive heart disease,Number,2019,203.66359318978618,355.8064097346027,102.57254659594939
+Prevalence,Sierra Leone,Female,45 to 49,Hypertensive heart disease,Number,2019,145.67511129323432,248.89410404818096,73.85040837683461
+Prevalence,Sierra Leone,Both,45 to 49,Hypertensive heart disease,Number,2019,349.3387044830205,595.0696085085712,180.02299792256014
+Prevalence,Sierra Leone,Male,50 to 54,Hypertensive heart disease,Number,2019,272.4189979842337,486.70173929641516,136.5866625391996
+Prevalence,Sierra Leone,Female,50 to 54,Hypertensive heart disease,Number,2019,189.66687668653063,329.33564962642293,95.62141501378227
+Prevalence,Sierra Leone,Both,50 to 54,Hypertensive heart disease,Number,2019,462.0858746707643,816.4810548929005,234.5395687963885
+Prevalence,Sierra Leone,Male,55 to 59,Hypertensive heart disease,Number,2019,292.425274021802,567.7553770598529,130.64317384143098
+Prevalence,Sierra Leone,Female,55 to 59,Hypertensive heart disease,Number,2019,200.8274041095205,358.415081038889,91.17628153582729
+Prevalence,Sierra Leone,Both,55 to 59,Hypertensive heart disease,Number,2019,493.2526781313225,923.7049042663527,229.75593277333624
+Prevalence,Sierra Leone,Male,60 to 64,Hypertensive heart disease,Number,2019,392.1261947460508,705.118817933132,187.6380346383616
+Prevalence,Sierra Leone,Female,60 to 64,Hypertensive heart disease,Number,2019,275.88692038847984,470.15208466449985,130.0653649064487
+Prevalence,Sierra Leone,Both,60 to 64,Hypertensive heart disease,Number,2019,668.0131151345306,1161.8911409399432,316.77884426972423
+Prevalence,Sierra Leone,Male,65 to 69,Hypertensive heart disease,Number,2019,644.2606079797987,1150.8066475740968,327.5998859432561
+Prevalence,Sierra Leone,Female,65 to 69,Hypertensive heart disease,Number,2019,483.5865753483479,845.0177453995069,250.07695358375207
+Prevalence,Sierra Leone,Both,65 to 69,Hypertensive heart disease,Number,2019,1127.8471833281465,1949.0079476910146,586.8475915228951
+Prevalence,Sierra Leone,Male,70 to 74,Hypertensive heart disease,Number,2019,706.4985831654667,1298.4122299942771,334.9478800891702
+Prevalence,Sierra Leone,Female,70 to 74,Hypertensive heart disease,Number,2019,561.7824540220699,963.6427509369598,277.6706164205273
+Prevalence,Sierra Leone,Both,70 to 74,Hypertensive heart disease,Number,2019,1268.2810371875366,2275.011835706564,620.2637121409566
+Prevalence,Sierra Leone,Male,75 to 79,Hypertensive heart disease,Number,2019,593.6048242407262,1136.6108810912772,263.91987965852195
+Prevalence,Sierra Leone,Female,75 to 79,Hypertensive heart disease,Number,2019,510.39588495045075,954.5142724160652,244.3982315154097
+Prevalence,Sierra Leone,Both,75 to 79,Hypertensive heart disease,Number,2019,1104.000709191177,2081.753333462493,510.2303039891648
+Prevalence,Sierra Leone,Male,80 plus,Hypertensive heart disease,Number,2019,760.1648849359071,1287.1029857881388,395.975561264887
+Prevalence,Sierra Leone,Female,80 plus,Hypertensive heart disease,Number,2019,686.9694764835913,1146.9146372461116,362.8045993905016
+Prevalence,Sierra Leone,Both,80 plus,Hypertensive heart disease,Number,2019,1447.1343614194984,2442.3972689263487,758.7703389261445
+Prevalence,Sierra Leone,Male,All Ages,Hypertensive heart disease,Number,2019,4080.6084816658963,6001.895541641039,2636.5087802988514
+Prevalence,Sierra Leone,Female,All Ages,Hypertensive heart disease,Number,2019,3233.9538499417995,4686.467876721788,2129.410257779826
+Prevalence,Sierra Leone,Both,All Ages,Hypertensive heart disease,Number,2019,7314.562331607697,10642.729926234948,4783.344625683096
+Prevalence,Sierra Leone,Male,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,15-49 years,Hypertensive heart disease,Number,2019,419.1091145919107,717.6116542609727,222.9706272643179
+Prevalence,Sierra Leone,Female,15-49 years,Hypertensive heart disease,Number,2019,324.8382579528088,553.2495974220609,176.34994409666382
+Prevalence,Sierra Leone,Both,15-49 years,Hypertensive heart disease,Number,2019,743.9473725447194,1252.5222878359548,400.07151500577896
+Prevalence,Sierra Leone,Male,50-69 years,Hypertensive heart disease,Number,2019,1601.2310747318854,2586.3790083742997,901.5514006684729
+Prevalence,Sierra Leone,Female,50-69 years,Hypertensive heart disease,Number,2019,1149.9677765328786,1802.7159489995609,643.7297968564379
+Prevalence,Sierra Leone,Both,50-69 years,Hypertensive heart disease,Number,2019,2751.1988512647636,4387.90384619204,1557.6255029100726
+Prevalence,Sierra Leone,Male,70+ years,Hypertensive heart disease,Number,2019,2060.2682923421003,3416.610669905403,1106.830593820798
+Prevalence,Sierra Leone,Female,70+ years,Hypertensive heart disease,Number,2019,1759.1478154561119,2833.646483972053,1009.9570567345297
+Prevalence,Sierra Leone,Both,70+ years,Hypertensive heart disease,Number,2019,3819.416107798212,6187.210671861034,2129.5460750299308
+Prevalence,Sierra Leone,Male,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,80 to 84,Hypertensive heart disease,Number,2019,405.4022217140483,774.862173207727,176.10793453537025
+Prevalence,Sierra Leone,Female,80 to 84,Hypertensive heart disease,Number,2019,359.83972962390146,659.0879825817821,164.54710688563196
+Prevalence,Sierra Leone,Both,80 to 84,Hypertensive heart disease,Number,2019,765.2419513379498,1440.1509596773642,339.34562846319676
+Prevalence,Sierra Leone,Male,85 to 89,Hypertensive heart disease,Number,2019,233.59488679266096,399.95378977102393,115.37640170289772
+Prevalence,Sierra Leone,Female,85 to 89,Hypertensive heart disease,Number,2019,206.79326324033767,355.28744243765937,101.68878976263665
+Prevalence,Sierra Leone,Both,85 to 89,Hypertensive heart disease,Number,2019,440.3881500329986,759.9767178865291,218.3764090293666
+Prevalence,Sierra Leone,Male,90 to 94,Hypertensive heart disease,Number,2019,96.71798917667218,174.67211817852765,42.87322478715004
+Prevalence,Sierra Leone,Female,90 to 94,Hypertensive heart disease,Number,2019,92.48071751559974,168.1962112051691,40.27704345599048
+Prevalence,Sierra Leone,Both,90 to 94,Hypertensive heart disease,Number,2019,189.19870669227188,342.29824589137996,83.12232771576303
+Prevalence,Sierra Leone,Male,20 plus,Hypertensive heart disease,Number,2019,4078.7958925642574,5999.176518926161,2635.4278397090716
+Prevalence,Sierra Leone,Female,20 plus,Hypertensive heart disease,Number,2019,3232.412571962149,4685.2309247882895,2128.2832151936004
+Prevalence,Sierra Leone,Both,20 plus,Hypertensive heart disease,Number,2019,7311.208464526406,10641.382497619621,4776.165851555558
+Prevalence,Sierra Leone,Male,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,50 to 74 years,Hypertensive heart disease,Number,2019,2307.7296578973524,3734.779326846836,1339.6770826173897
+Prevalence,Sierra Leone,Female,50 to 74 years,Hypertensive heart disease,Number,2019,1711.7502305549485,2739.277732131032,999.5718122203451
+Prevalence,Sierra Leone,Both,50 to 74 years,Hypertensive heart disease,Number,2019,4019.4798884522997,6396.190636623409,2372.998229266825
+Prevalence,Sierra Leone,Male,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,25 plus,Hypertensive heart disease,Number,2019,4073.1308581892717,5992.665707004255,2630.2214018842187
+Prevalence,Sierra Leone,Female,25 plus,Hypertensive heart disease,Number,2019,3227.2487739905077,4680.751070896207,2125.308377086979
+Prevalence,Sierra Leone,Both,25 plus,Hypertensive heart disease,Number,2019,7300.379632179778,10633.932355596166,4768.072599644091
+Prevalence,Sierra Leone,Male,<20 years,Hypertensive heart disease,Number,2019,1.8125891016385258,3.9355486998902602,0.6032365326045553
+Prevalence,Sierra Leone,Female,<20 years,Hypertensive heart disease,Number,2019,1.5412779796506921,3.2835202441152758,0.5025056851541209
+Prevalence,Sierra Leone,Both,<20 years,Hypertensive heart disease,Number,2019,3.353867081289218,7.223189457574007,1.1484520829865734
+Prevalence,Sierra Leone,Male,10 to 24,Hypertensive heart disease,Number,2019,7.47762347662426,14.356637798567622,3.1751016906521228
+Prevalence,Sierra Leone,Female,10 to 24,Hypertensive heart disease,Number,2019,6.7050759512920175,12.951363696909715,2.797334320121247
+Prevalence,Sierra Leone,Both,10 to 24,Hypertensive heart disease,Number,2019,14.18269942791628,26.75021855872022,6.096939389830989
+Prevalence,Sierra Leone,Male,85 plus,Hypertensive heart disease,Number,2019,354.7626632218588,599.87396844047,176.16136085517104
+Prevalence,Sierra Leone,Female,85 plus,Hypertensive heart disease,Number,2019,327.1297468596898,567.7844334750414,166.65907203901162
+Prevalence,Sierra Leone,Both,85 plus,Hypertensive heart disease,Number,2019,681.8924100815487,1177.7172325388312,342.77232300975635
+Prevalence,Sierra Leone,Male,10 to 54,Hypertensive heart disease,Number,2019,691.5281125761444,1156.6347579580088,387.05356445661874
+Prevalence,Sierra Leone,Female,10 to 54,Hypertensive heart disease,Number,2019,514.5051346393394,831.1100480797005,296.40608713417356
+Prevalence,Sierra Leone,Both,10 to 54,Hypertensive heart disease,Number,2019,1206.0332472154837,1993.76297423015,702.1833514108804
+Prevalence,Sierra Leone,Male,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Female,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Both,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Sierra Leone,Male,5 to 19,Hypertensive heart disease,Number,2019,1.812589101638526,3.935548699890261,0.6032365326045555
+Prevalence,Sierra Leone,Female,5 to 19,Hypertensive heart disease,Number,2019,1.5412779796506921,3.2835202441152753,0.5025056851541208
+Prevalence,Sierra Leone,Both,5 to 19,Hypertensive heart disease,Number,2019,3.353867081289218,7.223189457574006,1.1484520829865734
+Prevalence,Sierra Leone,Male,15 to 39,Hypertensive heart disease,Number,2019,106.34509457089315,189.9518139943503,49.081826188334034
+Prevalence,Sierra Leone,Female,15 to 39,Hypertensive heart disease,Number,2019,94.00817296107223,177.10560213441025,41.508783827159874
+Prevalence,Sierra Leone,Both,15 to 39,Hypertensive heart disease,Number,2019,200.35326753196537,360.0826461379684,92.89650372186603
+Prevalence,Sierra Leone,Male,25 to 49,Hypertensive heart disease,Number,2019,411.6314911152864,709.5510726288323,215.50278785037844
+Prevalence,Sierra Leone,Female,25 to 49,Hypertensive heart disease,Number,2019,318.1331820015168,544.2274261336333,170.47143930641974
+Prevalence,Sierra Leone,Both,25 to 49,Hypertensive heart disease,Number,2019,729.7646731168031,1238.7382725153245,385.04978104594835
+Prevalence,Sierra Leone,Male,55 plus,Hypertensive heart disease,Number,2019,3389.0803690897515,5270.288237111831,2032.1532982714411
+Prevalence,Sierra Leone,Female,55 plus,Hypertensive heart disease,Number,2019,2719.44871530246,4156.917081379173,1697.3357349149373
+Prevalence,Sierra Leone,Both,55 plus,Hypertensive heart disease,Number,2019,6108.529084392213,9401.718543933366,3787.0715596525656
+Prevalence,Sierra Leone,Male,60 to 79,Hypertensive heart disease,Number,2019,2336.4902101320417,3881.69291376951,1280.1481927109983
+Prevalence,Sierra Leone,Female,60 to 79,Hypertensive heart disease,Number,2019,1831.6518347093481,3007.53973425785,1007.4508976573302
+Prevalence,Sierra Leone,Both,60 to 79,Hypertensive heart disease,Number,2019,4168.14204484139,6858.8442652526455,2290.510893098931
+Prevalence,Sierra Leone,Male,65 to 74,Hypertensive heart disease,Number,2019,1350.7591911452655,2431.801319929211,699.5889247775089
+Prevalence,Sierra Leone,Female,65 to 74,Hypertensive heart disease,Number,2019,1045.369029370418,1788.9605349155258,544.3861577375618
+Prevalence,Sierra Leone,Both,65 to 74,Hypertensive heart disease,Number,2019,2396.128220515683,4202.37093167378,1244.6150417000536
+Prevalence,Sierra Leone,Male,75 plus,Hypertensive heart disease,Number,2019,1353.7697091766333,2375.6028345461837,701.9331893121514
+Prevalence,Sierra Leone,Female,75 plus,Hypertensive heart disease,Number,2019,1197.365361434042,2055.0660757955793,653.2363948619602
+Prevalence,Sierra Leone,Both,75 plus,Hypertensive heart disease,Number,2019,2551.135070610675,4414.289014714187,1345.149258691342
+Prevalence,Sierra Leone,Male,95 plus,Hypertensive heart disease,Number,2019,24.44978725252568,51.12148463578159,8.70005260712264
+Prevalence,Sierra Leone,Female,95 plus,Hypertensive heart disease,Number,2019,27.855766103752416,57.92230739475718,10.046472365995124
+Prevalence,Sierra Leone,Both,95 plus,Hypertensive heart disease,Number,2019,52.3055533562781,106.60366325574107,19.144700350658255
+Prevalence,Sierra Leone,Male,75 to 84,Hypertensive heart disease,Number,2019,999.0070459547744,1877.6719219374743,446.85781625092216
+Prevalence,Sierra Leone,Female,75 to 84,Hypertensive heart disease,Number,2019,870.2356145743523,1605.4079788532085,415.50780421897434
+Prevalence,Sierra Leone,Both,75 to 84,Hypertensive heart disease,Number,2019,1869.2426605291262,3513.402936250579,867.5916775651144
+Prevalence,Sierra Leone,Male,20 to 54 years,Hypertensive heart disease,Number,2019,689.7155234745059,1154.631473711246,385.17849388288755
+Prevalence,Sierra Leone,Female,20 to 54 years,Hypertensive heart disease,Number,2019,512.9638566596888,830.2494753397657,294.7241359930185
+Prevalence,Sierra Leone,Both,20 to 54 years,Hypertensive heart disease,Number,2019,1202.6793801341944,1989.8787986493355,698.9130148420185
+Prevalence,Sierra Leone,Male,55 to 89 years,Hypertensive heart disease,Number,2019,3267.912592660554,5121.634467144896,1933.5550225740185
+Prevalence,Sierra Leone,Female,55 to 89 years,Hypertensive heart disease,Number,2019,2599.112231683108,4043.993922158361,1583.0117460944837
+Prevalence,Sierra Leone,Both,55 to 89 years,Hypertensive heart disease,Number,2019,5867.024824343664,9174.016167959588,3531.3133184854228
+Prevalence,Sierra Leone,Male,60 to 89 years,Hypertensive heart disease,Number,2019,2975.4873186387517,4734.547923730267,1699.0561217144875
+Prevalence,Sierra Leone,Female,60 to 89 years,Hypertensive heart disease,Number,2019,2398.2848275735873,3751.9605016880655,1397.3565764454404
+Prevalence,Sierra Leone,Both,60 to 89 years,Hypertensive heart disease,Number,2019,5373.772146212338,8493.304127336942,3079.63035321247
+Prevalence,Sierra Leone,Male,65 to 89 years,Hypertensive heart disease,Number,2019,2583.361123892701,4251.2123938091645,1416.176007468152
+Prevalence,Sierra Leone,Female,65 to 89 years,Hypertensive heart disease,Number,2019,2122.3979071851077,3388.249973347853,1192.070898451537
+Prevalence,Sierra Leone,Both,65 to 89 years,Hypertensive heart disease,Number,2019,4705.759031077809,7529.15790572281,2604.346006243672
+Prevalence,Sierra Leone,Male,70 to 89 years,Hypertensive heart disease,Number,2019,1939.100515912902,3284.7586825499125,1003.9690394517752
+Prevalence,Sierra Leone,Female,70 to 89 years,Hypertensive heart disease,Number,2019,1638.8113318367598,2701.833776335185,913.0658480014118
+Prevalence,Sierra Leone,Both,70 to 89 years,Hypertensive heart disease,Number,2019,3577.9118477496613,5931.996163057832,1906.5742470197983
+Prevalence,Sierra Leone,Male,75 to 94 years,Hypertensive heart disease,Number,2019,1329.3199219241078,2337.016274784522,687.813347808088
+Prevalence,Sierra Leone,Female,75 to 94 years,Hypertensive heart disease,Number,2019,1169.5095953302896,2024.995442278224,635.2160003736371
+Prevalence,Sierra Leone,Both,75 to 94 years,Hypertensive heart disease,Number,2019,2498.829517254397,4364.268006890862,1319.1459148851945
+Prevalence,Sierra Leone,Male,<70 years,Hypertensive heart disease,Number,2019,2020.340189323796,3126.152870851573,1223.7024715923876
+Prevalence,Sierra Leone,Female,<70 years,Hypertensive heart disease,Number,2019,1474.8060344856874,2202.3527609994503,907.5493230437103
+Prevalence,Sierra Leone,Both,<70 years,Hypertensive heart disease,Number,2019,3495.146223809484,5316.990244829576,2118.1909919019045
+Prevalence,Colombia,Male,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Under 5,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Early Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Late Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Post Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,1 to 4,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,5 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,10 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,15 to 19,Hypertensive heart disease,Number,2019,1.8174299407589647,3.674220545032489,0.6872185804057549
+Prevalence,Colombia,Female,15 to 19,Hypertensive heart disease,Number,2019,1.8042426693464202,3.715397470348953,0.6572029324504448
+Prevalence,Colombia,Both,15 to 19,Hypertensive heart disease,Number,2019,3.6216726101053847,7.150610944293657,1.4187431115718423
+Prevalence,Colombia,Male,20 to 24,Hypertensive heart disease,Number,2019,18.99645829609804,34.42049270984822,8.500525436655394
+Prevalence,Colombia,Female,20 to 24,Hypertensive heart disease,Number,2019,20.80132516457737,37.756018310493886,8.763893941997367
+Prevalence,Colombia,Both,20 to 24,Hypertensive heart disease,Number,2019,39.79778346067542,71.99859760228219,17.78477378667328
+Prevalence,Colombia,Male,25 to 29,Hypertensive heart disease,Number,2019,61.28559080250139,119.11316924294941,25.38755823315243
+Prevalence,Colombia,Female,25 to 29,Hypertensive heart disease,Number,2019,71.27456938376562,138.1334955448423,28.23103062778891
+Prevalence,Colombia,Both,25 to 29,Hypertensive heart disease,Number,2019,132.56016018626698,251.90066868404665,55.23567025963905
+Prevalence,Colombia,Male,30 to 34,Hypertensive heart disease,Number,2019,68.21805719153633,151.89783229422562,7.76579219577232
+Prevalence,Colombia,Female,30 to 34,Hypertensive heart disease,Number,2019,117.92132413145696,230.77457395029072,41.016931892282805
+Prevalence,Colombia,Both,30 to 34,Hypertensive heart disease,Number,2019,186.13938132299327,373.7243940745559,53.02800335130417
+Prevalence,Colombia,Male,35 to 39,Hypertensive heart disease,Number,2019,148.01542460107336,316.29817213494874,39.703823361951024
+Prevalence,Colombia,Female,35 to 39,Hypertensive heart disease,Number,2019,236.12000264006997,458.7260084750522,91.7375713389451
+Prevalence,Colombia,Both,35 to 39,Hypertensive heart disease,Number,2019,384.1354272411433,766.5470214837364,130.92596639347835
+Prevalence,Colombia,Male,40 to 44,Hypertensive heart disease,Number,2019,334.8364059849089,647.0557679218429,143.697292275147
+Prevalence,Colombia,Female,40 to 44,Hypertensive heart disease,Number,2019,473.85155895917245,884.0638226762743,214.4907256881299
+Prevalence,Colombia,Both,40 to 44,Hypertensive heart disease,Number,2019,808.6879649440813,1523.7234874563442,362.49542959092616
+Prevalence,Colombia,Male,45 to 49,Hypertensive heart disease,Number,2019,830.5108513010229,1452.8888011868207,430.77208528593025
+Prevalence,Colombia,Female,45 to 49,Hypertensive heart disease,Number,2019,1099.347178763771,1791.1287371764595,608.6728647563696
+Prevalence,Colombia,Both,45 to 49,Hypertensive heart disease,Number,2019,1929.8580300647939,3200.2863269501204,1067.7642775110476
+Prevalence,Colombia,Male,50 to 54,Hypertensive heart disease,Number,2019,1418.8939723334024,2557.5329368588455,724.3753391890476
+Prevalence,Colombia,Female,50 to 54,Hypertensive heart disease,Number,2019,1848.2560026879264,3180.66442154487,1013.5089280168834
+Prevalence,Colombia,Both,50 to 54,Hypertensive heart disease,Number,2019,3267.149975021329,5693.653476919476,1783.0846059048497
+Prevalence,Colombia,Male,55 to 59,Hypertensive heart disease,Number,2019,1568.5290569563324,2949.9804986197837,748.5004946896582
+Prevalence,Colombia,Female,55 to 59,Hypertensive heart disease,Number,2019,2051.5644848146735,3741.769024819105,1010.5500192987029
+Prevalence,Colombia,Both,55 to 59,Hypertensive heart disease,Number,2019,3620.093541771006,6589.48049095224,1769.8509520375505
+Prevalence,Colombia,Male,60 to 64,Hypertensive heart disease,Number,2019,2497.526411549938,4259.342589096889,1345.2796306804528
+Prevalence,Colombia,Female,60 to 64,Hypertensive heart disease,Number,2019,2819.795118017522,4817.222419070277,1476.1436009549643
+Prevalence,Colombia,Both,60 to 64,Hypertensive heart disease,Number,2019,5317.32152956746,8917.141344177668,2877.370269597055
+Prevalence,Colombia,Male,65 to 69,Hypertensive heart disease,Number,2019,5854.017063538747,9578.438376143095,3306.0928172454032
+Prevalence,Colombia,Female,65 to 69,Hypertensive heart disease,Number,2019,5353.0439849021395,8755.663124860304,3121.808600859111
+Prevalence,Colombia,Both,65 to 69,Hypertensive heart disease,Number,2019,11207.061048440886,18230.9327554028,6504.401009605901
+Prevalence,Colombia,Male,70 to 74,Hypertensive heart disease,Number,2019,8178.085957710227,13292.593169277108,4689.73019544654
+Prevalence,Colombia,Female,70 to 74,Hypertensive heart disease,Number,2019,6973.529603859198,11366.186651529737,4076.6457082681286
+Prevalence,Colombia,Both,70 to 74,Hypertensive heart disease,Number,2019,15151.615561569426,24474.549714248227,8911.722323902219
+Prevalence,Colombia,Male,75 to 79,Hypertensive heart disease,Number,2019,8239.947045022984,14775.856219681977,4302.781340399461
+Prevalence,Colombia,Female,75 to 79,Hypertensive heart disease,Number,2019,7004.327906572064,12327.274216229442,3612.6123550070697
+Prevalence,Colombia,Both,75 to 79,Hypertensive heart disease,Number,2019,15244.274951595047,26828.285551070425,7981.732187048964
+Prevalence,Colombia,Male,80 plus,Hypertensive heart disease,Number,2019,19026.255438708733,28701.6042783554,12166.964732372264
+Prevalence,Colombia,Female,80 plus,Hypertensive heart disease,Number,2019,17413.92804878811,26685.991783270238,11049.574624453198
+Prevalence,Colombia,Both,80 plus,Hypertensive heart disease,Number,2019,36440.18348749684,54526.72020313102,23361.760195974523
+Prevalence,Colombia,Male,All Ages,Hypertensive heart disease,Number,2019,48246.93516393825,68533.51098120968,34212.07152141682
+Prevalence,Colombia,Female,All Ages,Hypertensive heart disease,Number,2019,45485.56535135379,63883.38374741032,32583.939562605727
+Prevalence,Colombia,Both,All Ages,Hypertensive heart disease,Number,2019,93732.50051529208,129803.712802476,67132.49908914027
+Prevalence,Colombia,Male,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,5-14 years,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,15-49 years,Hypertensive heart disease,Number,2019,1463.6802181178998,2439.7527309887855,794.1118780873591
+Prevalence,Colombia,Female,15-49 years,Hypertensive heart disease,Number,2019,2021.1202017121598,3212.1251374537374,1162.5686644715959
+Prevalence,Colombia,Both,15-49 years,Hypertensive heart disease,Number,2019,3484.8004198300587,5673.291705580776,1962.790177073618
+Prevalence,Colombia,Male,50-69 years,Hypertensive heart disease,Number,2019,11338.966504378419,17603.88808428049,6908.659237471961
+Prevalence,Colombia,Female,50-69 years,Hypertensive heart disease,Number,2019,12072.659590422261,18221.806762236443,7445.564715407354
+Prevalence,Colombia,Both,50-69 years,Hypertensive heart disease,Number,2019,23411.62609480068,35994.57916974267,14377.96699168446
+Prevalence,Colombia,Male,70+ years,Hypertensive heart disease,Number,2019,35444.28844144194,52819.326411482645,23236.082112048225
+Prevalence,Colombia,Female,70+ years,Hypertensive heart disease,Number,2019,31391.785559219374,46036.15254428284,20392.766199032772
+Prevalence,Colombia,Both,70+ years,Hypertensive heart disease,Number,2019,66836.0740006613,97912.54901432263,44196.69248347663
+Prevalence,Colombia,Male,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,<1 year,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,80 to 84,Hypertensive heart disease,Number,2019,7682.365554963809,13229.83836785211,4101.2682000114355
+Prevalence,Colombia,Female,80 to 84,Hypertensive heart disease,Number,2019,6846.320006647991,11812.732412682806,3568.4343910735806
+Prevalence,Colombia,Both,80 to 84,Hypertensive heart disease,Number,2019,14528.6855616118,25030.381900237593,7771.961453558372
+Prevalence,Colombia,Male,85 to 89,Hypertensive heart disease,Number,2019,6207.2714839071705,9660.004664079415,3773.4025544214214
+Prevalence,Colombia,Female,85 to 89,Hypertensive heart disease,Number,2019,5769.531516536529,9130.142400048002,3387.0947342810173
+Prevalence,Colombia,Both,85 to 89,Hypertensive heart disease,Number,2019,11976.803000443699,18567.232987228483,7266.082245988126
+Prevalence,Colombia,Male,90 to 94,Hypertensive heart disease,Number,2019,3569.2481465758483,6059.8685674973685,1832.3353179607293
+Prevalence,Colombia,Female,90 to 94,Hypertensive heart disease,Number,2019,3377.281505581902,5579.0566215200215,1728.9469592184382
+Prevalence,Colombia,Both,90 to 94,Hypertensive heart disease,Number,2019,6946.529652157749,11634.619733291867,3679.8217368458195
+Prevalence,Colombia,Male,20 plus,Hypertensive heart disease,Number,2019,48245.117733997504,68531.15703616162,34210.77278850077
+Prevalence,Colombia,Female,20 plus,Hypertensive heart disease,Number,2019,45483.76110868445,63882.55821230086,32582.379686595512
+Prevalence,Colombia,Both,20 plus,Hypertensive heart disease,Number,2019,93728.87884268194,129801.53049421284,67130.80387296305
+Prevalence,Colombia,Male,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,0 to 14,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,50 to 74 years,Hypertensive heart disease,Number,2019,19517.052462088646,29035.239120736434,12239.129258890687
+Prevalence,Colombia,Female,50 to 74 years,Hypertensive heart disease,Number,2019,19046.18919428146,28582.060433325125,12198.43998897681
+Prevalence,Colombia,Both,50 to 74 years,Hypertensive heart disease,Number,2019,38563.241656370104,57416.99135610693,24551.542745800638
+Prevalence,Colombia,Male,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,Neonatal,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,25 plus,Hypertensive heart disease,Number,2019,48226.1212757014,68509.81086525893,34202.61712843502
+Prevalence,Colombia,Female,25 plus,Hypertensive heart disease,Number,2019,45462.95978351987,63875.01287598491,32565.792069446725
+Prevalence,Colombia,Both,25 plus,Hypertensive heart disease,Number,2019,93689.08105922125,129781.30049255953,67098.54394208873
+Prevalence,Colombia,Male,<20 years,Hypertensive heart disease,Number,2019,1.8174299407589645,3.6742205450324885,0.6872185804057548
+Prevalence,Colombia,Female,<20 years,Hypertensive heart disease,Number,2019,1.8042426693464202,3.7153974703489525,0.6572029324504448
+Prevalence,Colombia,Both,<20 years,Hypertensive heart disease,Number,2019,3.621672610105385,7.150610944293658,1.418743111571842
+Prevalence,Colombia,Male,10 to 24,Hypertensive heart disease,Number,2019,20.813888236857004,37.52130419891397,9.481139319184717
+Prevalence,Colombia,Female,10 to 24,Hypertensive heart disease,Number,2019,22.605567833923793,41.875307432636234,9.924164124334421
+Prevalence,Colombia,Both,10 to 24,Hypertensive heart disease,Number,2019,43.4194560707808,76.6679345279909,19.752776551707857
+Prevalence,Colombia,Male,85 plus,Hypertensive heart disease,Number,2019,11343.889883744925,17872.83356110434,6777.707525536659
+Prevalence,Colombia,Female,85 plus,Hypertensive heart disease,Number,2019,10567.608042140118,16909.173920334673,6128.6808107293255
+Prevalence,Colombia,Both,85 plus,Hypertensive heart disease,Number,2019,21911.497925885044,34248.067092655154,12979.331133335556
+Prevalence,Colombia,Male,10 to 54,Hypertensive heart disease,Number,2019,2882.574190451302,4831.532859467065,1642.4035701921473
+Prevalence,Colombia,Female,10 to 54,Hypertensive heart disease,Number,2019,3869.376204400086,6054.20988976023,2361.5956783745837
+Prevalence,Colombia,Both,10 to 54,Hypertensive heart disease,Number,2019,6751.950394851388,10886.857705686984,4096.735715089132
+Prevalence,Colombia,Male,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Female,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Both,0 to 9,Hypertensive heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Colombia,Male,5 to 19,Hypertensive heart disease,Number,2019,1.8174299407589647,3.674220545032489,0.6872185804057548
+Prevalence,Colombia,Female,5 to 19,Hypertensive heart disease,Number,2019,1.8042426693464204,3.715397470348953,0.6572029324504448
+Prevalence,Colombia,Both,5 to 19,Hypertensive heart disease,Number,2019,3.621672610105385,7.150610944293657,1.4187431115718423
+Prevalence,Colombia,Male,15 to 39,Hypertensive heart disease,Number,2019,298.33296083196814,584.521757143176,101.6061894387507
+Prevalence,Colombia,Female,15 to 39,Hypertensive heart disease,Number,2019,447.9214639892163,789.3555963440338,201.75859514623386
+Prevalence,Colombia,Both,15 to 39,Hypertensive heart disease,Number,2019,746.2544248211842,1356.8692119976824,319.3875965392177
+Prevalence,Colombia,Male,25 to 49,Hypertensive heart disease,Number,2019,1442.8663298810427,2413.2826831616526,779.2418222066649
+Prevalence,Colombia,Female,25 to 49,Hypertensive heart disease,Number,2019,1998.5146338782356,3188.2307568711326,1143.1957687501865
+Prevalence,Colombia,Both,25 to 49,Hypertensive heart disease,Number,2019,3441.380963759279,5626.225422302878,1931.243874197083
+Prevalence,Colombia,Male,55 plus,Hypertensive heart disease,Number,2019,45364.36097348696,65361.5942378618,31513.905222602203
+Prevalence,Colombia,Female,55 plus,Hypertensive heart disease,Number,2019,41616.18914695371,59615.960119067684,28674.507552180847
+Prevalence,Colombia,Both,55 plus,Hypertensive heart disease,Number,2019,86980.55012044069,123399.78723142482,61002.37468202775
+Prevalence,Colombia,Male,60 to 79,Hypertensive heart disease,Number,2019,24769.576477821895,37820.88345084653,14963.570698847063
+Prevalence,Colombia,Female,60 to 79,Hypertensive heart disease,Number,2019,22150.69661335092,34413.35160129531,13944.65406455936
+Prevalence,Colombia,Both,60 to 79,Hypertensive heart disease,Number,2019,46920.273091172814,71827.89710357542,29369.823577578885
+Prevalence,Colombia,Male,65 to 74,Hypertensive heart disease,Number,2019,14032.103021248973,22511.530861964904,8163.0417617898265
+Prevalence,Colombia,Female,65 to 74,Hypertensive heart disease,Number,2019,12326.573588761337,19795.04664392682,7312.168655102024
+Prevalence,Colombia,Both,65 to 74,Hypertensive heart disease,Number,2019,26358.67661001032,42353.89448995705,15682.74504603466
+Prevalence,Colombia,Male,75 plus,Hypertensive heart disease,Number,2019,27266.20248373172,41221.63398350948,17453.36544627947
+Prevalence,Colombia,Female,75 plus,Hypertensive heart disease,Number,2019,24418.255955360175,37061.32910674152,15611.579886172753
+Prevalence,Colombia,Both,75 plus,Hypertensive heart disease,Number,2019,51684.45843909189,78122.56115099716,33334.35992171993
+Prevalence,Colombia,Male,95 plus,Hypertensive heart disease,Number,2019,1567.3702532619056,3343.3580329329275,636.5102081923549
+Prevalence,Colombia,Female,95 plus,Hypertensive heart disease,Number,2019,1420.7950200216906,2864.8758462984547,588.3813412139556
+Prevalence,Colombia,Both,95 plus,Hypertensive heart disease,Number,2019,2988.1652732835955,6153.264615332035,1229.117006603643
+Prevalence,Colombia,Male,75 to 84,Hypertensive heart disease,Number,2019,15922.312599986792,27942.267498754773,8420.801665351115
+Prevalence,Colombia,Female,75 to 84,Hypertensive heart disease,Number,2019,13850.647913220053,24070.792303170605,7342.373958283757
+Prevalence,Colombia,Both,75 to 84,Hypertensive heart disease,Number,2019,29772.960513206846,51216.55808283634,15760.662123945443
+Prevalence,Colombia,Male,20 to 54 years,Hypertensive heart disease,Number,2019,2880.7567605105432,4829.3199731441,1641.4387379800646
+Prevalence,Colombia,Female,20 to 54 years,Hypertensive heart disease,Number,2019,3867.57196173074,6052.243073397927,2359.7324692857405
+Prevalence,Colombia,Both,20 to 54 years,Hypertensive heart disease,Number,2019,6748.328722241283,10883.418076636013,4093.530315489533
+Prevalence,Colombia,Male,55 to 89 years,Hypertensive heart disease,Number,2019,40227.74257364921,59690.68078490448,26913.094930738236
+Prevalence,Colombia,Female,55 to 89 years,Hypertensive heart disease,Number,2019,36818.11262135011,54966.303119790406,24885.02540969814
+Prevalence,Colombia,Both,55 to 89 years,Hypertensive heart disease,Number,2019,77045.85519499933,112599.35906844503,52936.60696865779
+Prevalence,Colombia,Male,60 to 89 years,Hypertensive heart disease,Number,2019,38659.21351669288,57487.13726208725,25634.621059822428
+Prevalence,Colombia,Female,60 to 89 years,Hypertensive heart disease,Number,2019,34766.548136535435,52003.01875371135,23080.452857367163
+Prevalence,Colombia,Both,60 to 89 years,Hypertensive heart disease,Number,2019,73425.76165322831,109606.57049066265,49004.703587385746
+Prevalence,Colombia,Male,65 to 89 years,Hypertensive heart disease,Number,2019,36161.68710514293,54680.91913277156,23233.16043394593
+Prevalence,Colombia,Female,65 to 89 years,Hypertensive heart disease,Number,2019,31946.753018517924,47746.22507610451,20627.07849347857
+Prevalence,Colombia,Both,65 to 89 years,Hypertensive heart disease,Number,2019,68108.44012366087,102321.28195491942,43944.68881094697
+Prevalence,Colombia,Male,70 to 89 years,Hypertensive heart disease,Number,2019,30307.670041604186,47473.30187877547,18917.56048659898
+Prevalence,Colombia,Female,70 to 89 years,Hypertensive heart disease,Number,2019,26593.70903361578,40950.516403426554,16344.20853675593
+Prevalence,Colombia,Both,70 to 89 years,Hypertensive heart disease,Number,2019,56901.379075219964,87483.71064730728,35599.61738652849
+Prevalence,Colombia,Male,75 to 94 years,Hypertensive heart disease,Number,2019,25698.83223046981,39215.14616974847,16143.108243167728
+Prevalence,Colombia,Female,75 to 94 years,Hypertensive heart disease,Number,2019,22997.460935338488,35316.32210039178,14548.23514810512
+Prevalence,Colombia,Both,75 to 94 years,Hypertensive heart disease,Number,2019,48696.29316580829,74459.56966587271,30772.030989775092
+Prevalence,Colombia,Male,<70 years,Hypertensive heart disease,Number,2019,12802.64672249632,19033.88385628025,8170.370811390237
+Prevalence,Colombia,Female,<70 years,Hypertensive heart disease,Number,2019,14093.779792134419,20534.94447540264,9003.775869734203
+Prevalence,Colombia,Both,<70 years,Hypertensive heart disease,Number,2019,26896.42651463075,39539.82974717868,17429.919571270035
