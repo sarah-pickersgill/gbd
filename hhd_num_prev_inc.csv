@@ -1,0 +1,1009 @@
+"location","sex","age","cause","metric","year","measure","lower","upper","val"
+"Colombia","Both","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","<20 years","Hypertensive heart disease","Number",2019,"Incidence",0.535093851713826,2.69692795057872,1.36595182791104
+"Colombia","Both","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",1.41874311157184,7.15061094429366,3.62167261010539
+"Colombia","Both","<70 years","Hypertensive heart disease","Number",2019,"Incidence",1816.45639874883,4120.63730162518,2803.00697006709
+"Colombia","Both","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",17429.91957127,39539.8297471787,26896.4265146308
+"Colombia","Both","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",8.60186158579148,33.3870511394653,18.9081342703144
+"Colombia","Both","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",19.7527765517079,76.6679345279909,43.4194560707808
+"Colombia","Both","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",498.94173295439,1325.91117120308,822.320516898644
+"Colombia","Both","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",4096.73571508913,10886.857705687,6751.95039485139
+"Colombia","Both","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",250.960891061822,725.382854630412,445.563987810991
+"Colombia","Both","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",1962.79017707362,5673.29170558078,3484.80041983006
+"Colombia","Both","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.535093851713826,2.69692795057872,1.36595182791104
+"Colombia","Both","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",1.41874311157184,7.15061094429366,3.62167261010538
+"Colombia","Both","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",54.221825372775,230.353107834603,126.690195689382
+"Colombia","Both","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",319.387596539218,1356.86921199768,746.254424821184
+"Colombia","Both","20 plus","Hypertensive heart disease","Number",2019,"Incidence",6388.96612212563,12353.458220118,8920.35544105695
+"Colombia","Both","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",67130.803872963,129801.530494213,93728.8788426819
+"Colombia","Both","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",8.12859901217456,32.9072349397219,18.1897294396622
+"Colombia","Both","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",17.7847737866733,71.9985976022822,39.7977834606754
+"Colombia","Both","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",494.96103989188,1315.94675344322,815.960685390295
+"Colombia","Both","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",4093.53031548953,10883.418076636,6748.32872224128
+"Colombia","Both","25 plus","Hypertensive heart disease","Number",2019,"Incidence",6353.95666007712,12289.7563817463,8871.97136627184
+"Colombia","Both","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",67098.5439420887,129781.30049256,93689.0810592213
+"Colombia","Both","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",14.9695806469654,68.2683374197365,35.9255169558966
+"Colombia","Both","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",55.2356702596391,251.900668684047,132.560160186267
+"Colombia","Both","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",233.676971697979,680.762971647233,416.400793713677
+"Colombia","Both","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",1931.24387419708,5626.22542230288,3441.38096375928
+"Colombia","Both","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",8.88254558457505,62.6013380975863,31.179592577389
+"Colombia","Both","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",53.0280033513042,373.724394074556,186.139381322993
+"Colombia","Both","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",13.991494303323,81.9175796807647,41.0508991455243
+"Colombia","Both","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",130.925966393478,766.547021483736,384.135427241143
+"Colombia","Both","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",38.7463392892629,162.867452686582,86.4388781514481
+"Colombia","Both","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",362.495429590926,1523.72348745634,808.687964944081
+"Colombia","Both","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",116.778674256657,350.007208870196,211.063684186793
+"Colombia","Both","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",1067.76427751105,3200.28632695012,1929.85803006479
+"Colombia","Both","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.535093851713826,2.69692795057872,1.36595182791104
+"Colombia","Both","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",1.41874311157184,7.15061094429366,3.62167261010539
+"Colombia","Both","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",1427.25638323871,3573.07072075757,2323.99982592307
+"Colombia","Both","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",14377.9669916845,35994.5791697427,23411.6260948007
+"Colombia","Both","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",202.164318715784,645.540639156078,370.426140551697
+"Colombia","Both","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",1783.08460590485,5693.65347691948,3267.14997502133
+"Colombia","Both","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",2289.89273252658,5355.21342146123,3596.74696314928
+"Colombia","Both","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",24551.5427458006,57416.9913561069,38563.2416563701
+"Colombia","Both","55 plus","Hypertensive heart disease","Number",2019,"Incidence",5546.84394443758,11220.5363498935,7908.99600604497
+"Colombia","Both","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",61002.3746820278,123399.787231425,86980.5501204407
+"Colombia","Both","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",196.718847963503,732.42043877523,402.373222579818
+"Colombia","Both","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",1769.85095203755,6589.48049095224,3620.09354177101
+"Colombia","Both","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",4571.95281873798,9724.81967697448,6654.18573274658
+"Colombia","Both","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",52936.6069686578,112599.359068445,77045.8551949993
+"Colombia","Both","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",290.478426278168,900.209893709456,536.798202943855
+"Colombia","Both","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",2877.37026959706,8917.14134417767,5317.32152956746
+"Colombia","Both","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",2416.32056501219,5909.44049951478,3860.23499551218
+"Colombia","Both","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",29369.8235775789,71827.8971035754,46920.2730911728
+"Colombia","Both","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",4082.92380904211,9132.08821854752,6117.61256583105
+"Colombia","Both","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",49004.7035873857,109606.570490663,73425.7616532283
+"Colombia","Both","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",545.892890471126,1530.06196314372,940.571613033195
+"Colombia","Both","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",6504.4010096059,18230.9327554028,11207.0610484409
+"Colombia","Both","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",1255.92361389505,3391.83325841329,2110.88583588914
+"Colombia","Both","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",15682.7450460347,42353.894489957,26358.6766100103
+"Colombia","Both","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",3518.48734334253,8192.48344348915,5453.18879332255
+"Colombia","Both","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",43944.688810947,102321.281954919,68108.4401236609
+"Colombia","Both","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",680.573364971601,1869.08052672551,1157.10360048316
+"Colombia","Both","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",8911.72232390222,24474.5497142482,15151.6155615694
+"Colombia","Both","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",2810.71368156499,6907.14340439818,4492.56189835225
+"Colombia","Both","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",35599.6173865285,87483.7106473073,56901.37907522
+"Colombia","Both","70+ years","Hypertensive heart disease","Number",2019,"Incidence",3854.14450998727,8538.4016775349,5828.39740270285
+"Colombia","Both","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",44196.6924834766,97912.5490143226,66836.0740006613
+"Colombia","Both","75 plus","Hypertensive heart disease","Number",2019,"Incidence",3038.53010353901,7121.11330111973,4711.19839172208
+"Colombia","Both","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",33334.3599217199,78122.5611509972,51684.4584390919
+"Colombia","Both","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",568.428628585808,1910.60852528324,1085.63932006893
+"Colombia","Both","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",7981.73218704896,26828.2855510704,15244.274951595
+"Colombia","Both","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",1176.13983768014,3822.03703349254,2221.80798432689
+"Colombia","Both","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",15760.6621239454,51216.5580828363,29772.9605132068
+"Colombia","Both","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",2661.01303707965,6438.89529690337,4211.01457406973
+"Colombia","Both","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",30772.0309897751,74459.5696658727,48696.2931658083
+"Colombia","Both","80 plus","Hypertensive heart disease","Number",2019,"Incidence",2378.45681938156,5551.35608009513,3709.96886314614
+"Colombia","Both","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",23361.7601959745,54526.720203131,36440.1834874968
+"Colombia","Both","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",610.078111297711,1964.81778840602,1140.46281624419
+"Colombia","Both","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",7771.96145355837,25030.3819002376,14528.6855616118
+"Colombia","Both","85 plus","Hypertensive heart disease","Number",2019,"Incidence",1590.34078438918,4196.3717023952,2684.78771676415
+"Colombia","Both","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",12979.3311333356,34248.0670926552,21911.497925885
+"Colombia","Both","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",709.237837418425,1812.33623910283,1169.04840485549
+"Colombia","Both","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",7266.08224598813,18567.2329872285,11976.8030004437
+"Colombia","Both","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",519.621947839684,1642.90669508604,980.908730561033
+"Colombia","Both","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",3679.82173684582,11634.6197332919,6946.52965215775
+"Colombia","Both","95 plus","Hypertensive heart disease","Number",2019,"Incidence",243.355985869264,1218.30042927839,591.634402675486
+"Colombia","Both","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",1229.11700660364,6153.26461533203,2988.1652732836
+"Colombia","Both","All Ages","Hypertensive heart disease","Number",2019,"Incidence",6398.32450800145,12371.4488231828,8933.54133065885
+"Colombia","Both","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",67132.4990891403,129803.712802476,93732.5005152921
+"Colombia","Both","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Both","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Both","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","<20 years","Hypertensive heart disease","Number",2019,"Incidence",0.21294759815524,1.20386706820198,0.584612642390315
+"Colombia","Female","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",0.657202932450445,3.71539747034895,1.80424266934642
+"Colombia","Female","<70 years","Hypertensive heart disease","Number",2019,"Incidence",890.176614551086,2030.22905251951,1393.41020512998
+"Colombia","Female","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",9003.7758697342,20534.9444754026,14093.7797921344
+"Colombia","Female","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",3.68128603841414,15.5332965753831,8.38534714005736
+"Colombia","Female","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",9.92416412433442,41.8753074326362,22.6055678339238
+"Colombia","Female","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",252.94799025531,648.459953675344,414.444751659763
+"Colombia","Female","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",2361.59567837458,6054.20988976023,3869.37620440009
+"Colombia","Female","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",127.634219963313,352.647631810891,221.891496202398
+"Colombia","Female","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",1162.5686644716,3212.12513745374,2021.12020171216
+"Colombia","Female","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.21294759815524,1.20386706820198,0.584612642390315
+"Colombia","Female","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.657202932450445,3.71539747034895,1.80424266934642
+"Colombia","Female","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",29.1813149948997,114.168292474513,64.7850334414361
+"Colombia","Female","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",201.758595146234,789.355596344034,447.921463989216
+"Colombia","Female","20 plus","Hypertensive heart disease","Number",2019,"Incidence",3172.97883794704,6221.0927277648,4429.35761157641
+"Colombia","Female","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",32582.3796865955,63882.5582123009,45483.7611086844
+"Colombia","Female","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",3.40573075151446,14.6723401111226,8.08358855710968
+"Colombia","Female","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",8.76389394199737,37.7560183104939,20.8013251645774
+"Colombia","Female","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",250.64643492934,642.858107610881,410.806367526021
+"Colombia","Female","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",2359.73246928574,6052.24307339793,3867.57196173074
+"Colombia","Female","25 plus","Hypertensive heart disease","Number",2019,"Incidence",3156.83096449111,6191.85365042477,4407.0440195643
+"Colombia","Female","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",32565.7920694467,63875.0128759849,45462.9597835199
+"Colombia","Female","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",6.59103951913091,32.2497375336898,16.64032424856
+"Colombia","Female","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",28.2310306277889,138.133495544842,71.2745693837656
+"Colombia","Female","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",117.821705342479,328.590076230404,205.973822465125
+"Colombia","Female","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",1143.19576875019,3188.23075687113,1998.51463387824
+"Colombia","Female","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",5.74957312072187,32.3489648327469,16.5296926002824
+"Colombia","Female","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",41.0169318922828,230.774573950291,117.921324131457
+"Colombia","Female","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",7.94059521919164,39.7062784271628,20.4380096045043
+"Colombia","Female","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",91.7375713389451,458.726008475052,236.12000264007
+"Colombia","Female","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",18.9476430100699,78.0962703932647,41.8590134847044
+"Colombia","Female","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",214.49072568813,884.063822676274,473.851558959172
+"Colombia","Female","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",57.388411312605,168.875661516557,103.65138931485
+"Colombia","Female","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",608.67286475637,1791.12873717646,1099.34717876377
+"Colombia","Female","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.21294759815524,1.20386706820198,0.584612642390315
+"Colombia","Female","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.657202932450445,3.71539747034895,1.80424266934642
+"Colombia","Female","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",717.911607971641,1756.97171307307,1164.06247079139
+"Colombia","Female","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",7445.56471540735,18221.8067622364,12072.6595904223
+"Colombia","Female","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",104.556889545192,328.127724789268,190.672122743314
+"Colombia","Female","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",1013.50892801688,3180.66442154487,1848.25600268793
+"Colombia","Female","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",1125.03320179272,2636.0556753318,1756.58487729213
+"Colombia","Female","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",12198.4399889768,28582.0604333251,19046.1891942815
+"Colombia","Female","55 plus","Hypertensive heart disease","Number",2019,"Incidence",2751.07864585391,5719.65166401512,3992.72451586684
+"Colombia","Female","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",28674.5075521808,59615.9601190677,41616.1891469537
+"Colombia","Female","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",106.095104755107,392.838918486286,215.388595093315
+"Colombia","Female","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",1010.5500192987,3741.76902481911,2051.56448481467
+"Colombia","Female","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",2233.29173403378,4932.91802547179,3304.21951459778
+"Colombia","Female","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",24885.0254096981,54966.3031197904,36818.1126213501
+"Colombia","Female","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",146.313227240356,477.476146638304,279.494029989248
+"Colombia","Female","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",1476.14360095496,4817.22241907028,2819.79511801752
+"Colombia","Female","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",1179.68705509038,2911.29383478218,1873.90020111124
+"Colombia","Female","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",13944.6540645594,34413.3516012953,22150.6966133509
+"Colombia","Female","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",2029.96346751973,4573.7503039106,3057.77460455703
+"Colombia","Female","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",23080.4528573672,52003.0187537114,34766.5481365354
+"Colombia","Female","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",267.154715789062,749.28254506798,458.096932656064
+"Colombia","Female","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",3121.80860085911,8755.6631248603,5353.04398490214
+"Colombia","Female","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",606.696430511475,1642.41071385832,1022.74558335309
+"Colombia","Female","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",7312.16865510202,19795.0466439268,12326.5735887613
+"Colombia","Female","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",1773.80206686242,4105.88211760811,2747.22455493182
+"Colombia","Female","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",20627.0784934786,47746.2250761045,31946.7530185179
+"Colombia","Female","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",328.081472355169,914.731256663885,561.217732339668
+"Colombia","Female","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",4076.64570826813,11366.1866515297,6973.5296038592
+"Colombia","Female","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",1407.32698021343,3526.06652433558,2289.8658043176
+"Colombia","Female","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",16344.2085367559,40950.5164034266,26593.7090336158
+"Colombia","Female","70+ years","Hypertensive heart disease","Number",2019,"Incidence",1965.22476052024,4436.44505978803,3025.18616924297
+"Colombia","Female","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",20392.7661990328,46036.1525442828,31391.7855592194
+"Colombia","Female","75 plus","Hypertensive heart disease","Number",2019,"Incidence",1585.7321188403,3764.4710119008,2480.26228202395
+"Colombia","Female","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",15611.5798861728,37061.3291067415,24418.2559553602
+"Colombia","Female","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",275.298703190501,939.398493972935,533.763991236904
+"Colombia","Female","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",3612.61235500707,12327.2742162294,7004.32790657206
+"Colombia","Female","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",596.412955091637,1955.24396475805,1125.07288498123
+"Colombia","Female","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",7342.37395828376,24070.7923031706,13850.6479132201
+"Colombia","Female","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",1398.30259612573,3394.42581013149,2210.39933729503
+"Colombia","Female","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",14548.2351481051,35316.3221003918,22997.4609353385
+"Colombia","Female","80 plus","Hypertensive heart disease","Number",2019,"Incidence",1257.66853386957,3037.41395498125,1982.06266778467
+"Colombia","Female","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",11049.5746244532,26685.9917832702,17413.9280487881
+"Colombia","Female","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",309.03753637575,1023.01943166262,592.91264353552
+"Colombia","Female","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",3568.43439107358,11812.7324126828,6846.32000664799
+"Colombia","Female","85 plus","Hypertensive heart disease","Number",2019,"Incidence",834.75140353235,2303.0986762863,1439.35145548989
+"Colombia","Female","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",6128.68081072933,16909.1739203347,10567.6080421401
+"Colombia","Female","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",370.131230632823,997.713706729262,630.476549349843
+"Colombia","Female","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",3387.09473428102,9130.142400048,5769.53151653653
+"Colombia","Female","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",268.957442489004,867.885965167882,525.374703638876
+"Colombia","Female","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",1728.94695921844,5579.05662152002,3377.2815055819
+"Colombia","Female","95 plus","Hypertensive heart disease","Number",2019,"Incidence",124.632527428928,606.845752038262,300.956644781408
+"Colombia","Female","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",588.381341213956,2864.87584629845,1420.79502002169
+"Colombia","Female","All Ages","Hypertensive heart disease","Number",2019,"Incidence",3177.38265976154,6229.50933774938,4435.4687786956
+"Colombia","Female","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",32583.9395626057,63883.3837474103,45485.5653513538
+"Colombia","Female","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Female","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Female","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","<20 years","Hypertensive heart disease","Number",2019,"Incidence",0.296487594173104,1.58517368551776,0.7840961319696
+"Colombia","Male","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",0.687218580405755,3.67422054503249,1.81742994075896
+"Colombia","Male","<70 years","Hypertensive heart disease","Number",2019,"Incidence",881.853522864107,2054.38625980684,1381.8294634166
+"Colombia","Male","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",8170.37081139024,19033.8838562802,12802.6467224963
+"Colombia","Male","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",4.73792065157735,18.750168735358,10.4011287670338
+"Colombia","Male","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",9.48113931918472,37.521304198914,20.813888236857
+"Colombia","Male","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",217.694706502841,640.402363273884,382.074877181098
+"Colombia","Male","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",1642.40357019215,4831.53285946706,2882.5741904513
+"Colombia","Male","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",112.525155966245,345.711434558575,207.402570561104
+"Colombia","Male","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",794.111878087359,2439.75273098879,1463.6802181179
+"Colombia","Male","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.296487594173104,1.58517368551776,0.7840961319696
+"Colombia","Male","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.687218580405755,3.67422054503249,1.81742994075896
+"Colombia","Male","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",19.4477728208485,111.879467230844,57.1019509665666
+"Colombia","Male","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",101.606189438751,584.521757143176,298.332960831968
+"Colombia","Male","20 plus","Hypertensive heart disease","Number",2019,"Incidence",3199.68841193252,6409.6286389251,4512.30216575756
+"Colombia","Male","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",34210.7727885008,68531.1570361616,48245.1177339975
+"Colombia","Male","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",4.45894486538886,18.0552461581857,9.96457934408435
+"Colombia","Male","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",8.50052543665539,34.4204927098482,18.996458296098
+"Colombia","Male","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",216.123163427289,635.861628977327,379.300335577708
+"Colombia","Male","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",1641.43873798006,4829.3199731441,2880.75676051054
+"Colombia","Male","25 plus","Hypertensive heart disease","Number",2019,"Incidence",3181.91032579115,6373.54953837536,4486.53366740277
+"Colombia","Male","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",34202.617128435,68509.8108652589,48226.1212757014
+"Colombia","Male","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",7.76986903537792,36.4546175298562,18.7564715723379
+"Colombia","Male","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",25.3875582331524,119.113169242949,61.2855908025014
+"Colombia","Male","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",104.925994525781,324.9518678111,194.283956938825
+"Colombia","Male","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",779.241822206665,2413.28268316165,1442.86632988104
+"Colombia","Male","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",1.48784925898995,29.1021278349655,13.069907523075
+"Colombia","Male","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",7.76579219577232,151.897832294226,68.2180571915363
+"Colombia","Male","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",4.89977079787122,39.0337356963979,18.2662926057107
+"Colombia","Male","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",39.703823361951,316.298172134949,148.015424601073
+"Colombia","Male","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",17.3553746021554,78.1496649169022,40.4406455006845
+"Colombia","Male","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",143.697292275147,647.055767921843,334.836405984909
+"Colombia","Male","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",51.7318314268245,174.478804714166,99.7368418827215
+"Colombia","Male","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",430.77208528593,1452.88880118682,830.510851301023
+"Colombia","Male","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.296487594173104,1.58517368551776,0.7840961319696
+"Colombia","Male","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.687218580405755,3.67422054503249,1.81742994075896
+"Colombia","Male","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",699.193607828868,1781.60850005502,1147.56461807315
+"Colombia","Male","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",6908.65923747196,17603.8880842805,11338.9665043784
+"Colombia","Male","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",87.2257126338671,307.96552689362,170.856227694383
+"Colombia","Male","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",724.375339189048,2557.53293685885,1418.8939723334
+"Colombia","Male","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",1150.23161199841,2728.72760734541,1834.2097905877
+"Colombia","Male","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",12239.1292588907,29035.2391207364,19517.0524620886
+"Colombia","Male","55 plus","Hypertensive heart disease","Number",2019,"Incidence",2747.81386563148,5699.11896535637,3955.48629114542
+"Colombia","Male","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",31513.9052226022,65361.5942378618,45364.360973487
+"Colombia","Male","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",86.3368982979465,340.269870357082,180.924307503579
+"Colombia","Male","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",748.500494689658,2949.98049861978,1568.52905695633
+"Colombia","Male","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",2258.07722935067,5008.20018774165,3375.21008741323
+"Colombia","Male","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",26913.0949307382,59690.6807849045,40227.7425736492
+"Colombia","Male","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",137.497740358052,435.336987236929,255.266065315339
+"Colombia","Male","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",1345.27963068045,4259.34258909689,2497.52641154994
+"Colombia","Male","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",1206.87472293182,3050.41284292484,1997.77020809031
+"Colombia","Male","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",14963.5706988471,37820.8834508465,24769.5764778219
+"Colombia","Male","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",2048.40135912761,4593.65987213976,3089.16544253168
+"Colombia","Male","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",25634.6210598224,57487.1372620872,38659.2135166929
+"Colombia","Male","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",273.782695318294,793.205400006163,484.780270455413
+"Colombia","Male","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",3306.0928172454,9578.43837614309,5854.01706353875
+"Colombia","Male","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",637.649308406856,1758.4697597044,1096.1062123773
+"Colombia","Male","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",8163.04176178983,22511.5308619649,14032.103021249
+"Colombia","Male","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",1757.52979962599,4136.47317247327,2735.54012906393
+"Colombia","Male","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",23233.1604339459,54680.9191327716,36161.6871051429
+"Colombia","Male","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",344.8897659062,977.557163286195,601.428660918285
+"Colombia","Male","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",4689.73019544654,13292.5931692771,8178.08595771023
+"Colombia","Male","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",1389.88022103286,3487.88118611665,2226.71581604066
+"Colombia","Male","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",18917.560486599,47473.3018787755,30307.6700416042
+"Colombia","Male","70+ years","Hypertensive heart disease","Number",2019,"Incidence",1858.2320597285,4224.05830887423,2834.54468780692
+"Colombia","Male","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",23236.0821120482,52819.3264114826,35444.2884414419
+"Colombia","Male","75 plus","Hypertensive heart disease","Number",2019,"Incidence",1440.10292888496,3401.25782708172,2249.77458801579
+"Colombia","Male","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",17453.3654462795,41221.6339835095,27266.2024837317
+"Colombia","Male","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",290.646199763247,998.086149109313,556.595630923692
+"Colombia","Male","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",4302.78134039946,14775.856219682,8239.94704502298
+"Colombia","Male","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",585.4153747299,1942.55056093933,1106.92152216831
+"Colombia","Male","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",8420.80166535111,27942.2674987548,15922.3125999868
+"Colombia","Male","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",1268.21344634068,3080.76827111279,2018.91755286526
+"Colombia","Male","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",16143.1082431677,39215.1461697485,25698.8322304698
+"Colombia","Male","80 plus","Hypertensive heart disease","Number",2019,"Incidence",1109.5605744409,2617.42918065138,1735.09033504997
+"Colombia","Male","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",12166.9647323723,28701.6042783554,19026.2554387087
+"Colombia","Male","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",294.744919124131,950.785817847031,552.106837142107
+"Colombia","Male","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",4101.26820001144,13229.8383678521,7682.36555496381
+"Colombia","Male","85 plus","Hypertensive heart disease","Number",2019,"Incidence",742.739476103768,1958.60606047815,1243.12753205803
+"Colombia","Male","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",6777.70752553666,17872.8335611043,11343.8898837449
+"Colombia","Male","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",328.490326223411,840.943429082316,540.368700476112
+"Colombia","Male","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",3773.40255442142,9660.00466407942,6207.27148390717
+"Colombia","Male","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",232.539099686432,769.04940219798,452.968265375105
+"Colombia","Male","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",1832.33531796073,6059.86856749737,3569.24814657585
+"Colombia","Male","95 plus","Hypertensive heart disease","Number",2019,"Incidence",116.866858270582,613.859360546979,287.778004009842
+"Colombia","Male","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",636.510208192355,3343.35803293293,1567.37025326191
+"Colombia","Male","All Ages","Hypertensive heart disease","Number",2019,"Incidence",3204.6535183893,6419.55155963061,4519.30279719619
+"Colombia","Male","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",34212.0715214168,68533.5109812097,48246.9351639383
+"Colombia","Male","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Colombia","Male","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Colombia","Male","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","<20 years","Hypertensive heart disease","Number",2019,"Incidence",163.112914919013,796.770007304182,410.620133599632
+"Global","Both","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",509.366993062189,2488.14352305688,1282.27947398455
+"Global","Both","<70 years","Hypertensive heart disease","Number",2019,"Incidence",524749.915614399,1132145.62430865,793246.699651539
+"Global","Both","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",4812903.77673136,10383818.6322816,7275503.86008641
+"Global","Both","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",2266.60351527886,7178.36504202028,4233.49520790711
+"Global","Both","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",6275.81236183239,19875.5855467355,11721.7772673722
+"Global","Both","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",163139.235575424,371397.178117695,253001.844089534
+"Global","Both","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",1353224.12661107,3080703.54879023,2098625.74316626
+"Global","Both","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",86104.0500537502,205580.630362368,137508.895842403
+"Global","Both","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",701719.958745809,1675415.16765778,1120652.70631843
+"Global","Both","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",163.112914919013,796.770007304182,410.620133599632
+"Global","Both","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",509.366993062189,2488.14352305688,1282.27947398455
+"Global","Both","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",23885.7103532266,64361.9015928455,40400.5455840171
+"Global","Both","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",164417.054136756,443034.521563054,278096.761294122
+"Global","Both","20 plus","Hypertensive heart disease","Number",2019,"Incidence",1454704.70798559,2674295.29741278,1997558.60879439
+"Global","Both","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",13542916.0644359,24896981.8723758,18596742.2970366
+"Global","Both","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",2021.7792378416,6782.30441195243,3930.79468399505
+"Global","Both","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",5369.48927353108,18012.60499078,10439.4977933876
+"Global","Both","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",162192.083390552,369439.59294902,251641.048787176
+"Global","Both","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",1351816.43694986,3079154.68972663,2097343.46369228
+"Global","Both","25 plus","Hypertensive heart disease","Number",2019,"Incidence",1449078.35427927,2664710.57238046,1990310.80644135
+"Global","Both","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",13532061.9198261,24884112.2754901,18586302.7992432
+"Global","Both","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",4454.95863627381,15727.5487002185,9017.48159382987
+"Global","Both","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",20419.7655892581,72088.8528879183,41332.5634164516
+"Global","Both","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",82014.5976554586,197098.289569208,131211.723361671
+"Global","Both","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",693143.277473208,1665768.75729234,1108930.92905106
+"Global","Both","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",6846.33118643735,20622.6416054638,12473.947251621
+"Global","Both","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",47942.1046398583,144412.067554963,87350.0372862456
+"Global","Both","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",7205.49799718265,24370.0028570355,13991.0845383392
+"Global","Both","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",70912.4578262709,239835.858743051,137692.383324053
+"Global","Both","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",14752.5988035555,47974.188030433,27833.2685737514
+"Global","Both","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",131644.935560292,428098.05756404,248370.398776162
+"Global","Both","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",39269.0843370287,103708.645865171,67579.2973678208
+"Global","Both","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",345270.271166988,911849.942130281,594185.546248149
+"Global","Both","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",163.112914919013,796.770007304182,410.620133599632
+"Global","Both","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",509.366993062189,2488.14352305688,1282.27947398455
+"Global","Both","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",410004.702953268,975763.594862575,653292.243456201
+"Global","Both","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",3862770.36701325,9192945.03769408,6154851.15376798
+"Global","Both","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",66162.9497691364,181157.581341714,114959.942092432
+"Global","Both","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",562853.283803039,1541121.42671675,977973.036847828
+"Global","Both","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",628080.115377515,1406963.48135306,954338.637490327
+"Global","Both","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",6143442.11336868,13761936.5614223,9334675.67660373
+"Global","Both","55 plus","Hypertensive heart disease","Number",2019,"Incidence",1224740.41162775,2428231.91101529,1732951.43793782
+"Global","Both","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",11660730.9797481,23119151.4560679,16499398.8333443
+"Global","Both","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",65022.4177465793,206663.992053467,122828.7538613
+"Global","Both","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",556804.934368089,1769720.88272789,1051816.56730771
+"Global","Both","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",1095234.40273102,2243296.53975586,1578626.55032799
+"Global","Both","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",10682685.1739233,21880640.9168731,15397590.143534
+"Global","Both","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",84895.8191613409,251820.268964441,154769.263638398
+"Global","Both","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",783382.5857951,2323690.55868435,1428145.07414357
+"Global","Both","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",631301.66560169,1450684.30548692,967200.805615942
+"Global","Both","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",6610748.13285251,15191007.8594768,10128154.6813678
+"Global","Both","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",990165.272017795,2077255.05488721,1444060.59751983
+"Global","Both","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",9836627.92254449,20636135.8579167,14345773.5762263
+"Global","Both","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",152497.855409155,401943.227285636,251305.436398207
+"Global","Both","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",1636550.26576876,4313505.22060372,2696916.47546887
+"Global","Both","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",328489.59035776,839106.444569898,540864.766162381
+"Global","Both","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",3569188.38856694,9117272.10432686,5876740.99830463
+"Global","Both","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",843805.822551349,1879766.75162496,1279662.79157988
+"Global","Both","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",8517845.65069327,18975411.9036931,12917628.5020828
+"Global","Both","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",170179.502502417,447834.129276634,288867.255947773
+"Global","Both","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",1873320.51036969,4929717.42942753,3179824.52283576
+"Global","Both","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",653849.861709661,1554503.54817417,1033989.3143018
+"Global","Both","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",6463133.66370554,15365858.1287817,10220712.0266139
+"Global","Both","70+ years","Hypertensive heart disease","Number",2019,"Incidence",784694.070409842,1749560.01077978,1197563.3792848
+"Global","Both","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",7418993.45116636,16541445.5797001,11322520.7164241
+"Global","Both","75 plus","Hypertensive heart disease","Number",2019,"Incidence",577766.771442935,1411709.63516472,919844.564845998
+"Global","Both","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",5114537.24945134,12496809.9090005,8142696.19358836
+"Global","Both","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",141662.285554404,429916.340206046,258331.484922898
+"Global","Both","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",1548207.27327497,4698495.45489041,2823268.6089196
+"Global","Both","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",283236.447986281,870014.48250575,522688.827054097
+"Global","Both","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",2853788.59920127,8765953.07195476,5266424.6645584
+"Global","Both","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",540771.95527178,1351138.58358914,875221.982690801
+"Global","Both","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",4867215.34391651,12160916.2266886,7877431.1832513
+"Global","Both","80 plus","Hypertensive heart disease","Number",2019,"Incidence",434122.719101807,1030430.76181057,682746.491693332
+"Global","Both","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",3382345.27048851,8028311.95056276,5319427.58466876
+"Global","Both","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",141522.547487631,446906.905982153,266745.978393947
+"Global","Both","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",1296220.7377432,4093270.01003391,2443156.0556388
+"Global","Both","85 plus","Hypertensive heart disease","Number",2019,"Incidence",261937.121324155,691092.252818353,439100.950692931
+"Global","Both","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",1715783.76970447,4526906.55207595,2876271.52902996
+"Global","Both","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",144262.34048962,380095.089526926,244742.354889095
+"Global","Both","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",1045949.57588643,2755814.83246355,1774462.83921973
+"Global","Both","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",80216.3927423208,236165.273566283,145822.212593206
+"Global","Both","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",460180.346638437,1354818.05823408,836543.679473166
+"Global","Both","95 plus","Hypertensive heart disease","Number",2019,"Incidence",27368.0484948279,110141.892405769,58297.6796591708
+"Global","Both","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",124529.581783172,501165.576372373,265265.010337067
+"Global","Both","All Ages","Hypertensive heart disease","Number",2019,"Incidence",1456183.25632302,2676880.76252643,1999512.86742798
+"Global","Both","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",13544364.9451654,24898411.5185485,18598024.5765105
+"Global","Both","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Both","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Both","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","<20 years","Hypertensive heart disease","Number",2019,"Incidence",66.6717419290693,332.584041346934,168.930522460873
+"Global","Female","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",225.553461187108,1125.1465687098,571.499452972644
+"Global","Female","<70 years","Hypertensive heart disease","Number",2019,"Incidence",212892.518265804,457510.551840036,320416.837735183
+"Global","Female","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",2233545.1887168,4799936.13760367,3361628.16869748
+"Global","Female","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",906.384894452643,2919.89502372402,1725.46138433521
+"Global","Female","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",2690.50943441342,8667.40515746398,5121.85293652033
+"Global","Female","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",58974.0577168683,134884.766062825,91367.428013708
+"Global","Female","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",595382.225791741,1361751.17251449,922414.783070092
+"Global","Female","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",31197.9079601111,75377.574916916,50107.0449330966
+"Global","Female","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",302101.378792018,729910.138253958,485205.847162457
+"Global","Female","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",66.6717419290693,332.584041346934,168.930522460873
+"Global","Female","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",225.553461187108,1125.1465687098,571.499452972644
+"Global","Female","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",9364.46243036709,25327.310376008,16057.2203838621
+"Global","Female","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",69432.2081520704,187787.723965501,119055.234224724
+"Global","Female","20 plus","Hypertensive heart disease","Number",2019,"Incidence",741415.438090624,1375988.60889823,1021917.68721996
+"Global","Female","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",7152128.36961576,13273593.5352431,9858017.66011331
+"Global","Female","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",811.122138436124,2800.50389610884,1605.96865778636
+"Global","Female","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",2298.23442090266,7934.9510325518,4550.35348354768
+"Global","Female","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",58494.2175304548,133872.539389158,90669.0986142171
+"Global","Female","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",594717.521019155,1361097.69682118,921843.283617119
+"Global","Female","25 plus","Hypertensive heart disease","Number",2019,"Incidence",738633.170208879,1371227.32633561,1018124.70308081
+"Global","Female","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",7148532.76049799,13270814.0654287,9853467.30662976
+"Global","Female","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",1775.18440065426,6509.83674158792,3674.02652911875
+"Global","Female","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",8515.56656819473,31227.7125129315,17624.3197441873
+"Global","Female","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",29139.2394056193,71331.4375097799,47173.7041940925
+"Global","Female","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",296548.313971651,725935.815696692,480083.994225937
+"Global","Female","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",2655.072380212,8124.92049049799,4872.43902746169
+"Global","Female","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",20246.9985413815,61958.8582767065,37156.1493453937
+"Global","Female","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",2657.92643825587,9285.59524447565,5282.46561251196
+"Global","Female","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",29763.3909551911,103979.853443328,59152.9121986225
+"Global","Female","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",4932.84497541925,16395.5304445882,9476.8479602496
+"Global","Female","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",55523.8821938436,184547.356636424,106670.976350548
+"Global","Female","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",13299.2119929094,35378.2816884574,22873.0206956252
+"Global","Female","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",150870.964562896,401343.74019763,259479.636587186
+"Global","Female","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",66.6717419290693,332.584041346934,168.930522460873
+"Global","Female","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",225.553461187108,1125.1465687098,571.499452972644
+"Global","Female","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",169564.472936606,404618.776138423,269034.233651737
+"Global","Female","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",1812925.54584541,4326046.0336187,2876422.32153503
+"Global","Female","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",23592.9471456675,63390.9456804285,40532.1485912022
+"Global","Female","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",254490.513703518,683780.378549549,437208.935907634
+"Global","Female","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",275296.438443435,610367.863371018,416086.486834406
+"Global","Female","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",2958151.97666477,6558606.10377864,4470987.96647019
+"Global","Female","55 plus","Hypertensive heart disease","Number",2019,"Incidence",661958.821427063,1297240.42410075,934607.879020995
+"Global","Female","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",6329263.41743291,12403454.8586806,8936174.37649619
+"Global","Female","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",23692.0829905567,76509.4764350483,44820.7782937215
+"Global","Female","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",251288.467403542,811492.559893273,475388.537586689
+"Global","Female","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",559611.487897142,1153392.64107003,811628.704719903
+"Global","Female","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",5589378.14180154,11520041.5937432,8106516.46639166
+"Global","Female","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",35145.7359308981,103980.597103181,63990.6561037237
+"Global","Female","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",361630.457453099,1069903.64266669,658428.956645329
+"Global","Female","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",306599.853534665,709683.145735176,471159.458135156
+"Global","Female","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",3289376.3499441,7613881.50914849,5054864.7064733
+"Global","Female","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",526230.847884065,1099026.665957,769043.063531161
+"Global","Female","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",5221729.5893003,10905518.146899,7631127.92880497
+"Global","Female","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",71649.6847492206,188924.653579189,118414.307813003
+"Global","Female","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",789864.044462506,2082699.89598747,1305395.89139537
+"Global","Female","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",160603.31700816,410932.466759682,264648.866243925
+"Global","Female","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",1759854.28745986,4502903.65700692,2899961.53633054
+"Global","Female","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",465342.376043295,1035760.96801115,707107.965730578
+"Global","Female","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",4588680.17953527,10213503.1523689,6972698.97215964
+"Global","Female","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",86105.4560959944,227983.147893766,146387.859737579
+"Global","Female","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",937924.786784073,2483362.32189785,1594565.64493517
+"Global","Female","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",377113.678372672,885926.008859934,593484.486061677
+"Global","Female","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",3601134.58975519,8459886.1760631,5667303.08076427
+"Global","Female","70+ years","Hypertensive heart disease","Number",2019,"Incidence",483354.213608113,1058828.01157919,726300.553075539
+"Global","Female","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",4323738.23382916,9471511.83919545,6496960.9908688
+"Global","Female","75 plus","Hypertensive heart disease","Number",2019,"Incidence",373488.073281038,890199.965150406,587644.087733794
+"Global","Female","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",3115808.07232443,7426454.64695051,4902395.34593363
+"Global","Female","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",77379.3802599516,234436.658776617,140978.239473967
+"Global","Female","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",821376.743300963,2488528.83868286,1496474.21349744
+"Global","Female","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",161209.249849365,492938.756335258,297902.695900629
+"Global","Female","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",1575908.11630446,4818744.5055146,2912160.91370348
+"Global","Female","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",342699.098199026,837157.606119068,549173.433032727
+"Global","Female","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",2928763.7615661,7154488.79908352,4693327.93092733
+"Global","Female","80 plus","Hypertensive heart disease","Number",2019,"Incidence",297374.915229578,691374.744422667,461367.051722228
+"Global","Female","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",2195292.23913162,5103892.53777826,3405921.13243619
+"Global","Female","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",83519.9191342249,263084.768769129,158075.685203044
+"Global","Female","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",747983.717854728,2356122.05441237,1415686.70020605
+"Global","Female","85 plus","Hypertensive heart disease","Number",2019,"Incidence",192814.982652654,502868.185388063,321922.601137834
+"Global","Female","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",1192047.45540952,3108901.25109266,1990234.43223015
+"Global","Female","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",96671.1977618016,253518.407447261,163815.827843768
+"Global","Female","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",684880.844329096,1796087.20038075,1160576.52212562
+"Global","Female","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",63998.7107405935,187944.005001745,116457.397482892
+"Global","Female","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",341043.097670014,1001535.88896671,620590.495098231
+"Global","Female","95 plus","Hypertensive heart disease","Number",2019,"Incidence",23379.5550453123,93227.7518733103,49749.7874530665
+"Global","Female","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",98249.7290452161,391778.258538069,209067.415006297
+"Global","Female","All Ages","Hypertensive heart disease","Number",2019,"Incidence",742186.138977991,1377429.60427909,1022969.64403368
+"Global","Female","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",7152615.1990761,13274599.7342268,9858589.15956628
+"Global","Female","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Female","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Female","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","<20 years","Hypertensive heart disease","Number",2019,"Incidence",98.7135809717767,469.918348359753,244.059925493396
+"Global","Male","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",287.485301060533,1368.55148523785,710.78002101191
+"Global","Male","<70 years","Hypertensive heart disease","Number",2019,"Incidence",304670.678213295,660097.842399259,460488.016760147
+"Global","Male","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",2589520.50419826,5610441.10872145,3913875.69138893
+"Global","Male","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",1350.91789100806,4256.06596964216,2527.07947715781
+"Global","Male","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",3528.16598703692,11115.4847327336,6599.92433085187
+"Global","Male","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",102246.247584565,231740.048972101,158254.639964588
+"Global","Male","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",759934.476894852,1722383.53046205,1176210.96009617
+"Global","Male","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",54298.9469713956,129265.475058674,86412.4830164739
+"Global","Male","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",399295.265035635,950572.617010436,635446.859155976
+"Global","Male","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",98.7135809717767,469.918348359753,244.059925493396
+"Global","Male","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",287.485301060533,1368.55148523785,710.78002101191
+"Global","Male","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",14572.2983265401,38604.5443334581,24383.1907895611
+"Global","Male","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",95049.1098054309,251801.568367335,159041.527069398
+"Global","Male","20 plus","Hypertensive heart disease","Number",2019,"Incidence",694928.302761166,1309185.43437028,962764.064891693
+"Global","Male","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",6307658.64834954,11883088.9382225,8738724.63692324
+"Global","Male","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",1226.77900481641,4004.06839914058,2339.56117375474
+"Global","Male","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",3088.04859504951,10079.0425544482,5889.14430983996
+"Global","Male","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",101692.882234664,230813.811625253,157557.522963679
+"Global","Male","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",758707.036837375,1722048.37970107,1175500.18007516
+"Global","Male","25 plus","Hypertensive heart disease","Number",2019,"Incidence",692554.309178586,1304394.49328259,959279.189045146
+"Global","Male","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",6304695.15113444,11874606.1182106,8732835.4926134
+"Global","Male","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",2719.77919936716,9204.40265002219,5363.47928000111
+"Global","Male","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",12022.2684990663,40686.3174988001,23708.2436722642
+"Global","Male","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",51954.6510737228,124369.194485833,82985.5524110835
+"Global","Male","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",393701.338707433,942443.406915736,628846.934825124
+"Global","Male","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",4235.20826656018,12546.132072194,7632.59586805308
+"Global","Male","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",27851.8046563517,82506.5493063328,50193.8879408519
+"Global","Male","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",4551.97623278872,15135.982639512,8689.20613613795
+"Global","Male","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",41144.1275874318,136810.204850237,78539.4711254302
+"Global","Male","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",9592.90600040884,31112.3628171644,18110.8190038856
+"Global","Male","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",75055.0949324551,243423.770098002,141699.422425614
+"Global","Male","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",25340.0423980881,66661.1562960435,43476.5650132321
+"Global","Male","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",195081.233743238,513193.32496319,334705.909660963
+"Global","Male","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",98.7135809717767,469.918348359753,244.059925493396
+"Global","Male","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",287.485301060533,1368.55148523785,710.78002101191
+"Global","Male","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",234400.222870059,562461.477564459,373529.505239473
+"Global","Male","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",2057305.88389895,4936664.7057385,3278428.83223295
+"Global","Male","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",41011.6559718187,112360.83801505,71716.9544752587
+"Global","Male","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",309238.330488783,847229.333630683,540764.100940193
+"Global","Male","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",345052.352462314,778224.762498509,525751.074559798
+"Global","Male","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",3192056.0265688,7199304.75891988,4863687.71013355
+"Global","Male","55 plus","Hypertensive heart disease","Number",2019,"Incidence",558826.147360975,1123955.60622796,796902.038088885
+"Global","Male","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",5303697.79826727,10667218.9593355,7563224.45684808
+"Global","Male","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",39632.6815296996,126355.499866902,74926.556511925
+"Global","Male","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",304903.756294867,972083.266913533,576428.029721025
+"Global","Male","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",524398.335846473,1077824.4800033,760360.657347924
+"Global","Male","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",5028438.63090351,10335223.9740304,7291073.67714238
+"Global","Male","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",48227.4927033961,143356.916001322,88597.9929847685
+"Global","Male","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",418987.803106493,1245447.27350685,769716.117498238
+"Global","Male","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",320717.279774763,743579.431776596,492470.060812614
+"Global","Male","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",3303940.46202913,7660149.06681881,5073289.97489449
+"Global","Male","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",461000.254013012,981292.88692965,675315.447413105
+"Global","Male","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",4583714.70832809,9756972.14880538,6714645.64742135
+"Global","Male","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",79859.0860349244,211591.343861558,131917.242536192
+"Global","Male","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",842388.454355432,2231957.73906775,1391520.5840735
+"Global","Male","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",167265.390064455,429542.180802663,275533.615186896
+"Global","Male","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",1807083.23920919,4640640.09394139,2976779.46197409
+"Global","Male","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",379285.876305398,853384.938371654,577906.267279586
+"Global","Male","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",3901718.90148383,8778782.31776096,5944929.52992312
+"Global","Male","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",84150.3970682629,221052.44014172,142939.127562004
+"Global","Male","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",933265.55371242,2451570.46354746,1585258.87790059
+"Global","Male","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",278668.968670695,680911.90037817,447005.079341491
+"Global","Male","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",2838656.27823538,6936096.43784118,4553408.94584962
+"Global","Male","70+ years","Hypertensive heart disease","Number",2019,"Incidence",313018.342991381,721365.237387964,484931.315435869
+"Global","Male","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",3114850.82777466,7178317.6836625,4825559.72555532
+"Global","Male","75 plus","Hypertensive heart disease","Number",2019,"Incidence",212164.697949122,539998.632897075,344297.940631793
+"Global","Male","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",1996751.56158476,5082104.25161984,3240300.84765473
+"Global","Male","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",65252.1902396831,198289.20630887,118509.548034492
+"Global","Male","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",730542.321145585,2219981.52863383,1326794.39542216
+"Global","Male","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",122767.428171041,383967.095258721,227368.700358322
+"Global","Male","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",1271181.58952079,3975744.29753994,2354263.75085492
+"Global","Male","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",203703.786722752,527964.990593034,335724.225422894
+"Global","Male","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",1931984.17241888,5007368.89494013,3184103.25232396
+"Global","Male","80 plus","Hypertensive heart disease","Number",2019,"Incidence",143556.526690427,356117.68413151,230474.950344723
+"Global","Male","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",1191870.69862197,2956648.80422162,1913506.45223257
+"Global","Male","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",57678.8382519744,186042.235082471,109692.128985121
+"Global","Male","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",540268.835231606,1742629.09410195,1027469.35543276
+"Global","Male","85 plus","Hypertensive heart disease","Number",2019,"Incidence",74748.4167883382,195394.079486885,124706.146725921
+"Global","Male","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",531087.455914115,1388274.81616387,886037.096799815
+"Global","Male","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",48354.697121573,129723.142331744,82361.9158185992
+"Global","Male","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",360412.778589838,966894.24106288,613886.317094111
+"Global","Male","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",18132.0592494449,54679.7234403068,33036.4964174997
+"Global","Male","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",118525.76268101,357430.771364122,215953.184374934
+"Global","Male","95 plus","Hypertensive heart disease","Number",2019,"Incidence",4627.36030314048,19702.2281488274,10177.4896127935
+"Global","Male","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",25551.1458777287,108790.859705765,56197.5953307695
+"Global","Male","All Ages","Hypertensive heart disease","Number",2019,"Incidence",695601.664694728,1310434.3633482,963679.305736797
+"Global","Male","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",6308287.19505454,11884095.0702681,8739435.41694425
+"Global","Male","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Global","Male","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Global","Male","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","<20 years","Hypertensive heart disease","Number",2019,"Incidence",0.545269107834333,3.42947009248081,1.59236953661469
+"Sierra Leone","Both","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",1.14845208298657,7.22318945757401,3.35386708128922
+"Sierra Leone","Both","<70 years","Hypertensive heart disease","Number",2019,"Incidence",241.458293374895,606.098031440864,398.421127048128
+"Sierra Leone","Both","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",2118.1909919019,5316.99024482958,3495.14622380948
+"Sierra Leone","Both","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",2.95961173128628,12.9852464652851,6.8846483332569
+"Sierra Leone","Both","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",6.09693938983099,26.7502185587202,14.1826994279163
+"Sierra Leone","Both","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",92.9907792844247,264.035842361644,159.716078822081
+"Sierra Leone","Both","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",702.18335141088,1993.76297423015,1206.03324721548
+"Sierra Leone","Both","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",56.6665611970044,177.408608741472,105.37350881641
+"Sierra Leone","Both","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",400.071515005779,1252.52228783595,743.947372544719
+"Sierra Leone","Both","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.545269107834333,3.42947009248081,1.59236953661469
+"Sierra Leone","Both","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",1.14845208298657,7.22318945757401,3.35386708128922
+"Sierra Leone","Both","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",17.6930970112112,68.5814528526017,38.159345690443
+"Sierra Leone","Both","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",92.896503721866,360.082646137968,200.353267531965
+"Sierra Leone","Both","20 plus","Hypertensive heart disease","Number",2019,"Incidence",533.134628429332,1187.83343798564,816.106167426152
+"Sierra Leone","Both","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",4776.16585155556,10641.3824976196,7311.20846452641
+"Sierra Leone","Both","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",2.26605693401242,10.436191270802,5.29875621059569
+"Sierra Leone","Both","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",4.6310397480192,21.3279798347513,10.8288323466271
+"Sierra Leone","Both","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",91.1899877926695,259.627477961247,156.918408534319
+"Sierra Leone","Both","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",698.913014842018,1989.87879864934,1202.67938013419
+"Sierra Leone","Both","25 plus","Hypertensive heart disease","Number",2019,"Incidence",525.18109673294,1171.2783604664,804.10297906982
+"Sierra Leone","Both","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",4768.07259964409,10633.9323555962,7300.37963217978
+"Sierra Leone","Both","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",2.96837552152943,16.9665760764168,7.80170052600222
+"Sierra Leone","Both","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",10.745591216845,61.4194159547375,28.2423446900917
+"Sierra Leone","Both","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",50.273345176288,161.73367658612,95.2804367513303
+"Sierra Leone","Both","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",385.049781045948,1238.73827251532,729.764673116803
+"Sierra Leone","Both","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",3.94908847837082,18.8431999504244,9.6699142428104
+"Sierra Leone","Both","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",22.5602995582232,107.647179303627,55.2421560608161
+"Sierra Leone","Both","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",4.77273315944637,24.7639581107041,11.9948563541516
+"Sierra Leone","Both","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",40.8586134088927,212.000327090703,102.686067353141
+"Sierra Leone","Both","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",9.55182568403407,42.5697210152731,21.7413148437448
+"Sierra Leone","Both","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",85.3441356871789,380.354098438535,194.255400529734
+"Sierra Leone","Both","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",20.1024892360987,66.4491789261217,39.0093356274595
+"Sierra Leone","Both","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",180.02299792256,595.069608508571,349.33870448302
+"Sierra Leone","Both","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.545269107834333,3.42947009248081,1.59236953661469
+"Sierra Leone","Both","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",1.14845208298657,7.22318945757401,3.35386708128922
+"Sierra Leone","Both","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",161.075578645788,453.757433829246,284.504167471046
+"Sierra Leone","Both","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",1557.62550291007,4387.90384619204,2751.19885126476
+"Sierra Leone","Both","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",26.4786893256536,92.1778286868066,52.1678639556212
+"Sierra Leone","Both","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",234.539568796388,816.4810548929,462.085874670764
+"Sierra Leone","Both","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",241.968858276088,652.204003598497,409.856588798633
+"Sierra Leone","Both","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",2372.99822926683,6396.19063662341,4019.4798884523
+"Sierra Leone","Both","55 plus","Hypertensive heart disease","Number",2019,"Incidence",398.976914125968,990.493206440376,643.547935535478
+"Sierra Leone","Both","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",3787.07155965257,9401.71854393337,6108.52908439221
+"Sierra Leone","Both","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",24.9558957966765,100.332048271815,53.5766902220575
+"Sierra Leone","Both","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",229.755932773336,923.704904266353,493.252678131323
+"Sierra Leone","Both","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",368.730304314879,957.926263776621,612.619060896882
+"Sierra Leone","Both","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",3531.31331848542,9174.01616795959,5867.02482434366
+"Sierra Leone","Both","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",32.944409782569,120.834514558902,69.4721197555229
+"Sierra Leone","Both","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",316.778844269724,1161.89114093994,668.013115134531
+"Sierra Leone","Both","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",228.491867526314,684.209859015081,415.796564343003
+"Sierra Leone","Both","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",2290.51089309893,6858.84426525265,4168.14204484139
+"Sierra Leone","Both","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",319.491422742437,881.124520868716,557.493566296399
+"Sierra Leone","Both","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",3079.63035321247,8493.30412733694,5373.77214621234
+"Sierra Leone","Both","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",55.0424990967406,182.804308563201,105.784753088109
+"Sierra Leone","Both","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",586.847591522895,1949.00794769101,1127.84718332815
+"Sierra Leone","Both","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",118.952791405414,401.637242115249,229.00746885262
+"Sierra Leone","Both","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",1244.61504170005,4202.37093167378,2396.12822051568
+"Sierra Leone","Both","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",270.027727514093,780.649496842193,487.909599701619
+"Sierra Leone","Both","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",2604.34600624367,7529.15790572281,4705.75903107781
+"Sierra Leone","Both","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",60.3998487132823,221.535401810474,123.502280195691
+"Sierra Leone","Both","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",620.263712140957,2275.01183570656,1268.28103718754
+"Sierra Leone","Both","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",204.854675899079,637.372057929185,384.434004136961
+"Sierra Leone","Both","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1906.5742470198,5931.99616305783,3577.91184774966
+"Sierra Leone","Both","70+ years","Hypertensive heart disease","Number",2019,"Incidence",232.497701514156,675.50182494705,416.992840212084
+"Sierra Leone","Both","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",2129.54607502993,6187.21067186103,3819.41610779821
+"Sierra Leone","Both","75 plus","Hypertensive heart disease","Number",2019,"Incidence",155.95081992603,511.773683691339,295.76762833802
+"Sierra Leone","Both","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",1345.14925869134,4414.28901471419,2551.13507061068
+"Sierra Leone","Both","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",53.6159588530331,218.754551026157,116.010468478506
+"Sierra Leone","Both","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",510.230303989165,2081.75333346249,1104.00070919118
+"Sierra Leone","Both","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",94.9378384664244,384.460673211316,204.545366615213
+"Sierra Leone","Both","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",867.591677565114,3513.40293625058,1869.24266052913
+"Sierra Leone","Both","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",152.241432486272,503.676208693637,288.387646092129
+"Sierra Leone","Both","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",1319.14591488519,4364.26800689086,2498.8295172544
+"Sierra Leone","Both","80 plus","Hypertensive heart disease","Number",2019,"Incidence",96.5683488087733,310.842766638816,184.176118408237
+"Sierra Leone","Both","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",758.770338926145,2442.39726892635,1447.1343614195
+"Sierra Leone","Both","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",39.5256659758363,167.743212266431,89.1324219977725
+"Sierra Leone","Both","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",339.345628463197,1440.15095967736,765.24195133795
+"Sierra Leone","Both","85 plus","Hypertensive heart disease","Number",2019,"Incidence",50.3064827196508,172.845961094891,100.07695033024
+"Sierra Leone","Both","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",342.772323009756,1177.71723253883,681.892410081549
+"Sierra Leone","Both","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",30.5883031067011,106.45105075257,61.6858124816825
+"Sierra Leone","Both","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",218.376409029367,759.976717886529,440.388150032999
+"Sierra Leone","Both","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",13.3979314948893,55.1727625452888,30.4956728335701
+"Sierra Leone","Both","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",83.122327715763,342.29824589138,189.198706692272
+"Sierra Leone","Both","95 plus","Hypertensive heart disease","Number",2019,"Incidence",3.46881786424416,19.3154598777864,9.47721481967176
+"Sierra Leone","Both","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",19.1447003506583,106.603663255741,52.3055533562781
+"Sierra Leone","Both","All Ages","Hypertensive heart disease","Number",2019,"Incidence",536.411289659585,1193.49136053836,820.26575976277
+"Sierra Leone","Both","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",4783.3446256831,10642.7299262349,7314.5623316077
+"Sierra Leone","Both","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Both","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Both","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","<20 years","Hypertensive heart disease","Number",2019,"Incidence",0.233268476449994,1.52424497347242,0.715477608952367
+"Sierra Leone","Female","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",0.502505685154121,3.28352024411528,1.54127797965069
+"Sierra Leone","Female","<70 years","Hypertensive heart disease","Number",2019,"Incidence",116.330162007327,282.298765454548,189.041433412915
+"Sierra Leone","Female","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",907.54932304371,2202.35276099945,1474.80603448569
+"Sierra Leone","Female","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",1.36567064909576,6.32291147304383,3.27344692437063
+"Sierra Leone","Female","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",2.79733432012125,12.9513636969097,6.70507595129202
+"Sierra Leone","Female","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",44.1839094983456,123.889800990816,76.6949441731547
+"Sierra Leone","Female","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",296.406087134174,831.110048079701,514.505134639339
+"Sierra Leone","Female","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",28.0798374429914,88.0927909594149,51.7233250359275
+"Sierra Leone","Female","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",176.349944096664,553.249597422061,324.838257952809
+"Sierra Leone","Female","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.233268476449994,1.52424497347242,0.715477608952367
+"Sierra Leone","Female","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.502505685154121,3.28352024411528,1.54127797965069
+"Sierra Leone","Female","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",8.60242869945646,36.7039979051059,19.4825897195921
+"Sierra Leone","Female","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",41.5087838271599,177.10560213441,94.0081729610722
+"Sierra Leone","Female","20 plus","Hypertensive heart disease","Number",2019,"Incidence",267.83083468021,589.606355158625,406.778454577378
+"Sierra Leone","Female","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",2128.2832151936,4685.23092478829,3232.41257196215
+"Sierra Leone","Female","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",1.05101085969443,5.14924008879754,2.56829869827464
+"Sierra Leone","Female","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",2.11315286228546,10.353015225172,5.16379797164132
+"Sierra Leone","Female","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",43.2726818492646,121.900845619062,75.3155885744366
+"Sierra Leone","Female","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",294.724135993018,830.249475339766,512.963856659689
+"Sierra Leone","Female","25 plus","Hypertensive heart disease","Number",2019,"Incidence",263.999634421253,581.429304498015,400.879470341947
+"Sierra Leone","Female","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",2125.30837708698,4680.75107089621,3227.24877399051
+"Sierra Leone","Female","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",1.36616270807401,8.89922957266184,3.97784205492902
+"Sierra Leone","Female","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",4.6492057082095,30.2850814792147,13.5370449499415
+"Sierra Leone","Female","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",24.9925671778929,79.7883831041507,46.6410382586024
+"Sierra Leone","Female","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",170.47143930642,544.227426133633,318.133182001517
+"Sierra Leone","Female","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",1.87040527309325,9.9148312301635,4.9941982187624
+"Sierra Leone","Female","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",9.86938913844381,52.3166444514192,26.3524094828788
+"Sierra Leone","Female","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",2.37346625090382,12.8196136286666,6.10438762747354
+"Sierra Leone","Female","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",18.4350482564959,99.5717532465882,47.4136425769599
+"Sierra Leone","Female","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",4.75261184885713,21.1668377106846,10.7804134888588
+"Sierra Leone","Female","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",37.5410959335534,167.197808358335,85.1549736985023
+"Sierra Leone","Female","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",9.33689388074662,31.4676369179068,18.4176781835852
+"Sierra Leone","Female","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",73.8504083768346,248.894104048181,145.675111293234
+"Sierra Leone","Female","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.233268476449994,1.52424497347242,0.715477608952367
+"Sierra Leone","Female","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.502505685154121,3.28352024411528,1.54127797965069
+"Sierra Leone","Female","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",74.6052691909192,208.926337271707,133.275880576104
+"Sierra Leone","Female","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",643.729796856438,1802.71594899956,1149.96777653288
+"Sierra Leone","Female","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",12.073642639598,41.5835818942459,23.9482974535757
+"Sierra Leone","Female","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",95.6214150137823,329.335649626423,189.666876686531
+"Sierra Leone","Female","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",114.721793558662,314.389472215431,196.459177992935
+"Sierra Leone","Female","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",999.571812220345,2739.27773213103,1711.75023055495
+"Sierra Leone","Female","55 plus","Hypertensive heart disease","Number",2019,"Incidence",202.716996270812,496.470867342134,324.790472349456
+"Sierra Leone","Female","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",1697.33573491494,4156.91708137917,2719.44871530246
+"Sierra Leone","Female","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",11.0177376867317,43.3108619844673,24.2679743186993
+"Sierra Leone","Female","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",91.1762815358273,358.415081038889,200.827404109521
+"Sierra Leone","Female","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",187.191006320137,478.201942410704,307.344803592316
+"Sierra Leone","Female","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1583.01174609448,4043.99392215836,2599.11223168311
+"Sierra Leone","Female","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",15.2520485376774,55.1321439074179,32.3517387100092
+"Sierra Leone","Female","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",130.065364906449,470.1520846645,275.88692038848
+"Sierra Leone","Female","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",114.121101514997,340.685335753573,207.484181566628
+"Sierra Leone","Female","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",1007.45089765733,3007.53973425785,1831.65183470935
+"Sierra Leone","Female","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",164.729920313165,442.30668454964,282.72616681666
+"Sierra Leone","Female","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1397.35657644544,3751.96050168807,2398.28482757359
+"Sierra Leone","Female","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",26.483548492564,89.4887278362102,51.2125901049965
+"Sierra Leone","Female","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",250.076953583752,845.017745399507,483.586575348348
+"Sierra Leone","Female","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",59.2148423466127,194.591678230002,113.708552997489
+"Sierra Leone","Female","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",544.386157737562,1788.96053491553,1045.36902937042
+"Sierra Leone","Female","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",140.679725194939,399.857152591761,250.470298977148
+"Sierra Leone","Female","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1192.07089845154,3388.24997334785,2122.39790718511
+"Sierra Leone","Female","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",30.9657230065451,107.465078183091,62.6497685835027
+"Sierra Leone","Female","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",277.670616420527,963.64275093696,561.78245402207
+"Sierra Leone","Female","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",111.418999637624,329.697597610664,199.979792900732
+"Sierra Leone","Female","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",913.065848001412,2701.83377633519,1638.81133183676
+"Sierra Leone","Female","70+ years","Hypertensive heart disease","Number",2019,"Incidence",125.248055781771,351.409706505611,218.157635762272
+"Sierra Leone","Female","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",1009.95705673453,2833.64648397205,1759.14781545611
+"Sierra Leone","Female","75 plus","Hypertensive heart disease","Number",2019,"Incidence",85.1038450026618,267.73466108191,155.993139593167
+"Sierra Leone","Female","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",653.23639486196,2055.06607579558,1197.36536143404
+"Sierra Leone","Female","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",29.1103909732769,113.692654350703,60.793499486196
+"Sierra Leone","Female","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",244.39823151541,954.514272416065,510.395884950451
+"Sierra Leone","Female","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",51.1789665921774,197.741463535166,107.188743492654
+"Sierra Leone","Female","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",415.507804218974,1605.40797885321,870.235614574352
+"Sierra Leone","Female","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",82.3815591718283,262.622921577228,151.674428655846
+"Sierra Leone","Female","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",635.216000373637,2024.99544227822,1169.50959533029
+"Sierra Leone","Female","80 plus","Hypertensive heart disease","Number",2019,"Incidence",51.1717732872394,161.766570477802,96.8936070957434
+"Sierra Leone","Female","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",362.804599390502,1146.91463724611,686.969476483591
+"Sierra Leone","Female","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",21.287708075985,85.2672090998397,46.5530100368107
+"Sierra Leone","Female","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",164.547106885632,659.087982581782,359.839729623901
+"Sierra Leone","Female","85 plus","Hypertensive heart disease","Number",2019,"Incidence",26.8389385387362,91.4365556392916,52.6812915897214
+"Sierra Leone","Female","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",166.659072039012,567.784433475041,327.12974685969
+"Sierra Leone","Female","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",15.726559787183,54.9465601682692,31.9813681087861
+"Sierra Leone","Female","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",101.688789762637,355.287442437659,206.793263240338
+"Sierra Leone","Female","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",7.00662257208001,29.2595302149268,16.0880101225648
+"Sierra Leone","Female","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",40.2770434559905,168.196211205169,92.4807175155997
+"Sierra Leone","Female","95 plus","Hypertensive heart disease","Number",2019,"Incidence",1.89100319373727,10.9024605136878,5.2431680242796
+"Sierra Leone","Female","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",10.0464723659951,57.9223073947572,27.8557661037524
+"Sierra Leone","Female","All Ages","Hypertensive heart disease","Number",2019,"Incidence",269.169927818243,592.396986673175,408.790706805343
+"Sierra Leone","Female","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",2129.41025777983,4686.46787672179,3233.9538499418
+"Sierra Leone","Female","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Female","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Female","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","<1 year","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","<1 year","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","<20 years","Hypertensive heart disease","Number",2019,"Incidence",0.291149027753101,1.89947245519224,0.874836861055748
+"Sierra Leone","Male","<20 years","Hypertensive heart disease","Number",2019,"Prevalence",0.603236532604555,3.93554869989026,1.81258910163853
+"Sierra Leone","Male","<70 years","Hypertensive heart disease","Number",2019,"Incidence",130.510229137604,333.410234076834,215.473178460972
+"Sierra Leone","Male","<70 years","Hypertensive heart disease","Number",2019,"Prevalence",1223.70247159239,3126.15287085157,2020.3401893238
+"Sierra Leone","Male","0 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","0 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","0 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","0 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","1 to 4","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","1 to 4","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","10 to 14","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","10 to 14","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","10 to 24","Hypertensive heart disease","Number",2019,"Incidence",1.53506144698141,6.94098121573261,3.61519492361564
+"Sierra Leone","Male","10 to 24","Hypertensive heart disease","Number",2019,"Prevalence",3.17510169065212,14.3566377985676,7.47762347662426
+"Sierra Leone","Male","10 to 54","Hypertensive heart disease","Number",2019,"Incidence",47.8944561784083,143.123324047446,85.570489269135
+"Sierra Leone","Male","10 to 54","Hypertensive heart disease","Number",2019,"Prevalence",387.053564456619,1156.63475795801,691.528112576144
+"Sierra Leone","Male","15-49 years","Hypertensive heart disease","Number",2019,"Incidence",29.4772086603336,94.869843303002,55.4071492458436
+"Sierra Leone","Male","15-49 years","Hypertensive heart disease","Number",2019,"Prevalence",222.970627264318,717.611654260973,419.109114591911
+"Sierra Leone","Male","15 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.291149027753101,1.89947245519224,0.874836861055748
+"Sierra Leone","Male","15 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.603236532604555,3.93554869989026,1.81258910163853
+"Sierra Leone","Male","15 to 39","Hypertensive heart disease","Number",2019,"Incidence",8.85821441849431,34.2822186584377,19.1930032605008
+"Sierra Leone","Male","15 to 39","Hypertensive heart disease","Number",2019,"Prevalence",49.081826188334,189.95181399435,106.345094570893
+"Sierra Leone","Male","20 plus","Hypertensive heart disease","Number",2019,"Incidence",272.589900767416,620.512126092142,421.881620453464
+"Sierra Leone","Male","20 plus","Hypertensive heart disease","Number",2019,"Prevalence",2635.42783970907,5999.17651892616,4078.79589256426
+"Sierra Leone","Male","20 to 24","Hypertensive heart disease","Number",2019,"Incidence",1.13934648288685,5.45632983790956,2.74052128305707
+"Sierra Leone","Male","20 to 24","Hypertensive heart disease","Number",2019,"Prevalence",2.35518586572447,11.2789841422203,5.66503437498573
+"Sierra Leone","Male","20 to 54 years","Hypertensive heart disease","Number",2019,"Incidence",46.9728009759188,140.808158494073,84.1113159968377
+"Sierra Leone","Male","20 to 54 years","Hypertensive heart disease","Number",2019,"Prevalence",385.178493882888,1154.63147371125,689.715523474506
+"Sierra Leone","Male","25 plus","Hypertensive heart disease","Number",2019,"Incidence",268.40187880963,611.523704310875,415.644087677302
+"Sierra Leone","Male","25 plus","Hypertensive heart disease","Number",2019,"Prevalence",2630.22140188422,5992.66570700425,4073.13085818927
+"Sierra Leone","Male","25 to 29","Hypertensive heart disease","Number",2019,"Incidence",1.47162353096779,8.47023110094561,3.90191861811408
+"Sierra Leone","Male","25 to 29","Hypertensive heart disease","Number",2019,"Prevalence",5.54616004215869,31.9220617850685,14.7052997401501
+"Sierra Leone","Male","25 to 49","Hypertensive heart disease","Number",2019,"Incidence",26.2977353051832,86.5862872570218,50.2312573521943
+"Sierra Leone","Male","25 to 49","Hypertensive heart disease","Number",2019,"Prevalence",215.502787850378,709.551072628832,411.631491115286
+"Sierra Leone","Male","30 to 34","Hypertensive heart disease","Number",2019,"Incidence",1.95208871853785,9.40056129873653,4.80744203003944
+"Sierra Leone","Male","30 to 34","Hypertensive heart disease","Number",2019,"Prevalence",11.7308431435722,56.491546213951,28.8897465779373
+"Sierra Leone","Male","35 to 39","Hypertensive heart disease","Number",2019,"Incidence",2.40595389431303,12.6064691535121,6.08257667154472
+"Sierra Leone","Male","35 to 39","Hypertensive heart disease","Number",2019,"Prevalence",21.8629230372867,114.555089990143,55.2724247761815
+"Sierra Leone","Male","40 to 44","Hypertensive heart disease","Number",2019,"Incidence",4.91866634721092,22.5865730833835,11.3787592056391
+"Sierra Leone","Male","40 to 44","Hypertensive heart disease","Number",2019,"Prevalence",47.1605548744878,216.5618165846,109.100426831231
+"Sierra Leone","Male","45 to 49","Hypertensive heart disease","Number",2019,"Incidence",10.709482385814,37.1493406790676,21.2642830492398
+"Sierra Leone","Male","45 to 49","Hypertensive heart disease","Number",2019,"Prevalence",102.572546595949,355.806409734603,203.663593189786
+"Sierra Leone","Male","5-14 years","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","5-14 years","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","5 to 19","Hypertensive heart disease","Number",2019,"Incidence",0.291149027753101,1.89947245519224,0.874836861055748
+"Sierra Leone","Male","5 to 19","Hypertensive heart disease","Number",2019,"Prevalence",0.603236532604555,3.93554869989026,1.81258910163853
+"Sierra Leone","Male","5 to 9","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","5 to 9","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","50-69 years","Hypertensive heart disease","Number",2019,"Incidence",87.4885702273696,250.988020584263,155.387055278329
+"Sierra Leone","Male","50-69 years","Hypertensive heart disease","Number",2019,"Prevalence",901.551400668473,2586.3790083743,1601.23107473189
+"Sierra Leone","Male","50 to 54","Hypertensive heart disease","Number",2019,"Incidence",14.5201167879974,51.7397962885083,28.9600433341365
+"Sierra Leone","Male","50 to 54","Hypertensive heart disease","Number",2019,"Prevalence",136.5866625392,486.701739296415,272.418997984234
+"Sierra Leone","Male","50 to 74 years","Hypertensive heart disease","Number",2019,"Incidence",127.534540452345,355.543415141306,219.69118172356
+"Sierra Leone","Male","50 to 74 years","Hypertensive heart disease","Number",2019,"Prevalence",1339.67708261739,3734.77932684684,2307.72965789735
+"Sierra Leone","Male","55 plus","Hypertensive heart disease","Number",2019,"Incidence",197.063379733003,511.074047935148,328.648253203972
+"Sierra Leone","Male","55 plus","Hypertensive heart disease","Number",2019,"Prevalence",2032.15329827144,5270.28823711183,3389.08036908975
+"Sierra Leone","Male","55 to 59","Hypertensive heart disease","Number",2019,"Incidence",13.4028830555502,58.2468926553268,30.0003561989283
+"Sierra Leone","Male","55 to 59","Hypertensive heart disease","Number",2019,"Prevalence",130.643173841431,567.755377059853,292.425274021802
+"Sierra Leone","Male","55 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",186.100305883332,492.945755269705,314.529209665064
+"Sierra Leone","Male","55 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1933.55502257402,5121.6344671449,3267.91259266055
+"Sierra Leone","Male","60 to 64","Hypertensive heart disease","Number",2019,"Incidence",18.2644589926871,68.6354115781106,38.1690887868289
+"Sierra Leone","Male","60 to 64","Hypertensive heart disease","Number",2019,"Prevalence",187.638034638362,705.118817933132,392.126194746051
+"Sierra Leone","Male","60 to 79","Hypertensive heart disease","Number",2019,"Incidence",117.716444512362,356.942337691472,214.852719193565
+"Sierra Leone","Male","60 to 79","Hypertensive heart disease","Number",2019,"Prevalence",1280.148192711,3881.69291376951,2336.49021013204
+"Sierra Leone","Male","60 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",161.669455319594,450.504120629991,283.12508808083
+"Sierra Leone","Male","60 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1699.05612171449,4734.54792373027,2975.48731863875
+"Sierra Leone","Male","65 to 69","Hypertensive heart disease","Number",2019,"Incidence",28.5852313747632,100.415402141559,56.2159491958371
+"Sierra Leone","Male","65 to 69","Hypertensive heart disease","Number",2019,"Prevalence",327.599885943256,1150.8066475741,644.260607979799
+"Sierra Leone","Male","65 to 74","Hypertensive heart disease","Number",2019,"Incidence",61.6462055977612,214.284873347501,119.025867707795
+"Sierra Leone","Male","65 to 74","Hypertensive heart disease","Number",2019,"Prevalence",699.588924777509,2431.80131992921,1350.75919114527
+"Sierra Leone","Male","65 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",133.960030883713,402.134014815039,244.367320245138
+"Sierra Leone","Male","65 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1416.17600746815,4251.21239380916,2583.3611238927
+"Sierra Leone","Male","70 to 74","Hypertensive heart disease","Number",2019,"Incidence",29.8167991992601,115.583644623445,62.8919531695451
+"Sierra Leone","Male","70 to 74","Hypertensive heart disease","Number",2019,"Prevalence",334.94788008917,1298.41222999428,706.498583165467
+"Sierra Leone","Male","70 to 89 years","Hypertensive heart disease","Number",2019,"Incidence",98.0137720713599,320.678802004364,189.307188291311
+"Sierra Leone","Male","70 to 89 years","Hypertensive heart disease","Number",2019,"Prevalence",1003.96903945178,3284.75868254991,1939.1005159129
+"Sierra Leone","Male","70+ years","Hypertensive heart disease","Number",2019,"Incidence",109.663621900956,338.514225012415,204.129235573437
+"Sierra Leone","Male","70+ years","Hypertensive heart disease","Number",2019,"Prevalence",1106.8305938208,3416.6106699054,2060.2682923421
+"Sierra Leone","Male","75 plus","Hypertensive heart disease","Number",2019,"Incidence",73.9616247519459,250.3136311029,142.644640195445
+"Sierra Leone","Male","75 plus","Hypertensive heart disease","Number",2019,"Prevalence",701.933189312151,2375.60283454618,1353.76970917663
+"Sierra Leone","Male","75 to 79","Hypertensive heart disease","Number",2019,"Incidence",25.1864537569826,108.469272694913,56.6490120979338
+"Sierra Leone","Male","75 to 79","Hypertensive heart disease","Number",2019,"Prevalence",263.919879658522,1136.61088109128,593.604824240726
+"Sierra Leone","Male","75 to 84","Hypertensive heart disease","Number",2019,"Incidence",44.4993300164421,186.983732807718,99.4838684923656
+"Sierra Leone","Male","75 to 84","Hypertensive heart disease","Number",2019,"Prevalence",446.857816250922,1877.67192193747,999.007045954774
+"Sierra Leone","Male","75 to 94 years","Hypertensive heart disease","Number",2019,"Incidence",72.1697637980458,245.214654645591,139.480725523907
+"Sierra Leone","Male","75 to 94 years","Hypertensive heart disease","Number",2019,"Prevalence",687.813347808088,2337.01627478452,1329.31992192411
+"Sierra Leone","Male","80 plus","Hypertensive heart disease","Number",2019,"Incidence",46.0823109726143,149.788739121686,88.4654459638349
+"Sierra Leone","Male","80 plus","Hypertensive heart disease","Number",2019,"Prevalence",395.975561264887,1287.10298578814,760.164884935907
+"Sierra Leone","Male","80 to 84","Hypertensive heart disease","Number",2019,"Incidence",18.7768427687034,82.6167499614569,43.2244793245182
+"Sierra Leone","Male","80 to 84","Hypertensive heart disease","Number",2019,"Prevalence",176.10793453537,774.862173207727,405.402221714048
+"Sierra Leone","Male","85 plus","Hypertensive heart disease","Number",2019,"Incidence",23.7395212467903,80.8390713494588,47.8078492368549
+"Sierra Leone","Male","85 plus","Hypertensive heart disease","Number",2019,"Prevalence",176.161360855171,599.87396844047,354.762663221859
+"Sierra Leone","Male","85 to 89","Hypertensive heart disease","Number",2019,"Incidence",14.8086154446504,51.3342571005219,29.9820136292419
+"Sierra Leone","Male","85 to 89","Hypertensive heart disease","Number",2019,"Prevalence",115.376401702898,399.953789771024,233.594886792661
+"Sierra Leone","Male","90 to 94","Hypertensive heart disease","Number",2019,"Incidence",6.41138358016837,26.1209637474878,14.4634822967661
+"Sierra Leone","Male","90 to 94","Hypertensive heart disease","Number",2019,"Prevalence",42.87322478715,174.672118178528,96.7179891766722
+"Sierra Leone","Male","95 plus","Hypertensive heart disease","Number",2019,"Incidence",1.50626763033691,8.85082435692428,4.23306901350837
+"Sierra Leone","Male","95 plus","Hypertensive heart disease","Number",2019,"Prevalence",8.70005260712264,51.1214846357816,24.4497872525257
+"Sierra Leone","Male","All Ages","Hypertensive heart disease","Number",2019,"Incidence",273.990000998462,623.726109973543,424.063037574728
+"Sierra Leone","Male","All Ages","Hypertensive heart disease","Number",2019,"Prevalence",2636.50878029885,6001.89554164104,4080.6084816659
+"Sierra Leone","Male","Early Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","Early Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","Late Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","Late Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","Post Neonatal","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","Post Neonatal","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
+"Sierra Leone","Male","Under 5","Hypertensive heart disease","Number",2019,"Incidence",0,0,0
+"Sierra Leone","Male","Under 5","Hypertensive heart disease","Number",2019,"Prevalence",0,0,0
